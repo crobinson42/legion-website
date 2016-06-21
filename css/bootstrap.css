@@ -2828,7 +2828,7 @@ p.big {
 }
 .icon-list li:before {
   position: absolute;
-  content: '\f0c0';
+  content: '\f005';
   font-family: 'FontAwesome';
   font-size: 24px;
   color: #ffffff;
@@ -2863,13 +2863,13 @@ p.big {
   }
 }
 .icon-list li:nth-child(2):before {
-  content: '\f19c';
+  content: '\f155';
 }
 .icon-list li:nth-child(3):before {
-  content: '\f0f2';
+  content: '\f0a3';
 }
 .icon-list li:nth-child(4):before {
-  content: '\f085';
+  content: '\f058';
 }
 .icon-list li:nth-child(5):before {
   content: '\f109';
