@@ -110,7 +110,7 @@ div.sform {
   padding: 0;
 }
 .search-form_submit:before {
-  content: '\f002';
+  content: '\f090';
 }
 .search-form_submit:hover {
   color: #efb814;
@@ -137,7 +137,7 @@ div.sform {
   }
 }
 .search-form_toggle:before {
-  content: '\f002';
+  content: '\f090';
 }
 .search-form_toggle:focus {
   color: #ffffff;

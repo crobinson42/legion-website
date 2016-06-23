@@ -18,12 +18,10 @@
   <link rel="stylesheet" href="css/mailform-sub.css">
   <link rel="stylesheet" href="css/search.css">
 
-
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
   <script src="js/rd-smoothscroll.min.js"></script>
-  <script src="http://localhost:35729/livereload.js"></script>
 
   <!-- dev -->
   <script src="http://localhost:35729/livereload.js"></script>
@@ -41,145 +39,18 @@
 </head>
 <body>
 <div class="page">
-  <!--========================================================
-                            HEADER
-  =========================================================-->
-  <header>
-    <div id="stuck_container" class="stuck_container">
-      <nav class="navbar navbar-default navbar-static-top ">
-        <div class="container">
-          <div class="navbar-header">
-            <h1 class="navbar-brand">
-              <a data-type='rd-navbar-brand' href="./">
-                <img src="images/roman-helmet yellow 32px.png" style="padding-bottom: 12px;"/>
-                Legion<span>Security</span>
-              </a>
-            </h1>
-          </div>
 
-          <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
-            <li class="active dropdown">
-              <a href="./">Home</a>
-              <ul class="dropdown-menu">
-                <li><a href="index-6.html">Components</a></li>
-                <li><a href="index-7.html">Footer light</a></li>
-                <li><a href="index-8.html">Footer dark</a></li>
-                <li><a href="index-9.html">Footer primary</a></li>
-                <li><a href="index-14.html">Header light</a></li>
-                <li><a href="index-10.html">Header transparent</a></li>
-                <li><a href="index-11.html">Header  background</a></li>
-                <li><a href="index-12.html">Onepage template</a></li>
-                <li><a href="index-13.html">Coming soon</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="index-1.html">About</a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a href="#">Aliuam congu </a>
-                </li>
-                <li>
-                  <a href="#">Ferentum nisl </a>
-                </li>
-                <li>
-                  <a href="#">Mauris accan </a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="#">Aliuam congu</a>
-                    </li>
-                    <li>
-                      <a href="#">Ferentum nisl</a>
-                    </li>
-                    <li>
-                      <a href="#">Mauris accan </a>
-                    </li>
-                    <li>
-                      <a href="#">Nullavel diam</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#">Nullavel diam</a>
-                </li>
+<?php
+  include dirname(__FILE__) .'/html_partials/header/header_transparent.php';
+?>
 
-              </ul>
-            </li>
-            <li>
-              <a href="index-2.html">Services</a>
-            </li>
-            <li>
-              <a href="index-3.html">Projects</a>
-            </li>
 
-            <li>
-              <a href="index-4.html">Contacts</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
+<?php
+  include dirname(__FILE__) . '/html_partials/sections/camera_carousel.php';
+?>
 
-      <section>
-        <div class="container">
-          <div class="sform">
-            <a class="search-form_toggle" href="#"></a>
 
-            <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
-              <label class="search-form_label">
-                <input class="search-form_input" type="text" name="s" autocomplete="off"
-                       placeholder="Search"/>
-                <span class="search-form_liveout"></span>
-              </label>
-              <button class="search-form_submit fa-search" type="submit"></button>
-            </form>
-          </div>
-        </div>
-      </section>
-
-    </div>
-
-    <section class="camera_container">
-      <div class="jumbotron text-center">
-        <div class="container">
-          <p class="head">
-            We are the leaders
-              <span>
-                in the security industry
-              </span>
-          </p>
-
-          <p class="ins1">
-            Sed eleifend ornare metus, non rhoncus elit ultrices quis. Curabitur et metus ac sapien dictum
-            tempus. Nam blandit sed ligula fa
-            ucibus elementum. Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum
-            sollicitudin felis. Vestibulum tristique urna ex, eu vehicula magna mattis maximus. Aliquam ut
-            leo
-            ultricies
-          </p>
-          <!-- <a href="#" class="btn-link">Read More</a> -->
-        </div>
-      </div>
-      <div id="camera" class="camera_wrap">
-        <div data-src="images/slide3.jpg">
-          <div class="camera_caption fadeIn">
-
-          </div>
-        </div>
-        <div data-src="images/slide2.jpg">
-          <div class="camera_caption fadeIn">
-
-          </div>
-        </div>
-        <div data-src="images/slide1.jpg">
-          <div class="camera_caption fadeIn">
-
-          </div>
-        </div>
-      </div>
-    </section>
-
-  </header>
-
-  <!--========================================================
+    <!--========================================================
                             CONTENT
   =========================================================-->
 
@@ -242,7 +113,7 @@
       </div>
     </section>
 
-    <section class="well well2 parallax text-center" data-url="images/parallax1.jpg" data-mobile="true"
+    <section class="well well2 parallax text-center" data-url="images/chain_fence.jpg" data-mobile="true"
              data-speed="0.6">
       <div class="container">
         <h2 class="fw-l">
@@ -260,6 +131,7 @@
     <section class="ang_block bg-primary text-center wow fadeIn" data-wow-duration="1.5s">
       <div class="container">
         <div class="row">
+
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
@@ -267,17 +139,17 @@
             </em>
 
             <p>
-              clients
+              properties
             </p>
           </div>
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
-              23
+              24
             </em>
 
             <p>
-              security profressionals
+              security professionals
             </p>
           </div>
           <div class="col-md-3 col-sm-3 col-xs-6">
@@ -305,6 +177,10 @@
     </section>
 
     <section class="well well3">
+
+      <!-- in page anchor -->
+      <a name="services"></a>
+
       <div class="container">
         <h3 class="text-center">
           Our Services
@@ -381,13 +257,16 @@
       </div>
     </section>
 
-    <section class="well well4 parallax text-center" data-url="images/parallax2.jpg" data-mobile="true"
+    <section class="well well4 parallax text-center" data-url="images/apartments_parralax_edited.jpg" data-mobile="true"
              data-speed="0.6">
       <div class="container">
         <h2>
-          We are ready to start<br/>
-          making your area more safe
+          We are ready to start making<br/>
+          your community more safe
         </h2>
+
+        <!-- in page anchor -->
+        <a name="whyus"></a>
 
         <p class="white ins1">
           Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum sollicitudin feli
@@ -398,6 +277,7 @@
     </section>
 
     <section class="well well5">
+
       <div class="container">
         <h3 class="text-center">
           Why Choose Us?
@@ -493,6 +373,10 @@
     </section>
 
     <section class="well well6 bg-primary">
+
+      <!-- in page anchor -->
+      <a name="newsletter"></a>
+
       <div class="container">
         <div class="mailform-sub">
 
@@ -522,147 +406,14 @@
       </div>
     </section>
 
-    <div class="map">
-      <div id="google-map" class="map_model"></div>
-      <ul class="map_locations">
-        <li data-x="-121.4179191" data-y="38.6170418">
-          <p>
-            <strong>Legion Security</strong></br>
-            2821 Howe Ave Sacramento, CA <br/>
-            <span><a href="tel:+19162779006">916-277-9006</a></span>
-          </p>
-        </li>
-      </ul>
-    </div>
+    <?php include dirname(__FILE__) . '/html_partials/sections/google_map.php'; ?>
 
   </main>
 
-  <!--========================================================
-                          FOOTER
-=========================================================-->
-  <footer>
+<?php
+  include('./html_partials/footer.php');
+?>
 
-    <section class="well_foot-1 bg1">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-12">
-
-            <h4>about us</h4>
-
-            <p>
-              Sed eleifend ornare metus, non rhoncus elit ultrices quis. Curabitur et metus ac sapien dictum tempus. Nam
-              blandit sed ligula faucibus element um. Sed sed consequat nisi. Etiam mauris massa
-              <br/>
-              <br/>
-              Sodales lobort dictum sollicitudin felis. Vestibulum tristique urna
-            </p>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-12">
-
-            <h4>Flickr Widget</h4>
-
-            <div class="img_flt">
-              <img src="images/page-1_img8.jpg" alt=""/>
-              <img src="images/page-1_img9.jpg" alt=""/>
-              <img src="images/page-1_img10.jpg" alt=""/>
-              <img src="images/page-1_img11.jpg" alt=""/>
-              <img src="images/page-1_img12.jpg" alt=""/>
-              <img src="images/page-1_img13.jpg" alt=""/>
-            </div>
-          </div>
-
-          <div class="col-md-3 col-sm-6 col-xs-12 clear-md">
-
-            <h4>Categories</h4>
-
-            <div class="categ">
-              <div>
-                <a href="#"> Sed eleifend </a>
-              </div>
-              <div>
-                <a href="#">Penareme</a>
-              </div>
-              <div>
-                <a href="#">Metus no</a>
-              </div>
-              <div>
-                <a href="#">tusnon </a>
-              </div>
-              <div>
-                <a href="#">rhoncus elit </a>
-              </div>
-              <div>
-                <a href="#">Curabitu</a>
-              </div>
-              <div>
-                <a href="#">elit ultrices</a>
-              </div>
-              <div>
-                <a href="#">ultrices quis</a>
-              </div>
-              <div>
-                <a href="#">Curabitur et us</a>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <h4>
-              Follow us
-            </h4>
-            <ul class="link-list">
-              <li>
-                <a href="#">
-                  <span class="icon fa-google-plus"></span>
-                  Google +
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-twitter"></span>
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-facebook"></span>
-                  Facebook
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-linkedin"></span>
-                  LinkedIn
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-rss"></span>
-                  RSS
-                </a>
-              </li>
-            </ul>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-
-    <section class="well_foot-2">
-      <div class="container">
-        <div class="rights">
-          <h1>
-            <img src="images/roman-helmet 32px.png" style="padding-bottom: 8px;"/>
-            Legion<span class="legion-text-alternate">Security</span>
-          </h1> &#169; <span id="copyright-year"></span>&nbsp;
-          <a href="index-5.html">Privacy Policy</a>
-          <!-- {%FOOTER_LINK} -->
-        </div>
-      </div>
-    </section>
-  </footer>
 </div>
 
 
