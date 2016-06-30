@@ -13,6 +13,7 @@
   <link href="css/bootstrap.css" rel="stylesheet">
 
   <!-- Links -->
+  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/search.css">
 
   <!--JS-->
@@ -57,7 +58,7 @@
 
               <h6>
                 <a href="#">
-                  Lacinia estroin dictu
+                  Armed / Unarmed Guard
                 </a>
               </h6>
 
@@ -70,7 +71,7 @@
 
               <h6>
                 <a href="#">
-                  Dictum lementum
+                  Random Vehicle Patrol
                 </a>
               </h6>
 
@@ -83,7 +84,7 @@
 
               <h6>
                 <a href="#">
-                  Donec eget tellus non
+                  Dispatch & Alarm Response
                 </a>
               </h6>
 
@@ -96,7 +97,7 @@
 
               <h6>
                 <a href="#">
-                  Proin dictum lementu
+                  Camera Monitoring
                 </a>
               </h6>
 
@@ -109,7 +110,7 @@
 
               <h6>
                 <a href="#">
-                  Scelerisque vitae
+                  Facility Access Control
                 </a>
               </h6>
 
@@ -122,7 +123,7 @@
 
               <h6>
                 <a href="#">
-                  Lacinia fermentum
+                  Special Event
                 </a>
               </h6>
 
@@ -136,7 +137,7 @@
       </div>
     </section>
 
-    <section class="well well4 parallax text-center" data-url="images/parallax3-1.jpg" data-mobile="true"
+    <section class="well well4 parallax text-center" data-url="images/header_uniforms_edited.jpg" data-mobile="true"
              data-speed="0.6">
       <div class="container">
         <h2>
@@ -148,7 +149,7 @@
           Aliquam ut leo ultricies odio commodo porta. Pellentesque in nunc egestas vulputate nisl
           et ultrices augue. Nullam semper orci non ligula pharetra vulputate
         </p>
-        <a href="#" class="btn btn-primary">Learn More</a>
+        <!-- <a href="#" class="btn btn-primary">Learn More</a> -->
       </div>
     </section>
 
@@ -161,9 +162,9 @@
         <div class="row">
           <div class="col-md-6 col-sm-6 col-xs-12">
 
-            <h6>Vivamus pretium risus id tellus congue venenatis</h6>
+            <h6>Random Vehicle Patrol</h6>
 
-            <p>Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis
+            <p><strong>This is our flagship service..</strong> Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis
               lectus mattis. Integer mattis tempus neque, eget tincidunt nibh tincidunt ac. Maecenas
               feugiat lorem ut nibh maximus tempus. Vestibulum facilisis ligula urna, vitae cursus tortor
               malesuada eu. Morbi quis lectus non
@@ -177,7 +178,7 @@
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
 
-            <h6>Mauris dui urna ultrices eu nisi ac consequat porttitor turpis</h6>
+            <h6>Camera Monitoring & Alarm Dispatch Response</h6>
 
             <p>Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Integer mattis
               tempus neque, eget tincidunt nibh tincidunt ac. Maecenas feugiat lorem ut nibh maximus
@@ -196,19 +197,19 @@
       </div>
     </section>
 
-    <section class="well well4 parallax text-center" data-url="images/parallax3-2.jpg" data-mobile="true"
-             data-speed="0.6">
+    <section class="well well4 parallax text-center" data-url="images/parallax-gate_edited.jpg" data-mobile="true"
+             data-speed="0.6" >
       <div class="container">
-        <h2>
-          We accomplish<br/>
-          individual projects
+        <h2 class="caption caption-transparent">
+          We make<br/>
+          your community safe
         </h2>
 
         <p class="white ins1">
           Nullam semper orci non ligula pharetra vulputate. Nullam maximus purus eu dui mole
           stie, aliquam dictum ipsum ultrices. Class aptent taciti sociosqu ad
         </p>
-        <a href="#" class="btn btn-primary">Learn More</a>
+        <!-- <a href="#" class="btn btn-primary">Learn More</a> -->
       </div>
     </section>
 
@@ -221,7 +222,7 @@
         <div class="row col-3_mod">
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
 
-            <h6>Risus id tellus congue venenatis</h6>
+            <h6>100% Commitment to Everything We Do</h6>
 
             <p>Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis
               lectus mattis. Integer mattis tempus neque, eget tincidunt nibh tincidunt ac.
@@ -232,35 +233,33 @@
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
             <ul class="marked-list wow fadeInRight" data-wow-delay=".3s">
-              <li><a href="#">Sed libero purus vulputate</a></li>
-              <li><a href="#">Lorem ipsum dolor sed leoraesent</a></li>
-              <li><a href="#">Pestibulum molestieenean nonu</a></li>
-              <li><a href="#">Hendreritivamus eget nibh vel metus</a></li>
-              <li><a href="#">Etiam cursus leo psum</a></li>
-              <li><a href="#">Nulla facilisii primis neclaoreet</a></li>
-              <li><a href="#">Aenean nec eros luctus</a></li>
+              <li><a href="#">Armed Guard</a></li>
+              <li><a href="#">Unarmed Guard</a></li>
+              <li><a href="#">Facilities Lock-up/Un-lock</a></li>
+              <li><a href="#">Vacation Watch</a></li>
+              <li><a href="#">Health & Welfare Inspection</a></li>
+              <li><a href="#">Random Vehicle Patrol</a></li>
+              <li><a href="#">Parking Enforcement & Towing</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
             <ul class="marked-list wow fadeInRight" data-wow-delay=".6s">
-              <li><a href="#">Sed libero purus vulputate</a></li>
-              <li><a href="#">Lorem ipsum dolor sed leoraesent</a></li>
-              <li><a href="#">Pestibulum molestieenean nonu</a></li>
-              <li><a href="#">Hendreritivamus eget nibh vel metus</a></li>
-              <li><a href="#">Etiam cursus leo psum</a></li>
-              <li><a href="#">Nulla facilisii primis neclaoreet</a></li>
-              <li><a href="#">Aenean nec eros luctus</a></li>
+              <li><a href="#">Remote Camera Monitoring</a></li>
+              <li><a href="#">Alarm Response</a></li>
+              <li><a href="#">Alarm Dispatch</a></li>
+              <li><a href="#">Special Event Security</a></li>
+              <li><a href="#">Crowd Control</a></li>
+              <li><a href="#">Facility Access Control</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
             <ul class="marked-list wow fadeInRight" data-wow-delay=".9s">
-              <li><a href="#">Sed libero purus vulputate</a></li>
-              <li><a href="#">Lorem ipsum dolor sed leoraesent</a></li>
-              <li><a href="#">Pestibulum molestieenean nonu</a></li>
-              <li><a href="#">Hendreritivamus eget nibh vel metus</a></li>
-              <li><a href="#">Etiam cursus leo psum</a></li>
-              <li><a href="#">Nulla facilisii primis neclaoreet</a></li>
-              <li><a href="#">Aenean nec eros luctus</a></li>
+              <li><a href="#">VIP Escort & Protection</a></li>
+              <li><a href="#">Estate Perimeter Security</a></li>
+              <li><a href="#">Special Vehicle Escort</a></li>
+              <li><a href="#">Employee Termination Standby</a></li>
+              <li><a href="#">Eviction Notice Service</a></li>
+              <li><a href="#">Civil Standby Protection</a></li>
             </ul>
           </div>
         </div>

@@ -3,7 +3,7 @@
     <a href="/">Home</a>
     <ul class="dropdown-menu">
       <li><a href="/index.php#services">Services</a></li>
-      <li><a href="/index.php#whyus">Why Chose Us</a></li>
+      <li><a href="/index.php#whyus">Why Choose Us</a></li>
       <li><a href="/index.php#newsletter">Newsletter</a></li>
     </ul>
   </li>
@@ -47,6 +47,6 @@
   </li>
 
   <li>
-    <a href="index-4.html">Contact</a>
+    <a href="contact-us.php">Contact</a>
   </li>
 </ul>
