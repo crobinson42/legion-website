@@ -190,7 +190,7 @@
 
           <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".7s">
             <div class="thumbnail thumbnail4">
-              <img src="http://placehold.it/370x199/deb629/036601?text=picture of guard">
+              <img src="images/uniform_370x200.jpg">
 
               <div class="caption">
                 <h6>
@@ -212,7 +212,7 @@
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".5s">
             <div class="thumbnail thumbnail4">
-              <img src="http://placehold.it/370x199/deb629/036601?text=legion patrol vehicle">
+              <img src="images/patrol_370x200.jpg">
 
               <div class="caption">
                 <h6>
@@ -233,7 +233,7 @@
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".3s">
             <div class="thumbnail thumbnail4">
-              <img src="http://placehold.it/370x199/deb629/036601?text=cam/dispatch station">
+              <img src="images/camera_monitoring_370x200.jpg">
 
               <div class="caption">
                 <h6>

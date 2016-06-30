@@ -13,6 +13,14 @@
   color: #00591B !important;
 }
 
+/* about-us parallax2-1 used..*/
+.caption.caption-transparent {
+  background-color: rgba(32, 32, 32, 0.43);
+  padding: 5px;
+  border-radius: 2px;
+}
+
+
 /*
 
     /.Legion styles

@@ -35,102 +35,8 @@
 </head>
 <body>
 <div class="page">
-  <!--========================================================
-                            HEADER
-  =========================================================-->
 
-  <header class="head1">
-    <div id="stuck_container" class="stuck_container">
-      <nav class="navbar navbar-default navbar-static-top ">
-        <div class="container">
-          <div class="navbar-header">
-            <h1 class="navbar-brand">
-              <a data-type='rd-navbar-brand' href="./">Constr<span>ex</span></a>
-            </h1>
-          </div>
-
-          <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
-            <li class="dropdown">
-              <a href="./">Home</a>
-              <ul class="dropdown-menu">
-                <li><a href="index-6.html">Components</a></li>
-                <li><a href="index-7.html">Footer light</a></li>
-                <li><a href="index-8.html">Footer dark</a></li>
-                <li><a href="index-9.html">Footer primary</a></li>
-                <li><a href="index-14.html">Header light</a></li>
-                <li><a href="index-10.html">Header transparent</a></li>
-                <li><a href="index-11.html">Header  background</a></li>
-                <li><a href="index-12.html">Onepage template</a></li>
-                <li><a href="index-13.html">Coming soon</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="index-1.html">About</a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a href="#">Aliuam congu </a>
-                </li>
-                <li>
-                  <a href="#">Ferentum nisl </a>
-                </li>
-                <li>
-                  <a href="#">Mauris accan </a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="#">Aliuam congu</a>
-                    </li>
-                    <li>
-                      <a href="#">Ferentum nisl</a>
-                    </li>
-                    <li>
-                      <a href="#">Mauris accan </a>
-                    </li>
-                    <li>
-                      <a href="#">Nullavel diam</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#">Nullavel diam</a>
-                </li>
-
-              </ul>
-            </li>
-            <li>
-              <a href="index-2.html">Services</a>
-            </li>
-            <li class="active">
-              <a href="index-3.html">Projects</a>
-            </li>
-
-            <li>
-              <a href="index-4.html">Contacts</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-
-      <section>
-        <div class="container">
-          <div class="sform">
-            <a class="search-form_toggle" href="#"></a>
-
-            <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
-              <label class="search-form_label">
-                <input class="search-form_input" type="text" name="s" autocomplete="off"
-                       placeholder="Search"/>
-                <span class="search-form_liveout"></span>
-              </label>
-              <button class="search-form_submit fa-search" type="submit"></button>
-            </form>
-          </div>
-        </div>
-      </section>
-
-    </div>
-
-  </header>
-
+<?php include './html_partials/header/header_legion.php'; ?>
   <!--========================================================
                             CONTENT
   =========================================================-->
@@ -143,9 +49,9 @@
         <div class="resp-tabs">
           <ul class="resp-tabs-list">
             <li>show all</li>
-            <li>first category</li>
-            <li>second category</li>
-            <li>third category</li>
+            <li>Property Management</li>
+            <li>Private Sector</li>
+            <li>Public Sector</li>
           </ul>
           <div class="resp-tabs-container">
 
@@ -153,15 +59,69 @@
               <div class="row col-4_mod-1">
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="1" href="images/page-4_img1_original.jpg">
-                      <img src="images/page-4_img1.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="1" href="http://placehold.it/370x280/deb629/036601?text=Multi-Family Housing">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Multi-Family Housing" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Donec eget tellus non erat
+                          Multi-Family Housing
+                        </a>
+                      </h6>
+
+                      <p>
+                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
+                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
+                        Integer
+                      </p>
+                      <a href="#" class="btn-link">
+                        <span class="fst" data-txt="Read More"></span>
+                        <span class="snd" data-txt="Read More"></span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="thumbnail thumbnail4">
+                    <a class="thumb" data-fancybox-group="1" href="http://placehold.it/370x280/deb629/036601?text=Financial">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Financial" alt=""/>
+                      <span class="thumb_overlay"></span>
+                    </a>
+
+                    <div class="caption">
+                      <h6>
+                        <a href="#">
+                          Financial
+                        </a>
+                      </h6>
+
+                      <p>
+                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
+                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
+                        Integer
+                      </p>
+                      <a href="#" class="btn-link">
+                        <span class="fst" data-txt="Read More"></span>
+                        <span class="snd" data-txt="Read More"></span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="thumbnail thumbnail4">
+                    <a class="thumb" data-fancybox-group="1" href="http://placehold.it/370x280/deb629/036601?text=Government">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Government" alt=""/>
+                      <span class="thumb_overlay"></span>
+                    </a>
+
+                    <div class="caption">
+                      <h6>
+                        <a href="#">
+                          Government
                         </a>
                       </h6>
 
@@ -179,15 +139,15 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="1" href="images/page-4_img2_original.jpg">
-                      <img src="images/page-4_img2.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="1" href="http://placehold.it/370x280/deb629/036601?text=Industrial">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Industrial" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Lacinia fermentum
+                          Industrial
                         </a>
                       </h6>
 
@@ -205,15 +165,15 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="1" href="images/page-4_img3_original.jpg">
-                      <img src="images/page-4_img3.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="1" href="http://placehold.it/370x280/deb629/036601?text=Maritime">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Maritime" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Donec in velit vel ipsum
+                          Maritime
                         </a>
                       </h6>
 
@@ -231,150 +191,15 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="1" href="images/page-4_img4_original.jpg">
-                      <img src="images/page-4_img4.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="1" href="http://placehold.it/370x280/deb629/036601?text=Concert">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Concert" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Proin dictum elementum
-                        </a>
-                      </h6>
-
-                      <p>
-                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
-                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
-                        Integer
-                      </p>
-                      <a href="#" class="btn-link">
-                        <span class="fst" data-txt="Read More"></span>
-                        <span class="snd" data-txt="Read More"></span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="1" href="images/page-4_img5_original.jpg">
-                      <img src="images/page-4_img5.jpg" alt=""/>
-                      <span class="thumb_overlay"></span>
-                    </a>
-
-                    <div class="caption">
-                      <h6>
-                        <a href="#">
-                          Fusce euismod consequa
-                        </a>
-                      </h6>
-
-                      <p>
-                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
-                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
-                        Integer
-                      </p>
-                      <a href="#" class="btn-link">
-                        <span class="fst" data-txt="Read More"></span>
-                        <span class="snd" data-txt="Read More"></span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="1" href="images/page-4_img6_original.jpg">
-                      <img src="images/page-4_img6.jpg" alt=""/>
-                      <span class="thumb_overlay"></span>
-                    </a>
-
-                    <div class="caption">
-                      <h6>
-                        <a href="#">
-                          Vestibulum iaculis lacinia est
-                        </a>
-                      </h6>
-
-                      <p>
-                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
-                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
-                        Integer
-                      </p>
-                      <a href="#" class="btn-link">
-                        <span class="fst" data-txt="Read More"></span>
-                        <span class="snd" data-txt="Read More"></span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div>
-              <div class="row">
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="2" href="images/page-4_img5_original.jpg">
-                      <img src="images/page-4_img5.jpg" alt=""/>
-                      <span class="thumb_overlay"></span>
-                    </a>
-
-                    <div class="caption">
-                      <h6>
-                        <a href="#">
-                          Fusce euismod consequa
-                        </a>
-                      </h6>
-
-                      <p>
-                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
-                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
-                        Integer
-                      </p>
-                      <a href="#" class="btn-link">
-                        <span class="fst" data-txt="Read More"></span>
-                        <span class="snd" data-txt="Read More"></span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="2" href="images/page-4_img6_original.jpg">
-                      <img src="images/page-4_img6.jpg" alt=""/>
-                      <span class="thumb_overlay"></span>
-                    </a>
-
-                    <div class="caption">
-                      <h6>
-                        <a href="#">
-                          Vestibulum iaculis lacinia est
-                        </a>
-                      </h6>
-
-                      <p>
-                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
-                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
-                        Integer
-                      </p>
-                      <a href="#" class="btn-link">
-                        <span class="fst" data-txt="Read More"></span>
-                        <span class="snd" data-txt="Read More"></span>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-md-4 col-sm-6 col-xs-12">
-                  <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="2" href="images/page-4_img3_original.jpg">
-                      <img src="images/page-4_img3.jpg" alt=""/>
-                      <span class="thumb_overlay"></span>
-                    </a>
-
-                    <div class="caption">
-                      <h6>
-                        <a href="#">
-                          Fusce euismod consequa
+                          Concert
                         </a>
                       </h6>
 
@@ -397,15 +222,15 @@
               <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="3" href="images/page-4_img4_original.jpg">
-                      <img src="images/page-4_img4.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="2" href="http://placehold.it/370x280/deb629/036601?text=Parks & Recreation">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Parks & Recreation" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Proin dictum elementum
+                          Parks & Recreation
                         </a>
                       </h6>
 
@@ -423,15 +248,15 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="3" href="images/page-4_img5_original.jpg">
-                      <img src="images/page-4_img5.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="2" href="http://placehold.it/370x280/deb629/036601?text=Office Complex">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Office Complex" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Fusce euismod consequa
+                          Office Complex
                         </a>
                       </h6>
 
@@ -449,15 +274,15 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="3" href="images/page-4_img6_original.jpg">
-                      <img src="images/page-4_img6.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="2" href="http://placehold.it/370x280/deb629/036601?text=Energy">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Energy" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Proin dictum elementum
+                          Energy
                         </a>
                       </h6>
 
@@ -480,15 +305,15 @@
               <div class="row">
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="4" href="images/page-4_img2_original.jpg">
-                      <img src="images/page-4_img2.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="2" href="http://placehold.it/370x280/deb629/036601?text=Railroad">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Railroad" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Lacinia fermentum
+                          Railroad
                         </a>
                       </h6>
 
@@ -506,15 +331,98 @@
                 </div>
                 <div class="col-md-4 col-sm-6 col-xs-12">
                   <div class="thumbnail thumbnail4">
-                    <a class="thumb" data-fancybox-group="4" href="images/page-4_img3_original.jpg">
-                      <img src="images/page-4_img3.jpg" alt=""/>
+                    <a class="thumb" data-fancybox-group="2" href="http://placehold.it/370x280/deb629/036601?text=Airport">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Airport" alt=""/>
                       <span class="thumb_overlay"></span>
                     </a>
 
                     <div class="caption">
                       <h6>
                         <a href="#">
-                          Donec in velit vel ipsum
+                          Airport
+                        </a>
+                      </h6>
+
+                      <p>
+                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
+                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
+                        Integer
+                      </p>
+                      <a href="#" class="btn-link">
+                        <span class="fst" data-txt="Read More"></span>
+                        <span class="snd" data-txt="Read More"></span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="thumbnail thumbnail4">
+                    <a class="thumb" data-fancybox-group="3" href="http://placehold.it/370x280/deb629/036601?text=Public Transportation">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Public Transportation" alt=""/>
+                      <span class="thumb_overlay"></span>
+                    </a>
+
+                    <div class="caption">
+                      <h6>
+                        <a href="#">
+                          Public Transportation
+                        </a>
+                      </h6>
+
+                      <p>
+                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
+                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
+                        Integer
+                      </p>
+                      <a href="#" class="btn-link">
+                        <span class="fst" data-txt="Read More"></span>
+                        <span class="snd" data-txt="Read More"></span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div>
+              <div class="row">
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="thumbnail thumbnail4">
+                    <a class="thumb" data-fancybox-group="4" href="http://placehold.it/370x280/deb629/036601?text=Technology & Data">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Technology & Data" alt=""/>
+                      <span class="thumb_overlay"></span>
+                    </a>
+
+                    <div class="caption">
+                      <h6>
+                        <a href="#">
+                          Technology & Data
+                        </a>
+                      </h6>
+
+                      <p>
+                        Rutrum dui a varius. Mauris ornare tortor in eleifend blanditu. Quisque
+                        suscipit lacus vestibulum odio rhonc us, non iaculis lectus mattis.
+                        Integer
+                      </p>
+                      <a href="#" class="btn-link">
+                        <span class="fst" data-txt="Read More"></span>
+                        <span class="snd" data-txt="Read More"></span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12">
+                  <div class="thumbnail thumbnail4">
+                    <a class="thumb" data-fancybox-group="4" href="http://placehold.it/370x280/deb629/036601?text=Hospitality">
+                      <img src="http://placehold.it/370x280/deb629/036601?text=Hospitality" alt=""/>
+                      <span class="thumb_overlay"></span>
+                    </a>
+
+                    <div class="caption">
+                      <h6>
+                        <a href="#">
+                          Hospitality
                         </a>
                       </h6>
 
@@ -537,12 +445,12 @@
       </div>
     </section>
 
-    <section class="well well4 parallax text-center" data-url="images/parallax4-1.jpg" data-mobile="true"
+    <section class="well well4 parallax text-center" data-url="images/parallax_legion-1.jpg" data-mobile="true"
              data-speed="0.6">
       <div class="container">
         <h2>
           Managing<br/>
-          projects of any complexity
+          projects of any size
         </h2>
 
         <p class="white ins1">
@@ -556,18 +464,18 @@
     <section class="well well7">
       <div class="container">
         <h3 class="text-center">
-          Last Added Projects
+          Recent Contract Awards
         </h3>
 
         <div class="row">
 
           <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".3s">
             <div class="thumbnail thumbnail6">
-              <img src="images/page-4_img7.jpg" alt="">
+              <img src="http://placehold.it/570x280/deb629/036601?text=Quest Media Logo" alt="">
 
               <div class="caption">
                 <h6>
-                  Fusce interdum metus et turpis ornare sed
+                  Quest Media Technologies
                 </h6>
 
                 <p>
@@ -585,11 +493,11 @@
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".6s">
             <div class="thumbnail thumbnail6">
-              <img src="images/page-4_img8.jpg" alt="">
+              <img src="http://placehold.it/570x280/deb629/036601?text=Mutual Housing Logo" alt="">
 
               <div class="caption">
                 <h6>
-                  Interdum vitae dapibus pulvinar
+                  Sacramento Mutual Housing
                 </h6>
 
                 <p>
@@ -611,130 +519,8 @@
 
   </main>
 
-  <!--========================================================
-                          FOOTER
-=========================================================-->
-  <footer>
+<?php include './html_partials/footer.php'; ?>
 
-    <section class="well_foot-1 bg1">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-12">
-
-            <h4>about us</h4>
-
-            <p>
-              Sed eleifend ornare metus, non rhoncus elit ultrices quis. Curabitur et metus ac sapien
-              dictum tempus. Nam blandit sed ligula faucibus element um. Sed sed consequat nisi. Etiam
-              mauris massa
-              <br/>
-              <br/>
-              Sodales lobort dictum sollicitudin felis. Vestibulum tristique urna
-            </p>
-          </div>
-          <div class="col-md-3 col-sm-6 col-xs-12">
-
-            <h4>Flickr Widget</h4>
-
-            <div class="img_flt">
-              <img src="images/page-1_img8.jpg" alt=""/>
-              <img src="images/page-1_img9.jpg" alt=""/>
-              <img src="images/page-1_img10.jpg" alt=""/>
-              <img src="images/page-1_img11.jpg" alt=""/>
-              <img src="images/page-1_img12.jpg" alt=""/>
-              <img src="images/page-1_img13.jpg" alt=""/>
-            </div>
-          </div>
-
-          <div class="col-md-3 col-sm-6 col-xs-12 clear-md">
-
-            <h4>Categories</h4>
-
-            <div class="categ">
-              <div>
-                <a href="#"> Sed eleifend </a>
-              </div>
-              <div>
-                <a href="#">Penareme</a>
-              </div>
-              <div>
-                <a href="#">Metus no</a>
-              </div>
-              <div>
-                <a href="#">tusnon </a>
-              </div>
-              <div>
-                <a href="#">rhoncus elit </a>
-              </div>
-              <div>
-                <a href="#">Curabitu</a>
-              </div>
-              <div>
-                <a href="#">elit ultrices</a>
-              </div>
-              <div>
-                <a href="#">ultrices quis</a>
-              </div>
-              <div>
-                <a href="#">Curabitur et us</a>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="col-md-3 col-sm-6 col-xs-12">
-            <h4>
-              Follow us
-            </h4>
-            <ul class="link-list">
-              <li>
-                <a href="#">
-                  <span class="icon fa-google-plus"></span>
-                  Google +
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-twitter"></span>
-                  Twitter
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-facebook"></span>
-                  Facebook
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-linkedin"></span>
-                  LinkedIn
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <span class="icon fa-rss"></span>
-                  RSS
-                </a>
-              </li>
-            </ul>
-          </div>
-
-        </div>
-      </div>
-    </section>
-
-
-    <section class="well_foot-2">
-      <div class="container">
-        <div class="rights">
-          <h1>Constr<span>ex</span></h1> &#169; <span id="copyright-year"></span>&nbsp;
-          <a href="index-5.html">Privacy Policy</a>
-        </div>
-      </div>
-    </section>
-
-  </footer>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

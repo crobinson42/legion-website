@@ -14,7 +14,7 @@
         <a href="/about-us.php">About Us </a>
       </li>
       <li>
-        <a href="#">Our Team </a>
+        <a href="/about-us.php#ourteam">Our Team </a>
       </li>
       <li>
         <a href="#">CEO </a>

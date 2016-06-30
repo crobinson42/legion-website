@@ -52,19 +52,19 @@
             <h3 class="text-center">
               A Few Words About Us
             </h3>
-            <img class="wow fadeInLeft" data-wow-duration="2s" src="images/page-2_img1.jpg" alt="">
+            <img class="wow fadeInLeft" data-wow-duration="2s" src="//placehold.it/370x250/deb629/036601?text=3 uniforms smiling" alt="">
             <h6>
-              Vestibulum iaculis lacinia est
+              We know you rely on us
             </h6>
 
             <p>
-              Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam
-              egestda. Sedquis
-              rra enim. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditu
+              When all of our clients have full confidence in us, we know we are
+              doing something right. We strive to be the best and most reliable
+              security vendor you'll find!
               <br/>
               <br/>
-              Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Integer mattis
-              tempus neque, eget tincidunt nibh tincidunt ac. Maecenas feugi
+              Communication is the key to our success in making your property
+              more safe. If we don't stay in contact ... blah blah...
             </p>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
@@ -74,11 +74,11 @@
 
             <article class='media'>
               <div class="media-left text-center h6">
-                <time datetime='2015'>2010 -</time>
+                <time datetime='2015'>2015 -</time>
               </div>
               <div class="media-body">
                 <p>
-                  Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditu.
+                  Legion Services, Inc. is born. Mauris ornare tortor in eleifend blanditu.
                   Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Integer
                   mattis tempus neque, eget tincidunt nibh tincidunt ac.
                 </p>
@@ -87,11 +87,11 @@
 
             <article class='media'>
               <div class="media-left text-center h6">
-                <time datetime='2015'>2012 -</time>
+                <time datetime='2015'>2016 -</time>
               </div>
               <div class="media-body">
                 <p>
-                  Ernare tortor in eleifend blanditu. Quisque suscipit lacus vestibulum odio rhoncus,
+                  Legion continues to grow. Quisque suscipit lacus vestibulum odio rhoncus,
                   non iaculis lectus mattis. Integer mattis tempus neque, eget tincidunt nibh
                 </p>
               </div>
@@ -99,27 +99,12 @@
 
             <article class='media'>
               <div class="media-left text-center h6">
-                <time datetime='2015'>2013 -</time>
+                <time datetime='2015'>201? -</time>
               </div>
               <div class="media-body">
 
                 <p>
-                  Integer mattis tempus neque, eget tincidunt nibh tincidunt ac. Maecenas feugiat
-                  lorem ut nibh maximus tempus. Vestibulum facilisis ligula urna, vitae cursus tortor
-                  malesuada eu. Morbi quis lectus non nunc
-                </p>
-              </div>
-            </article>
-
-            <article class='media'>
-              <div class="media-left text-center h6">
-                <time datetime='2015'>2015 -</time>
-              </div>
-              <div class="media-body">
-
-                <p>
-                  Quisque suscipit lacus vestibulum odio rhon cus, non iaculis lectus mattis. Integer
-                  mattis tempus neque, eget tincidunt nibh tincid unt ac. Maecenas feugiat lorem ut
+                  Will you be apart of our future? We sure hope so!
                 </p>
               </div>
             </article>
@@ -130,27 +115,29 @@
               Opportunities
             </h3>
             <h6 class="offs2">
-              Proin dictum elementum velit
+              Our Door is Open for Dedication
             </h6>
 
             <p>
-              Maecenas feugiat lorem ut nibh maximus tempus. Vestibulum facilisis ligula urna, vitae curus
-              tortor mal
-              esuada eu. Morbi quis lectus non nunc varius varius sed nec neque. Vestibulum ante ipsum
-              primis in faucibus orci luctus et ultrices posuere cubilia
+              We are always looking for reliable and dedicated staff to join
+              our team. If you are interested in finding out what we
+              have to offer our employees and team, please follow the steps
+              below.
             </p>
             <ul class="marked-list wow fadeInRight" data-wow-duration="2s">
-              <li><a href="#">Sed libero purus vulputate</a></li>
-              <li><a href="#">Lorem ipsum dolor sed leoraesent laoreet</a></li>
-              <li><a href="#">Pestibulum molestieenean nonummy</a></li>
-              <li><a href="#">Hendreritivamus eget nibh vel metus</a></li>
-              <li><a href="#">Etiam cursus leo psum</a></li>
-              <li><a href="#">Nulla facilisii primis neclaoreet</a></li>
-              <li><a href="#">Aenean nec eros luctus</a></li>
+              <li><a href="#">Background Check (FBI & DOJ)</a></li>
+              <li><a href="#">Employment Reference Check</a></li>
+              <li><a href="#">Valid Driver License (DMV Check)</a></li>
+              <li><a href="#">Drug Screening</a></li>
+              <li><a href="#">Highschool Diploma</a></li>
+              <li><a href="#">Valid Guard Card License</a></li>
+              <li><a href="#">Valid Firearm Permit</a></li>
+              <li><a href="#">Chemical Agent Certification</a></li>
+              <li><a href="#">Baton Permit</a></li>
             </ul>
             <p>
-              Facilisis ligula urna, vitae curus tortor malesuada eu. Morbi quis lectus non nunc varius
-              varius sed nec neque. Vestibulum ante ipsum primis in faucibus
+              If you can meet these requirements, you are welcome to inquire
+              about employment opportunities. Please email <a href="mailto:employment@legionsecurity.us">employment@legionsecurity.us</a>
             </p>
           </div>
         </div>
@@ -160,6 +147,7 @@
     <section class="well well7 parallax wow fadeIn" data-wow-duration="3s" data-url="images/parallax2-1.jpg"
              data-mobile="true">
       <div class="container center767">
+        <a name="ourteam"></a>
         <h3 class="text-center white">
           Meet Our Team
         </h3>
@@ -167,72 +155,79 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail thumbnail3">
-              <img class="" src="images/page-2_img2.jpg" alt="">
+              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
 
-              <div class="caption">
+              <div class="caption caption-transparent">
                 <h6 class="white">
                   <a href="#">
-                    John Franklin
+                    Ronald Robinson
                   </a>
                 </h6>
 
                 <p class="white">
-                  Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Intege
-                  mattis tempus neque, eget tin
+                  A former property management professional who found an opportunity
+                  to provide a better service. Ron excels
+                  at understanding the clients needs and articulating the
+                  problem to the Legion Team.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail  thumbnail3">
-              <img class="" src="images/page-2_img3.jpg" alt="">
+              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
 
-              <div class="caption">
+              <div class="caption caption-transparent">
                 <h6 class="white">
                   <a href="#">
-                    Tom Nelson
+                    William Preston
                   </a>
                 </h6>
 
                 <p class="white">
-                  Rhoncus, non iaculis lectus mattis. Intege mattis tempus neque, eget tincidunt nibh
-                  tincidunt ac. Maecenas feugi
+                  A 33 year U.S. Military Veteran & former Lieutenant Commander
+                  in the USCG. Bill has the experience of protecting some of our
+                  countries most valuable assets and the leadership needed to
+                  bring the best staff to your property.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail  thumbnail3">
-              <img class="" src="images/page-2_img4.jpg" alt="">
+              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
 
-              <div class="caption">
+              <div class="caption caption-transparent">
                 <h6 class="white">
                   <a href="#">
-                    Richard Cox
+                    Jack Schappell
                   </a>
                 </h6>
 
                 <p class="white">
-                  Don iaculis lectus mattis. Intege mattis tempus neque, eget tincidunt nibh tinci
-                  dunt ac. Maecenas feugiat lore
+                  Jack offers our clients attention to detail and exhausting effort
+                  in the services provided. Jack has been in the security field
+                  since 2012 and has quickly worked his way into management.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail  thumbnail3">
-              <img class="" src="images/page-2_img5.jpg" alt="">
+              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
 
-              <div class="caption">
+              <div class="caption caption-transparent">
                 <h6 class="white">
                   <a href="#">
-                    Michael Freeman
+                    Justin Farnsworth
                   </a>
                 </h6>
 
                 <p class="white">
-                  Eget tincidunt nibh tincidunt ac. Maecen as feugiat lorem ut nibh maximus tem pus.
-                  Vestibulum facilisis
+                  A security professional since 2011 and expert in neighborhood
+                  issues, Justin Farnsworth knows how to handle the big problems.
+                  Our special asset is deployed when the Police can't fix the
+                  gang problems.
                 </p>
               </div>
             </div>
@@ -253,7 +248,7 @@
 
                 <h6>
                   <a href="#">
-                    Etiam cursus leo psum
+                    On The Job 24 Hours
                   </a>
                 </h6>
 
@@ -266,20 +261,21 @@
 
                 <h6>
                   <a href="#">
-                    Aenean nec eros luctus
+                    Constant Communication
                   </a>
                 </h6>
 
                 <p>
-                  Dictum sollicitudin felis. Vestibulum tristiq
-                  ue urna ex, eu uisque suscipit lacus vesti bulum odio rhoncus, non iacul
+                  Being able to get in contact with a manager is important.
+                  We answer our phones! You can always get a hold of us and
+                  have your needs addressed.
                 </p>
               </li>
               <li class="">
 
                 <h6>
                   <a href="#">
-                    Vestibulum ante faucibu
+                    Reliable Staff
                   </a>
                 </h6>
 
@@ -296,7 +292,7 @@
               Skills
             </h3>
             <h6 class="offs3">
-              Etiam cursus leo psum
+              Flexible & Experienced
             </h6>
 
             <p>
@@ -304,12 +300,12 @@
               tempus neque, eget tincidunt nibh tincidunt ac.
             </p>
             <ul class="marked-list">
-              <li><a href="#">Pestibulum molestieenean</a></li>
-              <li><a href="#">Hendreritivamus eget nibh vel</a></li>
-              <li><a href="#">Etiam cursus leo psum</a></li>
-              <li><a href="#">Nulla facilisii primis neclaoreet</a></li>
-              <li><a href="#">Aenean nec eros luctus</a></li>
-              <li><a href="#">Vestibulum ante faucibus orci</a></li>
+              <li><a href="#">Bill's a stud</a></li>
+              <li><a href="#">Ronnie has a honker for the ladies</a></li>
+              <li><a href="#">Farnsworth is a ginger</a></li>
+              <li><a href="#">J Schappell is a zombie</a></li>
+              <li><a href="#">Willy Jr is a lady killer</a></li>
+              <li><a href="#">Dispatch rocks!</a></li>
             </ul>
           </div>
           <div class="col-md-5 col-sm-6 col-xs-12">
@@ -319,18 +315,19 @@
             <blockquote class="wow fadeInRight" data-wow-duration="2s">
               <div class="media">
                 <div class="media-left">
-                  <img class="" src="images/page-2_img6.jpg" alt="">
+                  <img class="" src="images/testimonial1_edited.jpg" alt="">
                 </div>
                 <div class="media-body">
                   <p>
                     <q>
-                      "Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id,
-                      dictum sollicitudin felis. Vestibulum tristique urna
-                      ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus"
+                      "I've been in property management for over 7 years and
+                      had my share of experiences with vendors. Bill and Ron
+                      at Legion Security make my job easier! I am completely
+                      satisfied with the services they provide at our properties."
                     </q>
                   </p>
                   <cite class='h6'>
-                    Bradley Grosh
+                    Rachel Wright
                   </cite>
                 </div>
               </div>
@@ -338,18 +335,20 @@
             <blockquote class="wow fadeInRight" data-wow-duration="2s">
               <div class="media">
                 <div class="media-left">
-                  <img class="" src="images/page-2_img7.jpg" alt="">
+                  <img class="" src="images/testimonial2_edited.jpg" alt="">
                 </div>
                 <div class="media-body">
                   <p>
                     <q>
-                      "Etiam mauris massa, sodales lobortis tortor id, dictum sollicitudin felis.
-                      Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio
-                      rhoncus, non iaculis lectus mattis"
+                      "I love the thoroughness in our security reports that
+                      get emailed to me every morning. I would totally
+                      recommend you guys to any property in Sacramento.
+                      Thank you for all the help you've given us here
+                      at Legacy Home Fountains this summer!"
                     </q>
                   </p>
                   <cite class='h6'>
-                    Patrick Pool
+                    Jennifer McKnight
                   </cite>
                 </div>
               </div>

@@ -75,7 +75,7 @@
                 </a>
               </li>
               <li>
-                <a href="#">
+                <a href="https://www.facebook.com/sacramentolegionpatrol/">
                   <span class="icon fa-facebook"></span>
                   Facebook
                 </a>
