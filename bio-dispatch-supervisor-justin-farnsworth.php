@@ -53,7 +53,7 @@
           <div class="clearfloat"></div>
 
           <p class="">
-            Sergeant Justin Farnsworth has been in the security industry since 2012.  Justin began his career by attending the Police Academy.  He then decided to pursue a career in the private sector and shortly thereafter moved into the private security field.  With his training and background in law enforcement, Justin is the perfect fit for this line of work. With an incredible eye for detail and the ability to gain the cooperation and trust of those he encounters, Justin’s ability to handle any situation is nothing short of impressive. Sergeant Farnsworth has the ability to identify problems before they occur and take preventive measures to ensure a quick resolution. With an in depth knowledge of the law, police procedures and handling difficult situations, Sergeant Farnsworth is a key member of Legion Security’s command and leadership staff.
+            Sergeant Justin Farnsworth has been in the security industry since 2012.  Sergeant Farnsworth started out as a basic “Dedicated” standing security officer.  However, through hard work, dedication and commitment to excellence, he quickly rose through the ranks from Officer, to Senior Officer, Corporal/Patrol Officer, Sergeant/Supervisor and finally having displayed superior judgment, leadership and professional abilities to Watch Commander.
           </p>
           <br/>
           <p class="">
