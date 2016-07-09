@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="css/google-map.css">
   <link rel="stylesheet" href="css/mailform-sub.css">
   <link rel="stylesheet" href="css/search.css">
+  <link rel="stylesheet" href="css/style.css">
 
   <!--JS-->
   <script src="js/jquery.js"></script>
@@ -24,7 +25,7 @@
   <script src="js/rd-smoothscroll.min.js"></script>
 
   <!-- dev -->
-  <script src="http://localhost:35729/livereload.js"></script>
+  <!-- <script src="http://localhost:35729/livereload.js"></script> -->
 
   <!--[if lt IE 9]>
   <div style=' clear: both; text-align:center; position: relative;'>
@@ -60,45 +61,47 @@
     <section class="well well1">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft" data-wow-delay=".9s">
-
-            <img src="images/security-guard.png" alt=""/>
+          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".9s">
+            <a href="/service-security-guard.php">
+            <img src="images/security-guard.png" alt="Sacramento Security Guard Service - Armed & Unarmed"/>
             <h5 class="ins_r">
               Armed / Unarmed Guard
-
             </h5>
 
             <p class="txt-light">
               Sed eleifend ornare metus, non rho ncus elit ultrices quis. Curabitur et met us ac sapien
               dictum
             </p>
+            </a>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft" data-wow-delay=".7s">
-
+          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".7s">
+            <a href="/service-vehicle-patrol.php">
             <img src="images/car-icon.png" alt=""/>
             <h5 class="ins_r">
               Vehicle Patrol Service
             </h5>
 
             <p class="txt-light">
-              Sed eleifend ornare metus, non rho ncus elit ultrices quis. Curabitur et met us ac sapien
-              dictum
+              Our patrols are highly visible, intelligence led and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
             </p>
+            </a>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft" data-wow-delay=".5s">
-
+          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".5s">
+            <a href="/service-camera-monitoring.php">
             <img src="images/security-camera.png" alt=""/>
             <h5 class="ins_r">
               Facility Access & Camera Montioring
             </h5>
 
             <p class="txt-light">
-              Sed eleifend ornare metus, non rho ncus elit ultrices quis. Curabitur et met us ac sapien
-              dictum
+              A property is not protected by just having a camera system installed and recording.
+              The safety & security of the property is most effective when it's camera system
+              is monitored by Legion Security.
             </p>
+            </a>
           </div>
-          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft" data-wow-delay=".3s">
-
+          <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".3s">
+            <a href="/service-special-event.php">
             <img src="images/vip-pass.png" alt=""/>
             <h5 class="ins_r">
               Special Event & VIP Escort
@@ -108,6 +111,7 @@
               Sed eleifend ornare metus, non rho ncus elit ultrices quis. Curabitur et met us ac sapien
               dictum
             </p>
+            </a>
           </div>
         </div>
       </div>
@@ -203,7 +207,7 @@
                   rra enim. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend
                   blanditu
                 </p>
-                <a href="#" class="btn-link">
+                <a href="/service-security-guard.php" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -224,7 +228,7 @@
                   ut ligula et neque. Nulla interdum dapibus erat nec element. Fusce aliquet tem por
                   mi, vitae sollicitudin arcu convalli
                 </p>
-                <a href="#" class="btn-link">
+                <a href="/service-vehicle-patrol.php" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -245,7 +249,7 @@
                   eleifend blanditullam ut ligula et neque. Nulla interdum dapibusce aliquet tempor
                   mi, vitae sollicitudin arcu con
                 </p>
-                <a href="#" class="btn-link">
+                <a href="/service-camera-monitoring.php" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -268,11 +272,11 @@
         <!-- in page anchor -->
         <a name="whyus"></a>
 
-        <p class="white ins1">
+        <!-- <p class="white ins1">
           Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum sollicitudin feli
           sestibulum tristique urna ex, eu vehicula magna mattis maximus
-        </p>
-        <a href="#" class="btn btn-primary">Learn More</a>
+        </p> -->
+        <a href="/service-vehicle-patrol.php" class="btn btn-primary">Learn More</a>
       </div>
     </section>
 

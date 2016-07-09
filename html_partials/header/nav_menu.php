@@ -20,19 +20,19 @@
         <a href="#">CEO </a>
       </li>
       <li>
-        <a href="#">COO </a>
+        <a href="/bio-coo-william-preston.php">COO </a>
       </li>
       <li>
         <a href="#">Uniform Supervisors</a>
         <ul class="dropdown-menu">
           <li>
-            <a href="#">Patrol Supervisor</a>
+            <a href="/bio-patrol-supervisor-jack-schappell.php">Patrol Supervisor</a>
           </li>
           <li>
-            <a href="#">Dispatch Supervisor</a>
+            <a href="/bio-dispatch-supervisor-justin-farnsworth.php">Dispatch Supervisor</a>
           </li>
           <li>
-            <a href="#">Guard Supervisor</a>
+            <a href="/bio-guard-supervisor-will-preston.php">Guard Supervisor</a>
           </li>
         </ul>
       </li>

@@ -57,79 +57,80 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="#">
+                <a href="/service-security-guard.php">
                   Armed / Unarmed Guard
                 </a>
               </h6>
 
               <p>
-                Curabitur et metus ac sapien dictum temp us. Nam blandit sed ligula faucibus eleme
-                ntum. Sed sed consequat nisi.
+                Legion Security provides uniformed guards, armed or unarmed.
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="#">
+                <a href="/service-vehicle-patrol.php">
                   Random Vehicle Patrol
                 </a>
               </h6>
 
               <p>
-                Daewd ligula faucibus elementum. Sed sed consequat nisi. Etiam mauris massa, sodales
-                lobortis tortor id, dictum sollicit
+                We provide scheduled and random nightly or daily vehicle patrol service
+                to conduct security or courtesy duties at your property.
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="#">
+                <a href="/service-vehicle-patrol.php">
                   Dispatch & Alarm Response
                 </a>
               </h6>
 
               <p>
-                Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum
-                sollicitudin felis. Vestibulum tristique urna
+                When you have an alarm go off, Legion will respond. You can add our 24hr dispatch
+                to your call list and rely on us.
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="#">
+                <a href="/service-camera-monitoring.php">
                   Camera Monitoring
                 </a>
               </h6>
 
               <p>
-                Sed eleifend ornare metus, non rhoncus elit ultrices quis. Curabitur et metus ac sapien
-                dictum tempus. Nam blandit sed
+                Legion Security operates and maintains a state-of-the-art dispatch
+                and camera monitoring office. We can monitor remote camera feeds from
+                anywhere in North America.
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="#">
+                <a href="/service-camera-monitoring.php">
                   Facility Access Control
                 </a>
               </h6>
 
               <p>
-                Nam blandit sed ligula faucibus elemen
-                tum. Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor
+                When you have sensitive information facilities, you need a gatekeeper.
+                Legion Security personnel can do just that for you. ID, credential, and
+                access verification at your entrance or all around your facility.
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="#">
+                <a href="/service-special-event.php">
                   Special Event
                 </a>
               </h6>
 
               <p>
-                Etiam mauris massa, sodales lobortis tort
-                or id, dictum sollicitudin felis. Vestibulum tristique urna ex, eu vehicula
+                100 - 10,000 person event? We have the security team that will keep
+                the patrons and the event staff safe and having a good time.
               </p>
             </li>
           </ul>
@@ -146,8 +147,8 @@
         </h2>
 
         <p class="white ins1">
-          Aliquam ut leo ultricies odio commodo porta. Pellentesque in nunc egestas vulputate nisl
-          et ultrices augue. Nullam semper orci non ligula pharetra vulputate
+          Constant and never ending improvement. There is always room to get better, even
+          when you're the best at what you do.
         </p>
         <!-- <a href="#" class="btn btn-primary">Learn More</a> -->
       </div>

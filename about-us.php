@@ -156,7 +156,7 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail thumbnail3">
-              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
+              <img src="http://placehold.it/270x300/deb629/036601?text=picture of STUD">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
@@ -176,11 +176,11 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail  thumbnail3">
-              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
+              <img src="/images/legion/bill_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="#">
+                  <a href="/bio-coo-william-preston.php">
                     William Preston
                   </a>
                 </h6>
@@ -196,7 +196,7 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail  thumbnail3">
-              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
+              <img src="http://placehold.it/270x300/deb629/036601?text=picture of STUD">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
@@ -215,20 +215,19 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
             <div class="thumbnail  thumbnail3">
-              <img src="http://placehold.it/270x250/deb629/036601?text=picture of STUD">
+              <img src="/images/legion/will_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="#">
-                    Justin Farnsworth
+                  <a href="/bio-guard-supervisor-will-preston.php">
+                    Will Preston
                   </a>
                 </h6>
 
                 <p class="white">
+                  A US Army & Operation Iraqi Freedom Veteran from 2004-2008.
                   A security professional since 2011 and expert in neighborhood
-                  issues, Justin Farnsworth knows how to handle the big problems.
-                  Our special asset is deployed when the Police can't fix the
-                  gang problems.
+                  issues, Will Preston knows how to address our client's security concerns.
                 </p>
               </div>
             </div>
