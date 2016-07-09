@@ -69,8 +69,9 @@
             </h5>
 
             <p class="txt-light">
-              Sed eleifend ornare metus, non rho ncus elit ultrices quis. Curabitur et met us ac sapien
-              dictum
+              Legion Security provides uniformed guards, armed or unarmed. Our uniformed
+              staff can walk your property, check perimeter entrances, facility doors, and
+              stay alert for unwanted and suspicious activity.
             </p>
             </a>
           </div>
@@ -108,8 +109,9 @@
             </h5>
 
             <p class="txt-light">
-              Sed eleifend ornare metus, non rho ncus elit ultrices quis. Curabitur et met us ac sapien
-              dictum
+              100 - 10,000 person event? We have the security team that will keep
+              the patrons and the event staff safe and having a good time. We offer a
+              full event service security team, read more...
             </p>
             </a>
           </div>
