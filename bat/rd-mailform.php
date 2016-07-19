@@ -5,6 +5,7 @@ $recipients = 'info@legionsecurity.us';
 
 try {
     require './phpmailer/PHPMailerAutoload.php';
+    require './user_response_to_quote_request.php';
 
     preg_match_all("/([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)/", $recipients, $addresses, PREG_OFFSET_CAPTURE);
 
@@ -21,10 +22,19 @@ try {
     if (isset($_POST['form-type'])) {
         switch ($_POST['form-type']){
             case 'contact':
-                $subject = 'A message from your site visitor';
+                $subject = 'Legion Security website contact form';
+                $message = 'We have received a "contact form" from our website.';
                 break;
-            case 'subscribe':
-                $subject = 'Subscribe request';
+            case 'quote':
+                $subject = 'Service Quote request';
+                $message = 'Someone from our website is requesting a quote. Be Fast, Furious, & Polite - give them what they want! We ARE THE BEST security company in town!';
+                try {
+                  // $thankYou = new ThankYouResponse($_POST['email']));
+                  // $thankYou->send();
+                }
+                catch (Exception $e) {
+                    die('MF-TY255');
+                }
                 break;
             case 'order':
                 $subject = 'Order request';
@@ -44,6 +54,10 @@ try {
             $template);
     }else{
         die('MF003');
+    }
+
+    if (isset($message)) {
+        $template = str_replace("<!-- #{Message} -->", $message, $template);
     }
 
     if (isset($_POST['message'])) {
@@ -100,8 +114,6 @@ try {
     die('MF000');
 } catch (phpmailerException $e) {
     die('MF254');
-} catch (Exception $e) {
-    die('MF255');
 }
 
 ?>

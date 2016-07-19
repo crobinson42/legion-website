@@ -9,12 +9,9 @@
       </p>
 
       <p class="ins1">
-        Sed eleifend ornare metus, non rhoncus elit ultrices quis. Curabitur et metus ac sapien dictum
-        tempus. Nam blandit sed ligula fa
-        ucibus elementum. Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum
-        sollicitudin felis. Vestibulum tristique urna ex, eu vehicula magna mattis maximus. Aliquam ut
-        leo
-        ultricies
+        Providing security guard & patrol services to business and communities, we
+        serve our clients with the most reliable, consistent, & professional
+        security program around.
       </p>
       <!-- <a href="#" class="btn-link">Read More</a> -->
     </div>

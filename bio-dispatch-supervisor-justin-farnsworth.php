@@ -49,7 +49,7 @@
         </h3>
 
         <p class="">
-          <img src="http://placehold.it/300x400?text=Justin-pic" style="float:left;margin:15px;"/>
+          <img src="images/legion/farnsworth_300x470.jpg" style="float:left;margin:15px;"/>
           <div class="clearfloat"></div>
 
           <p class="">

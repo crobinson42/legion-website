@@ -57,21 +57,27 @@
 
           </div>
 
+
           <div class="col-md-3 col-sm-6 col-xs-12">
+            <h4>
+              Employment
+            </h4>
+            <ul class="link-list">
+              <li>
+                <a href="employment-with-legion-security.php">
+                  <span class="icon fa-users"></span>
+                  Joining Our Team
+                </a>
+              </li>
+            </ul>
             <h4>
               Follow us
             </h4>
             <ul class="link-list">
               <li>
-                <a href="https://plus.google.com/115011286920015822716">
+                <a href="https://plus.google.com/u/1/107926698583162354167">
                   <span class="icon fa-google-plus"></span>
                   Google +
-                </a>
-              </li>
-              <li>
-                <a href="https://twitter.com/legiontheway">
-                  <span class="icon fa-twitter"></span>
-                  Twitter
                 </a>
               </li>
               <li>
@@ -87,13 +93,14 @@
                 </a>
               </li>
               <li>
-                <a href="http://www.legionsecurity.us/about-us.php">
-                  <span class="icon fa-rss"></span>
-                  RSS
+                <a href="https://twitter.com/legiontheway">
+                  <span class="icon fa-twitter"></span>
+                  Twitter
                 </a>
               </li>
             </ul>
           </div>
+
 
         </div>
       </div>

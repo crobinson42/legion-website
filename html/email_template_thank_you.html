@@ -95,7 +95,17 @@
                           <td height="30" style="height: 30px; line-height:30px;"></td>
                         </tr>
                         <tr>
-                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; font-weight: 400;color: #121212;"><!-- #{Message} --></td>
+                          <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 22px; font-weight: 400;color: #121212;">
+                            <p>
+                              We've received your request. Thanks for considering Legion for your security needs.
+                            </p>
+                            <p>
+                              We're just shooting you a quick message to let you know you can expect to hear from us soon.
+                            </p>
+                            <p>
+                              - Legion Security Team
+                            </p>
+                          </td>
                         </tr>
                         <tr>
                           <td height="20" style="height: 20px; line-height:20px;"></td>

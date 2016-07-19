@@ -123,14 +123,14 @@
              data-speed="0.6">
       <div class="container">
         <h2 class="fw-l">
-          Striving to excellence<br/>
-          in service we provide
+          Striving to Excellence<br/>
+          in Service We Provide
         </h2>
 
         <p class="white ins1 offs1">
-          Sed eleifend ornare metus, non rhoncus elit ultrices quis. Curabitur et metus acsapien dict
-          um tempus. Nam blandit sed ligula faucibus elementum. Sed sed consequat nisi. Etiam mauris massa,
-          sodales lobortis tortor id, dictum sollicitudin feli
+          This statement truly means something from the top management down in
+          Legion Security. We know what is required of
+          us, we do it our best while maintaining a positive attitude. Excellence is striving for quality or merit in all that we do. A focus on excellence means we take time, work hard and think carefully about a project or task. Excellence lets us take pride in our accomplishments. We are guided by a vision, and we do our best to make it a reality.
         </p>
       </div>
     </section>
@@ -190,6 +190,15 @@
       <div class="container">
         <h3 class="text-center">
           Our Services
+
+          <br/>
+
+          <a href="/services.php">
+            <div class="btn btn-xs btn-primary">
+              See All Services
+            </div>
+          </a>
+
         </h3>
 
         <div class="row">
@@ -204,10 +213,9 @@
                 </h6>
 
                 <p>
-                  Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi
-                  elitam egestda. Sedquis
-                  rra enim. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend
-                  blanditu
+                  Legion Security provides uniformed guards, armed or unarmed. Our uniformed
+                  staff can walk your property, check perimeter entrances, facility doors, and
+                  stay alert for unwanted and suspicious activity.
                 </p>
                 <a href="/service-security-guard.php" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
@@ -226,9 +234,7 @@
                 </h6>
 
                 <p>
-                  Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam
-                  ut ligula et neque. Nulla interdum dapibus erat nec element. Fusce aliquet tem por
-                  mi, vitae sollicitudin arcu convalli
+                  Our patrols are highly visible, intelligence led and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
                 </p>
                 <a href="/service-vehicle-patrol.php" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
@@ -247,9 +253,9 @@
                 </h6>
 
                 <p>
-                  Sedquis viverra enim. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in
-                  eleifend blanditullam ut ligula et neque. Nulla interdum dapibusce aliquet tempor
-                  mi, vitae sollicitudin arcu con
+                  A property is not protected by just having a camera system installed and recording.
+                  The safety & security of the property is most effective when it's camera system
+                  is monitored by Legion Security.
                 </p>
                 <a href="/service-camera-monitoring.php" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
@@ -272,13 +278,17 @@
         </h2>
 
         <!-- in page anchor -->
-        <a name="whyus"></a>
+        <!-- <a name="whyus"></a> -->
 
         <!-- <p class="white ins1">
           Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum sollicitudin feli
           sestibulum tristique urna ex, eu vehicula magna mattis maximus
         </p> -->
-        <a href="/service-vehicle-patrol.php" class="btn btn-primary">Learn More</a>
+        <a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#makeYourCommunitySafe">
+          Learn More
+        </a>
+
+        <?php include './html_partials/modals/make_your_community_safe.php'; ?>
       </div>
     </section>
 
@@ -290,9 +300,11 @@
         </h3>
 
         <p class="text-center">
-          Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu
-          convallis id. In id vestibulum sapien. Praesent eg
-          et bibendum purus quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc
+          Because you need reliability, consistency, & professionalism.
+        </p>
+        <p class="text-center">
+          We stand behind our service. We take your security, safety, & peace-of-mind concerns seriously.
+          Because we will follow through, year after year, for you, your staff and your community.
         </p>
 
         <div class="row">
@@ -300,7 +312,7 @@
           <ul class="icon-list wow fadeInLeft" data-wow-duration="2s">
             <li class="col-md-4 col-sm-6 col-xs-12">
               <h6>
-                <a href="#">
+                <a href="javascript:void(0);">
                   Experience
                 </a>
               </h6>
@@ -312,7 +324,7 @@
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
               <h6>
-                <a href="#">
+                <a href="javascript:void(0);">
                   Competitive Rates
                 </a>
               </h6>
@@ -324,7 +336,7 @@
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
               <h6>
-                <a href="#">
+                <a href="javascript:void(0);">
                   Satisfaction Guarantee
                 </a>
               </h6>
@@ -338,7 +350,7 @@
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
               <h6>
-                <a href="#">
+                <a href="javascript:void(0);">
                   Honest and Dependable
                 </a>
               </h6>
@@ -350,7 +362,7 @@
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
               <h6>
-                <a href="#">
+                <a href="javascript:void(0);">
                   Safety & Reliability
                 </a>
               </h6>
@@ -362,7 +374,7 @@
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
               <h6>
-                <a href="#">
+                <a href="javascript:void(0);">
                   Always Available
                 </a>
               </h6>
@@ -378,39 +390,7 @@
       </div>
     </section>
 
-    <section class="well well6 bg-primary">
-
-      <!-- in page anchor -->
-      <a name="newsletter"></a>
-
-      <div class="container">
-        <div class="mailform-sub">
-
-
-          <p>
-            Subscribe to our Newsletter
-          </p>
-
-          <form class='mailform' method="post" action="bat/rd-mailform.php" data-type="contact">
-
-
-            <div class="form-group" data-add-placeholder>
-              <label for="mailform-input-email">Your email address</label>
-              <input id="mailform-input-email"
-                     type="text"
-                     name="email"
-                     data-constraints="@Email @NotEmpty"/>
-            </div>
-
-            <div class="form-group mfControls">
-              <button class="btn" type="submit">Subscribe</button>
-            </div>
-          </form>
-
-
-        </div>
-      </div>
-    </section>
+    <?php include './html_partials/sections/request_quote.php'; ?>
 
     <?php include dirname(__FILE__) . '/html_partials/sections/google_map.php'; ?>
 
