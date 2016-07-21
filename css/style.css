@@ -511,7 +511,7 @@ ul.patrol-features > li:before {
 }
 .rd-mobilepanel_title {
   position: fixed;
-  top: -21px;
+  /*top: -21px; this breaks the mobile header */
   left: 56px;
   right: 56px;
   color: #34a647;
@@ -542,11 +542,11 @@ ul.patrol-features > li:before {
   padding: 0;
 }
 .rd-mobilepanel_toggle:before {
-  content: '\f0c9';
-  font-family: 'FontAwesome';
+  /*content: '\f0c9';
+  font-family: 'FontAwesome';*/
 }
 .rd-mobilepanel_toggle.active:before {
-  content: '\f00d';
+  /*content: '\f00d';*/
 }
 @media (max-width: 767px) {
   body {

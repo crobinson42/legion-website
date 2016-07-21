@@ -136,7 +136,7 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = document.getElementById("google-map");
     if (o) {
-        include('https://maps.google.com/maps/api/js?sensor=false&key=' + GOOGLE_MAP_API_KEY);
+        include('https://maps.google.com/maps/api/js?key=' + GOOGLE_MAP_API_KEY);
         include('js/jquery.rd-google-map.js');
 
         $(document).ready(function () {

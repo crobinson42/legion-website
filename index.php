@@ -294,6 +294,8 @@
 
     <section class="well well5">
 
+      <a name="whyus"></a>
+
       <div class="container">
         <h3 class="text-center">
           Why Choose Us?
@@ -306,6 +308,10 @@
           We stand behind our service. We take your security, safety, & peace-of-mind concerns seriously.
           Because we will follow through, year after year, for you, your staff and your community.
         </p>
+
+        <div style="text-align:center;">
+          <div id="yelp-biz-badge-rrc-K3mFwNIWd8p8xJxh1EU0Jg"><a href="http://yelp.com/biz/legion-security-sacramento-2" target="_blank">Check out Legion Security on Yelp</a></div><script>(function(d, t) {var g = d.createElement(t);var s = d.getElementsByTagName(t)[0];g.id = "yelp-biz-badge-script-rrc-K3mFwNIWd8p8xJxh1EU0Jg";g.src = "//yelp.com/biz_badge_js/en_US/rrc/K3mFwNIWd8p8xJxh1EU0Jg.js";s.parentNode.insertBefore(g, s);}(document, 'script'));</script>
+        </div>
 
         <div class="row">
 
@@ -343,7 +349,7 @@
 
               <p>
                 We're so confident that you'll be satisfied with our service
-                that we're offering the first month of service FREE!
+                that we're offering a month of service FREE!
                 <br/>
                 <small class="text-muted" style="color:#dfdfdf">* Location Based</small>
               </p>

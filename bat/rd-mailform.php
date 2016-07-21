@@ -1,11 +1,13 @@
 <?php
 
-$recipients = 'info@legionsecurity.us';
+// $recipients = 'info@legionsecurity.us';
+// @NOTE DEV only:
+$recipients = 'support@therms.io';
 //$recipients = '#';
 
 try {
     require './phpmailer/PHPMailerAutoload.php';
-    require './user_response_to_quote_request.php';
+    include 'user_response_to_quote_request.php';
 
     preg_match_all("/([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)/", $recipients, $addresses, PREG_OFFSET_CAPTURE);
 
@@ -28,13 +30,10 @@ try {
             case 'quote':
                 $subject = 'Service Quote request';
                 $message = 'Someone from our website is requesting a quote. Be Fast, Furious, & Polite - give them what they want! We ARE THE BEST security company in town!';
-                try {
-                  // $thankYou = new ThankYouResponse($_POST['email']));
-                  // $thankYou->send();
-                }
-                catch (Exception $e) {
-                    die('MF-TY255');
-                }
+
+                $thankYou = new ThankYouResponse();
+                $thankYou->send($_POST['email']);
+
                 break;
             case 'order':
                 $subject = 'Order request';
@@ -85,6 +84,22 @@ try {
         $template);
 
     $mail = new PHPMailer();
+    //Enable SMTP debugging.
+    // $mail->SMTPDebug = 3;
+    //Set PHPMailer to use SMTP.
+    $mail->isSMTP();
+    //Set SMTP host name
+    $mail->Host = "gator2020.hostgator.com";
+    //Set this to true if SMTP host requires authentication to send email
+    $mail->SMTPAuth = true;
+    //Provide username and password
+    $mail->Username = "donotreply@legionsecurity.us";
+    $mail->Password = "Legiontheway1";
+    //If SMTP requires TLS encryption then set it
+    $mail->SMTPSecure = "tls";
+    //Set TCP port to connect to
+    $mail->Port = 587;
+
     $mail->From = $_POST['email'];
 
     if (isset($_POST['name'])){
@@ -100,6 +115,7 @@ try {
     $mail->CharSet = 'utf-8';
     $mail->Subject = $subject;
     $mail->MsgHTML($template);
+    $mail->AltBody = "Your email does not support HTML Rich Text emails. Sorry fort he inconvienance.";
 
     if (isset($_FILES['attachment'])) {
         foreach ($_FILES['attachment']['error'] as $key => $error) {

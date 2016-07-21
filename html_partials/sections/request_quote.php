@@ -1,18 +1,26 @@
+
+<a name="quote"></a>
+
 <section class="well well6 bg-primary">
 
   <!-- in page anchor -->
-  <a name="newsletter"></a>
+
 
   <div class="container">
-    <div class="mailform-sub">
 
+    <div class="text-center">
+      <h4>
+        <i class="fa fa-file-text" aria-hidden="true"></i> Quick & Hassle Free
+      </h4>
+    </div>
+
+    <div class="mailform-sub">
 
       <p>
         Request A Service Quote
       </p>
 
       <form class='mailform' method="post" action="bat/rd-mailform.php" data-type="quote">
-
 
         <div class="form-group" data-add-placeholder>
           <label for="mailform-input-email">Your email address</label>

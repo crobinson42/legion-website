@@ -8,30 +8,48 @@
 
 class ThankYouResponse {
 
-  var $template;
-  var $email;
+  private $template;
+  private $email;
 
-  function __construct($email) {
-    $this->$template = file_get_contents(dirname(__FILE__) . 'rd-mailform_thank_you.tpl');
-    $this->$email = $email;
+  function __construct() {
+    $this->template = file_get_contents('rd-mailform_thank_you.tpl');
   }
 
-  function send() {
-    if (!isset($this->$email)) {
+  function send($email) {
+    $this->email = $email;
+
+    if (!isset($this->email)) {
       die();
     }
 
     $mail = new PHPMailer();
+    //Enable SMTP debugging.
+    // $mail->SMTPDebug = 3;
+    // Set PHPMailer to use SMTP.
+    $mail->isSMTP();
+    //Set SMTP host name
+    $mail->Host = "gator2020.hostgator.com";
+    //Set this to true if SMTP host requires authentication to send email
+    $mail->SMTPAuth = true;
+    //Provide username and password
+    $mail->Username = "donotreply@legionsecurity.us";
+    $mail->Password = "Legiontheway1";
+    //If SMTP requires TLS encryption then set it
+    $mail->SMTPSecure = "tls";
+    //Set TCP port to connect to
+    $mail->Port = 587;
+
     $mail->From = "info@legionsecurity.us";
     $mail->FromName = "Legion Security";
-    $mail->addAddress($this->$email);
+    $mail->addAddress($this->email);
     $mail->CharSet = 'utf-8';
     $mail->Subject = "Thank You! Legion Security is the right choice";
-    $mail->MsgHTML($this->$template);
+    $mail->MsgHTML($this->template);
 
     $mail->send();
 
-    die('MF-TY000');
+    // don't die because the rest of the script doesn't get executed.
+    // die('MF000');
   }
 
 }

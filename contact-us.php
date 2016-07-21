@@ -14,6 +14,7 @@
 
   <!-- Links -->
   <link rel="stylesheet" href="css/mailform.css"/>
+  <link rel="stylesheet" href="css/mailform-sub.css">
   <link rel="stylesheet" href="css/material-design.css"/>
   <link rel="stylesheet" href="css/google-map.css">
   <link rel="stylesheet" href="css/search.css">
@@ -57,41 +58,48 @@
       ?>
     </section>
 
+
+    <?php
+    include dirname(__FILE__) .'/html_partials/sections/request_quote.php';
+    ?>
+
     <section class="well well7">
       <div class="container">
         <div class="row">
           <div class="col-md-4 col-xs-12">
             <h3 class="text-center">
-              Address
+              Address & Phone
             </h3>
 
             <p class="offs3">
-              Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis
-              lectus mattis. Integer mattis tempus neque, eget tincidunt nibh tinci
-              dunt ac. Maecenas feugiat lorem ut
+              We welcome drop-ins but would prefer a phone call or email heads up.
+              Our management and supervisory team are not always in the office, however,
+              our dispatch center is manned 24hrs each day and is always available for calls.
             </p>
-            <address class="h6">
+
+            <hr>
+
+            <h5>Mailing</h5>
+            <address>
+              PO BOX 15756 <br>
+              Sacramento, CA 95852
+            </address>
+
+            <br>
+
+            <h5>Physical</h5>
+            <address>
               2821 Howe Ave <br>
               Sacramento, CA 95821
             </address>
-            <address class="addr1">
 
-              <dl>
-                <dt>Office:</dt>
-                <dd>
-                  <a href='callto:#'> 916 277 9006</a>
-                </dd>
-                <dt>24hr Dispatch:</dt>
-                <dd>
-                  <a href='callto:#'> 916 550 2746</a>
-                </dd>
-              </dl>
-              <dl class="mail">
-                <dt>E-mail:</dt>
-                <dd>
-                  <a href="mailto:#">info@legionsecurity.us</a>
-                </dd>
-              </dl>
+            <hr>
+
+            <h5>Phone</h5>
+
+            <address class="addr1">
+              <p>Office <i class="fa fa-phone" aria-hidden="true"></i> <a href='callto:9162779006'> 916 277 9006</a></p>
+              <p>24hr Dispatch <i class="fa fa-phone" aria-hidden="true"></i> <a href='callto:9165502746'> 916 550 2746</a></p>
             </address>
           </div>
 
@@ -102,6 +110,7 @@
 
 
             <form class='mailform' method="post" action="bat/rd-mailform.php" data-type="contact">
+
               <div class="form-group name" data-add-placeholder>
                 <label for="mailform-input-name">Your Name</label>
                 <input id="mailform-input-name"
@@ -133,8 +142,8 @@
                                           data-constraints="@NotEmpty"></textarea>
               </div>
 
-              <div class="form-group btn-wr">
-                <button class="btn btn-default" type="submit">Submit comment</button>
+              <div class="form-group mfControls">
+                <button class="btn btn-default" type="submit">Submit Message</button>
               </div>
             </form>
 
@@ -144,6 +153,78 @@
       </div>
     </section>
 
+    <section style="margin:0 15px;">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              Business Operations
+            </div>
+            <div class="panel-body">
+              <ul>
+                <li>Service Quotes & Proposals</li>
+                <li>Accounts Receivable/Payable</li>
+                <li>Payroll</li>
+                <li>Insurance & Licensing</li>
+              </ul>
+              <p>
+                <h6>Ronald Robinson</h6>
+                Chief Executive Officer
+                <br>
+                <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9168771580">916-877-1580</a>
+                <br>
+                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:ronald.robinson@legionsecurity.us">ronald.robinson@legionsecurity.us</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              Security Operations
+            </div>
+            <div class="panel-body">
+              <ul>
+                <li>Client Services, Requests, & Changes</li>
+                <li>Scheduling</li>
+                <li>Uniformed Staff Management</li>
+                <li>Patrol Vehicles & Fleet</li>
+              </ul>
+              <p>
+                <h6>William "Bill" Preston</h6>
+                Chief Operations Officer
+                <br>
+                <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9162050026">916-205-0026</a>
+                <br>
+                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:william.preston@legionsecurity.us">william.preston@legionsecurity.us</a>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="panel panel-primary">
+            <div class="panel-heading">
+              24 Hour Dispatch
+            </div>
+            <div class="panel-body">
+              <ul>
+                <li>Camera Activity Report</li>
+                <li>Client/Resident/Tenant Immediate Security Issues</li>
+                <li>Suspicious Persons, Vehicle, or Activity</li>
+                <li>Noise, Disturbance, or Fighting</li>
+                <li>Community Parking Violation</li>
+              </ul>
+              <p>
+                <h6>Sacramento Dispatch</h6>
+                <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9165502746">916-550-2746</a>
+                <br>
+                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:dispatch@legionsecurity.us">dispatch@legionsecurity.us</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 
   </main>
 
@@ -161,6 +242,10 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
 <script src="js/tm-scripts.js"></script>
+<script src="js/mailform/jquery.form.min.js"></script>
+<script src="js/mailform/jquery.rd-mailform.js"></script>
+
+
 <!-- </script> -->
 
 

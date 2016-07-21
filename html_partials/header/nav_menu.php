@@ -4,7 +4,7 @@
     <ul class="dropdown-menu">
       <li><a href="/index.php#services">Services</a></li>
       <li><a href="/index.php#whyus">Why Choose Us</a></li>
-      <li><a href="/index.php#newsletter">Newsletter</a></li>
+      <li><a href="/index.php#quote">Service Quote</a></li>
     </ul>
   </li>
   <li class="dropdown">
@@ -40,13 +40,16 @@
     </ul>
   </li>
   <li>
-    <a href="services.php">Services</a>
+    <a href="/services.php">Services</a>
   </li>
   <li>
-    <a href="industry.php">Industry</a>
+    <a href="/industry.php">Industry</a>
+  </li>
+  <li>
+    <a href="/employment-with-legion-security.php">Jobs</a>
   </li>
 
   <li>
-    <a href="contact-us.php">Contact</a>
+    <a href="/contact-us.php">Contact</a>
   </li>
 </ul>

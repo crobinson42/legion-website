@@ -53,7 +53,7 @@
             <h3 class="text-center">
               A Few Words About Us
             </h3>
-            <img class="wow fadeInLeft" data-wow-duration="2s" src="//placehold.it/370x250/deb629/036601?text=3 uniforms smiling" alt="">
+            <img class="wow fadeInLeft" data-wow-duration="2s" src="/images/legion/uncle_sam_legion.jpg" width="250" alt="">
             <h6>
               We know you rely on us
             </h6>
@@ -65,7 +65,9 @@
               <br/>
               <br/>
               Communication is the key to our success in making your property
-              more safe. If we don't stay in contact ... blah blah...
+              more safe. We'll check in with you periodically to ensure our
+              services are on track. You're also able to get in contact,
+              quickly, with any manager when you have a security concern or issue.
             </p>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
@@ -79,9 +81,9 @@
               </div>
               <div class="media-body">
                 <p>
-                  Legion Services, Inc. is born. Mauris ornare tortor in eleifend blanditu.
-                  Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Integer
-                  mattis tempus neque, eget tincidunt nibh tincidunt ac.
+                  Legion Solutions, Inc. is born. Bill and Ron helped build a very
+                  successful security organization in Sacramento, CA over 4 years.
+                  One day they decided to make it their own, Legion Security.
                 </p>
               </div>
             </article>
@@ -92,20 +94,43 @@
               </div>
               <div class="media-body">
                 <p>
-                  Legion continues to grow. Quisque suscipit lacus vestibulum odio rhoncus,
-                  non iaculis lectus mattis. Integer mattis tempus neque, eget tincidunt nibh
+                  Legion Security began the year with a bang. Signing contracts and
+                  starting service with over 50 clients in both uniformed guard
+                  services and remote camera monitoring & dispatch! Halfway through
+                  the year, Legion continues to grow every month and build it's
+                  young but reputable service in Northern Californa.
+                </p>
+              </div>
+            </article>
+
+
+            <h3 class="text-center">
+              Our Goals
+            </h3>
+
+            <article class='media'>
+              <div class="media-left text-center h6">
+                <time datetime='2015'>2017 -</time>
+              </div>
+              <div class="media-body">
+                <p>
+                  We plan to expand our services to multiple branch offices in North Bay Area
+                  California. This reach will allow us to provide scale security operations
+                  along the I-80 corridor, reaching all the minor communitiy areas along the way.
                 </p>
               </div>
             </article>
 
             <article class='media'>
               <div class="media-left text-center h6">
-                <time datetime='2015'>201? -</time>
+                <time datetime='2015'>2019 -</time>
               </div>
               <div class="media-body">
-
                 <p>
-                  Will you be apart of our future? We sure hope so!
+                  While continuing our efforts at maintaining our image as the
+                  security industry leader in mutliple cities, we plan to continue
+                  our expansion. On the horizon for Legion Security and it's team
+                  are metro areas in Oregon, Washington, Arizona, & Texas
                 </p>
               </div>
             </article>
@@ -113,32 +138,49 @@
           </div>
           <div class="col-md-4 col-sm-12 col-xs-12">
             <h3 class="text-center">
+              Our Confidence
+            </h3>
+            <h6 class="offs2">
+              We Are A Team
+            </h6>
+            <p>
+              You don't set audacious goals unless you have some will or desire
+              to accomplish them. We have the will & desire with a deeply rooted
+              confidence in ourselves and our team. The best way to be successful
+              is by doing what you say you're going to do, and that starts with
+              the services we offer our clients.
+            </p>
+
+          </div>
+
+          <div class="col-md-4 col-sm-12 col-xs-12">
+            <h3 class="text-center">
               Opportunities
             </h3>
             <h6 class="offs2">
               Our Door is Open for Dedication
             </h6>
-
             <p>
               We are always looking for reliable and dedicated staff to join
-              our team. If you are interested in finding out what we
-              have to offer our employees and team, please follow the steps
-              below.
+              our team.
             </p>
-            <ul class="marked-list wow fadeInRight" data-wow-duration="2s">
-              <li><a href="#">Background Check (FBI & DOJ)</a></li>
-              <li><a href="#">Employment Reference Check</a></li>
-              <li><a href="#">Valid Driver License (DMV Check)</a></li>
-              <li><a href="#">Drug Screening</a></li>
-              <li><a href="#">Highschool Diploma</a></li>
-              <li><a href="#">Valid Guard Card License</a></li>
-              <li><a href="#">Valid Firearm Permit</a></li>
-              <li><a href="#">Chemical Agent Certification</a></li>
-              <li><a href="#">Baton Permit</a></li>
-            </ul>
+
+            <br/>
+
             <p>
-              If you can meet these requirements, you are welcome to inquire
-              about employment opportunities. Please email <a href="mailto:employment@legionsecurity.us">employment@legionsecurity.us</a>
+              Legion Security strictly requires it's staff to be on-time, in the
+              appropriate uniform, and perform the required duties for the assignment.
+              While some understand strictness as having no tolerence for error or
+              mistakes, we take more of a true leadership approach to our team.
+              You can only grow as a team member with Legion if you are willing
+              to correct your mistakes when counseled and give the effort to do
+              your best.
+            </p>
+
+            <p>
+              <div class="btn btn-primary">
+                <a href="/employment-with-legion-security.php">Learn More</a>
+              </div>
             </p>
           </div>
         </div>
@@ -155,8 +197,9 @@
 
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">
+            <a href="#">
             <div class="thumbnail thumbnail3">
-              <img src="http://placehold.it/270x300/deb629/036601?text=picture of STUD">
+              <img src="http://placehold.it/270x300/deb629/036601?text=Coming Soon">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
@@ -173,8 +216,10 @@
                 </p>
               </div>
             </div>
+            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
+            <a href="/bio-coo-william-preston.php">
             <div class="thumbnail  thumbnail3">
               <img src="/images/legion/bill_270x300.jpg">
 
@@ -193,10 +238,12 @@
                 </p>
               </div>
             </div>
+            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
+            <a href="/bio-patrol-supervisor-jack-schappell.php">
             <div class="thumbnail  thumbnail3">
-              <img src="http://placehold.it/270x300/deb629/036601?text=picture of STUD">
+              <img src="http://placehold.it/270x300/deb629/036601?text=Camera Shy">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
@@ -212,8 +259,10 @@
                 </p>
               </div>
             </div>
+            </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
+            <a href="/bio-guard-supervisor-will-preston.php">
             <div class="thumbnail  thumbnail3">
               <img src="/images/legion/will_270x300.jpg">
 
@@ -231,6 +280,7 @@
                 </p>
               </div>
             </div>
+            </a>
           </div>
         </div>
       </div>
@@ -253,8 +303,9 @@
                 </h6>
 
                 <p>
-                  Sed sed consequat nisi. Etiam mauris massa, sodales lobortis tortor id, dictum
-                  sollicitudin felis. Vestibulum tristique urna
+                  We operate a 24hr dispatch & remote camera monitoring facility.
+                  This means when any of our contracted clients have a security
+                  concern, it's going to be answered no matter what time of day.
                 </p>
               </li>
               <li class="">
@@ -268,7 +319,8 @@
                 <p>
                   Being able to get in contact with a manager is important.
                   We answer our phones! You can always get a hold of us and
-                  have your needs addressed.
+                  have your needs addressed. We'll also check in with you
+                  periodically throughout the month about our services.
                 </p>
               </li>
               <li class="">
@@ -280,8 +332,11 @@
                 </h6>
 
                 <p>
-                  Vestibulum tristique urna ex, eu uisque suscipit lacus vestibulum odio rhoncus, non
-                  iaculis lectus mattis. Integer
+                  We spend just as much time interviewing, selecting, & training
+                  the right staff to meet our clients expectations as we do to
+                  aquire a new customer. Anyone in management or a hiring position
+                  knows what that means - our commitment to quality is elaborately
+                  rooted throughout our hiring and staff retention.
                 </p>
               </li>
             </ul>
@@ -296,16 +351,18 @@
             </h6>
 
             <p>
-              Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Integer mattis
-              tempus neque, eget tincidunt nibh tincidunt ac.
+              We have experienced the whole spectrum of security and safety issues.
+              From parking and vehicle break-ins to parties, crowds, & fighting we're
+              always prepared to bring the right staff and resources our clients
+              request.
             </p>
             <ul class="marked-list">
-              <li><a href="#">Bill's a stud</a></li>
-              <li><a href="#">Ronnie has a honker for the ladies</a></li>
-              <li><a href="#">Farnsworth is a ginger</a></li>
-              <li><a href="#">J Schappell is a zombie</a></li>
-              <li><a href="#">Willy Jr is a lady killer</a></li>
-              <li><a href="#">Dispatch rocks!</a></li>
+              <li><a href="#">Patrol Vehicle Program</a></li>
+              <li><a href="#">Gang Taks Force Relations</a></li>
+              <li><a href="#">Local Law Enforcement Community Meeetings</a></li>
+              <li><a href="#">Parking & Tow Company Management</a></li>
+              <li><a href="#">Camera IT Staff & Troubleshooting</a></li>
+              <li><a href="#">24hr Operations</a></li>
             </ul>
           </div>
           <div class="col-md-5 col-sm-6 col-xs-12">
@@ -344,7 +401,7 @@
                       get emailed to me every morning. I would totally
                       recommend you guys to any property in Sacramento.
                       Thank you for all the help you've given us here
-                      at Legacy Home Fountains this summer!"
+                      at Legacy Fountains this summer!"
                     </q>
                   </p>
                   <cite class='h6'>

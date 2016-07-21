@@ -1685,11 +1685,12 @@
                     .removeClass('sending')
                     .addClass('success')
                     .find('.msg')
-                    .text(data.message);
+                    .text('Thanks! You can expect to hear from us soon.')
+                    // .text(data.message);
 
                 setTimeout($.proxy(function () {
                     $(this).find('.' + self._core.options.progress.class).removeClass('success').addClass('hide').find('.msg');
-                }, this), 1500);
+                }, this), 3500);
             })
             .on('mf.reset', function (e, data) {
                 $(this).find('.' + self._core.options.progress.class).removeClass('sending').removeClass('fail').removeClass('success').find('.msg');
@@ -1709,11 +1710,9 @@
     $(document).ready(function () {
         var o = $('.mailform');
 
+
         if (o.length) {
             o.rdMailForm();
         }
     });
 })(window.jQuery, window, document);
-
-
-
