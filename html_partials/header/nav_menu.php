@@ -42,9 +42,9 @@
   <li>
     <a href="/services.php">Services</a>
   </li>
-  <li>
+  <!-- <li>
     <a href="/industry.php">Industry</a>
-  </li>
+  </li> -->
   <li>
     <a href="/employment-with-legion-security.php">Jobs</a>
   </li>

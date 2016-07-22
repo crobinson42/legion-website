@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=no"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>William Preston Jr.</title>
+  <title>William "Will" Preston</title>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -43,7 +43,7 @@
     <section class="well well7">
       <div class="container">
         <h3 class="text-center">
-          William Preston Jr.<br/>
+          William "Will" Preston<br/>
           Sergeant "Guard Supervisor"<br />
           Legion Security
         </h3>

@@ -49,7 +49,7 @@
         </h3>
 
         <p class="">
-          <img src="http://placehold.it/300x400?text=Jack-pic" style="float:left;margin:15px;"/>
+          <img src="http://placehold.it/300x400?text=Pic Coming Soon" style="float:left;margin:15px;"/>
           <div class="clearfloat"></div>
 
           <p class="">

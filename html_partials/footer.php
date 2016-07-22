@@ -70,34 +70,45 @@
                 </a>
               </li>
             </ul>
+
+            <br>
+            <br>
+
             <h4>
-              Follow us
+              Connect With Us
             </h4>
             <ul class="link-list">
+              <li>
+                <a href="http://www.yelp.com/biz/legion-security-sacramento-2">
+                  <i class="fa fa-yelp" aria-hidden="true"></i>
+                  &nbsp;
+                  Yelp
+                </a>
+              </li>
               <li>
                 <a href="https://plus.google.com/u/1/107926698583162354167">
                   <span class="icon fa-google-plus"></span>
                   Google +
                 </a>
               </li>
-              <li>
+              <!-- <li>
                 <a href="https://www.facebook.com/sacramentolegionpatrol/">
                   <span class="icon fa-facebook"></span>
                   Facebook
                 </a>
-              </li>
+              </li> -->
               <li>
                 <a href="#">
                   <span class="icon fa-linkedin"></span>
                   LinkedIn
                 </a>
               </li>
-              <li>
+              <!-- <li>
                 <a href="https://twitter.com/legiontheway">
                   <span class="icon fa-twitter"></span>
                   Twitter
                 </a>
-              </li>
+              </li> -->
             </ul>
           </div>
 
@@ -107,17 +118,18 @@
     </section>
 
 
-    <section class="well_foot-2">
-      <div class="container">
-        <div class="rights">
-          <h1>
-            <img src="images/roman-helmet 32px.png" style="padding-bottom: 8px;"/>
-            Legion<span class="legion-text-alternate">Security</span>
-          </h1> &#169; <span id="copyright-year"></span>&nbsp;
-          <a href="index-5.html">Privacy Policy</a>
-          <!-- {%FOOTER_LINK} -->
-        </div>
-      </div>
-    </section>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/579282cc0e63b04e4ae4bf0c/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
   </footer>

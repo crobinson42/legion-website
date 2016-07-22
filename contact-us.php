@@ -168,7 +168,7 @@
                 <li>Insurance & Licensing</li>
               </ul>
               <p>
-                <h6>Ronald Robinson</h6>
+                <h6>Ronald "Ron" Robinson</h6>
                 Chief Executive Officer
                 <br>
                 <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9168771580">916-877-1580</a>

@@ -1,4 +1,4 @@
-var GOOGLE_MAP_API_KEY = 'AIzaSyBXelQWBedJcgUS7dDIiHhoFQOnWQ1VY4s';
+var GOOGLE_MAP_API_KEY = 'AIzaSyDsV5DKWdg30q6ss2_3-tJMT8bJv_VwDMQ';
 
 function include(scriptUrl) {
     document.write('<script src="' + scriptUrl + '"></script>');

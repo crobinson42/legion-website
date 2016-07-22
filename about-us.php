@@ -114,7 +114,7 @@
               </div>
               <div class="media-body">
                 <p>
-                  We plan to expand our services to multiple branch offices in North Bay Area
+                  We plan to expand our services to multiple branch offices in East Bay Area
                   California. This reach will allow us to provide scale security operations
                   along the I-80 corridor, reaching all the minor communitiy areas along the way.
                 </p>
@@ -358,7 +358,7 @@
             </p>
             <ul class="marked-list">
               <li><a href="#">Patrol Vehicle Program</a></li>
-              <li><a href="#">Gang Taks Force Relations</a></li>
+              <li><a href="#">Gang Task Force Relations</a></li>
               <li><a href="#">Local Law Enforcement Community Meeetings</a></li>
               <li><a href="#">Parking & Tow Company Management</a></li>
               <li><a href="#">Camera IT Staff & Troubleshooting</a></li>

@@ -14,6 +14,7 @@
 
   <!-- Links -->
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/mailform-sub.css">
   <link rel="stylesheet" href="css/search.css">
 
   <!--JS-->
@@ -43,29 +44,20 @@
     <section class="well well7">
       <div class="container">
         <h3 class="text-center">
-          What We Do
+          Our Services
         </h3>
 
         <p class="text-center">
-          Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu
-          convallis id. In id vestibulum sapien. Praesent eg
-          et bibendum purus quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc
+          We provide most services needed in any public or private security &
+          safety situation. Our primary focus and flagship is our Vehicle Patrol
+          Program followed closely by our Uniformed Staff Program. We are always able and
+          willing to tailor our security services to your needs, reach out to us
+          to strike up a marker on the whiteboard and lets get to planning together!
         </p>
+
 
         <div class="row">
           <ul class="index-list index-list_mod col-4_mod">
-            <li class="col-md-4 col-sm-6 col-xs-12">
-
-              <h6>
-                <a href="/service-security-guard.php">
-                  Armed / Unarmed Guard
-                </a>
-              </h6>
-
-              <p>
-                Legion Security provides uniformed guards, armed or unarmed.
-              </p>
-            </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
@@ -77,19 +69,31 @@
               <p>
                 We provide scheduled and random nightly or daily vehicle patrol service
                 to conduct security or courtesy duties at your property.
+                <br/>
+                <a href="/service-vehicle-patrol.php" class="btn-link">
+                  <span class="fst" data-txt="Read More"></span>
+                  <span class="snd" data-txt="Read More"></span>
+                </a>
               </p>
+
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-vehicle-patrol.php">
-                  Dispatch & Alarm Response
+                <a href="/service-security-guard.php">
+                  Armed / Unarmed Guard
                 </a>
               </h6>
 
               <p>
-                When you have an alarm go off, Legion will respond. You can add our 24hr dispatch
-                to your call list and rely on us.
+                Legion Security provides uniformed guards, armed or unarmed. We
+                provide all needed equipment and staff management/oversight for
+                uniformed staff.
+                <br/>
+                <a href="/service-security-guard.php" class="btn-link">
+                  <span class="fst" data-txt="Read More"></span>
+                  <span class="snd" data-txt="Read More"></span>
+                </a>
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
@@ -104,6 +108,24 @@
                 Legion Security operates and maintains a state-of-the-art dispatch
                 and camera monitoring office. We can monitor remote camera feeds from
                 anywhere in North America.
+                  <br/>
+                <a href="/service-camera-monitoring.php" class="btn-link">
+                  <span class="fst" data-txt="Read More"></span>
+                  <span class="snd" data-txt="Read More"></span>
+                </a>
+              </p>
+            </li>
+            <li class="col-md-4 col-sm-6 col-xs-12">
+
+              <h6>
+                <a href="/service-vehicle-patrol.php">
+                  Dispatch & Alarm Response
+                </a>
+              </h6>
+
+              <p>
+                When you have an alarm go off, Legion will respond. You can add our 24hr dispatch
+                to your call list and rely on us.
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
@@ -131,10 +153,26 @@
               <p>
                 100 - 10,000 person event? We have the security team that will keep
                 the patrons and the event staff safe and having a good time.
+                <br/>
+              <a href="/service-special-event.php" class="btn-link">
+                <span class="fst" data-txt="Read More"></span>
+                <span class="snd" data-txt="Read More"></span>
+              </a>
               </p>
             </li>
           </ul>
         </div>
+
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p class="text-center">
+              <div class="btn btn-primary btn-xs">
+                <a href="#servicelist">Full List of Services</a>
+              </div>
+            </p>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -142,8 +180,8 @@
              data-speed="0.6">
       <div class="container">
         <h2>
-          Striving to excellence<br/>
-          in service we provide
+          Striving to Excellence<br/>
+          in Service We Provide
         </h2>
 
         <p class="white ins1">
@@ -165,54 +203,65 @@
 
             <h6>Random Vehicle Patrol</h6>
 
-            <p><strong>This is our flagship service..</strong> Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis
-              lectus mattis. Integer mattis tempus neque, eget tincidunt nibh tincidunt ac. Maecenas
-              feugiat lorem ut nibh maximus tempus. Vestibulum facilisis ligula urna, vitae cursus tortor
-              malesuada eu. Morbi quis lectus non
+            <p>
+              <h5>What are security patrol services?</h5>
+
+              Security Patrol services is also well-known as vehicle security patrol based service. Patrol or vehicle services can be a strong deterrent to crime and provide a number of valuable services, such as alarm response, after-hours control of locks and gates, and periodic inspection of key locations. It helps to make possible to identify areas that need attention. With security patrol service the possibility of something bad happening to a client property can be dealt positively.
+
+              <h5>How Security Patrol Services work for security? </h5>
+
+              Patrol officers and vehicles are out 24/7 a day for the security of the area where they appointed. Patrol officers are well skilled to notice any mistrustful activity so they can put off a problem before it starts. Their security vehicles are equipped with GPS tracking devices so you will know accurately when your officers are onsite and for how long. A security patrol service includes electronic reporting systems which provide real time reports of any issues or incidents if found and corrective measures can be taken. This 24 hour dispatch also provides immediate police and supervisory response to emergency situations and provides the continuous safety to people and property.
               <br/>
-              <br/>
-              Enunc varius varius sed nec neque. Vestibulum ante ipsum primis in faucibus orci luctus et
-              ultrices posuere cubilia Curae; Praesent non sapien cursus, blandit turpis lacinia,
-              vestibulum lectus. In purus ipsum, aliquet eget elit vel, laoreet viverra mi. Aenean non
-              congue ex. In dictum libero id consectetur tincidunt. Nulla sed euismod velit. Etiam
-              fringilla, nibh auctor efficitur sollicitudin, nunc </p>
+              <a href="/service-vehicle-patrol.php" class="btn-link">
+                <span class="fst" data-txt="Read More"></span>
+                <span class="snd" data-txt="Read More"></span>
+              </a>
+            </p>
           </div>
           <div class="col-md-6 col-sm-6 col-xs-12">
 
             <h6>Camera Monitoring & Alarm Dispatch Response</h6>
 
-            <p>Quisque suscipit lacus vestibulum odio rhoncus, non iaculis lectus mattis. Integer mattis
-              tempus neque, eget tincidunt nibh tincidunt ac. Maecenas feugiat lorem ut nibh maximus
-              tempus. Vestibulum facilisis ligula urna, vitae cursus tortor malesuada eu. Morbi quis
-              lectus non. Enunc varius varius sed nec
+            <p>
+              <h5>Benefits</h5>
+              Legion Security supports your camera security plan at a lower cost than on-site monitoring. Rates are based on the number of cameras and can be an affordable alternative to maintaining staff on site to monitor your feed. With Legion Security monitoring services, your building is never unattended and anyone on premises is never alone. Regardless of whether there is a guard on duty in your building, the feed is being monitored, and you can be assured that your people, your premises and your property are safe.
+              <br>
+              <br>
+              Legion Security monitoring of a camera feed is the ideal security solution for after hours and restricted access areas. Cameras can be watched constantly.  The responding security officer on duty is alerted only if movement is detected in an area where there should not be any, creating an even greater savings on your security services. This is an ideal application for after hours when your facility is closed or overnight shifts on construction sites.
               <br/>
-              <br/>
-              Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-              Praesent non sapien cursus, blandit turpis lacinia, vestibulum lectus. In purus ipsum,
-              aliquet eget elit vel, laoreet viverra mi. Aenean non congue ex. In dictum libero id
-              consectetur tincidunt. Nulla sed euismod velit. Etiam fringilla, nibh auctor efficitur
-              sollicitudin, nunc dolor pulvinar erat, eget euismod odio nisl </p>
+            <a href="/service-camera-monitoring.php" class="btn-link">
+              <span class="fst" data-txt="Read More"></span>
+              <span class="snd" data-txt="Read More"></span>
+            </a>
+            </p>
           </div>
         </div>
 
       </div>
     </section>
 
+
+    <?php include './html_partials/sections/request_quote.php'; ?>
+
+
     <section class="well well4 parallax text-center" data-url="images/parallax-gate_edited.jpg" data-mobile="true"
              data-speed="0.6" >
       <div class="container">
         <h2 class="caption caption-transparent">
-          We make<br/>
-          your community safe
+          We Make<br/>
+          Your Community Safe
         </h2>
 
         <p class="white ins1">
-          Nullam semper orci non ligula pharetra vulputate. Nullam maximus purus eu dui mole
-          stie, aliquam dictum ipsum ultrices. Class aptent taciti sociosqu ad
+          Our pronounced uniforms and patrol vehicles deter crime. Keep your community
+          safe with a 24hr security program.
         </p>
         <!-- <a href="#" class="btn btn-primary">Learn More</a> -->
       </div>
     </section>
+
+
+    <a name="servicelist"></a>
 
     <section class="well well7">
       <div class="container">
@@ -225,42 +274,45 @@
 
             <h6>100% Commitment to Everything We Do</h6>
 
-            <p>Vestibulum tristique urna ex, eu Quisque suscipit lacus vestibulum odio rhoncus, non iaculis
-              lectus mattis. Integer mattis tempus neque, eget tincidunt nibh tincidunt ac.
+            <p>
+              When we're on the job, we're on the job. You won't see a Legion Security
+              officer ever sitting down, chatting on their cellphone, or neglecting
+              the clients property. When you can do something better, you do it
+              better. We don't cut corners or take short cuts to make it easier
+              on us- that's how we operate.
               <br/>
               <br/>
-              Maecenas feugiat lorem ut nibh maxim us tempus. Vestibulum facilisis ligula urna, vitae
-              cursus tortor males</p>
+              Try out any of these services, we're sure you'll be impressed!</p>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
             <ul class="marked-list wow fadeInRight" data-wow-delay=".3s">
-              <li><a href="#">Armed Guard</a></li>
-              <li><a href="#">Unarmed Guard</a></li>
-              <li><a href="#">Facilities Lock-up/Un-lock</a></li>
-              <li><a href="#">Vacation Watch</a></li>
-              <li><a href="#">Health & Welfare Inspection</a></li>
-              <li><a href="#">Random Vehicle Patrol</a></li>
-              <li><a href="#">Parking Enforcement & Towing</a></li>
+              <li><a href="javascript:void(0);">Armed Guard</a></li>
+              <li><a href="javascript:void(0);">Unarmed Guard</a></li>
+              <li><a href="javascript:void(0);">Facilities Lock-up/Un-lock</a></li>
+              <li><a href="javascript:void(0);">Vacation Watch</a></li>
+              <li><a href="javascript:void(0);">Health & Welfare Inspection</a></li>
+              <li><a href="javascript:void(0);">Random Vehicle Patrol</a></li>
+              <li><a href="javascript:void(0);">Parking Enforcement & Towing</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
             <ul class="marked-list wow fadeInRight" data-wow-delay=".6s">
-              <li><a href="#">Remote Camera Monitoring</a></li>
-              <li><a href="#">Alarm Response</a></li>
-              <li><a href="#">Alarm Dispatch</a></li>
-              <li><a href="#">Special Event Security</a></li>
-              <li><a href="#">Crowd Control</a></li>
-              <li><a href="#">Facility Access Control</a></li>
+              <li><a href="javascript:void(0);">Remote Camera Monitoring</a></li>
+              <li><a href="javascript:void(0);">Alarm Response</a></li>
+              <li><a href="javascript:void(0);">Alarm Dispatch</a></li>
+              <li><a href="javascript:void(0);">Special Event Security</a></li>
+              <li><a href="javascript:void(0);">Crowd Control</a></li>
+              <li><a href="javascript:void(0);">Facility Access Control</a></li>
             </ul>
           </div>
           <div class="col-lg-3 col-md-6 col-sm-6 col-xs-12">
             <ul class="marked-list wow fadeInRight" data-wow-delay=".9s">
-              <li><a href="#">VIP Escort & Protection</a></li>
-              <li><a href="#">Estate Perimeter Security</a></li>
-              <li><a href="#">Special Vehicle Escort</a></li>
-              <li><a href="#">Employee Termination Standby</a></li>
-              <li><a href="#">Eviction Notice Service</a></li>
-              <li><a href="#">Civil Standby Protection</a></li>
+              <li><a href="javascript:void(0);">VIP Escort & Protection</a></li>
+              <li><a href="javascript:void(0);">Estate Perimeter Security</a></li>
+              <li><a href="javascript:void(0);">Special Vehicle Escort</a></li>
+              <li><a href="javascript:void(0);">Employee Termination Standby</a></li>
+              <li><a href="javascript:void(0);">Eviction Notice Service</a></li>
+              <li><a href="javascript:void(0);">Civil Standby Protection</a></li>
             </ul>
           </div>
         </div>

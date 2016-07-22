@@ -224,7 +224,7 @@
       </div>
     </section>
 
-    <section class="well well4 parallax text-center" style="height:500px;" data-url="http://placehold.it/1600x400?text=legion-patrol-car" data-mobile="true"
+    <section class="well well4 parallax text-center" style="height:500px;" data-url="/images/black_vic.jpg" data-mobile="true"
              data-speed="0.6">
       <div class="container">
         <h2 class="fw-l">
@@ -235,7 +235,12 @@
           We can start patrolling your property as fast as you can sign our
           service agreement!
         </p>
-        <a href="#" class="btn btn-primary">Start Service</a>
+
+        <a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#startService">
+          Start Service
+        </a>
+
+        <?php include './html_partials/modals/start_service.php'; ?>
       </div>
     </section>
 
@@ -246,46 +251,56 @@
           More About Patrol
         </h3>
 
-        
-        <p class="text-center">
-        LEGION Security never uses personal, compact nor any other sub-standard security vehicles.  All of our patrol vehicles are full-size and fully equipped late model FORD police-type vehicles.
-        </p>
+        <div class="row">
+
+          <div class="col-md-5 col-md-offset-1">
+            <p class="text-center">
+            LEGION Security never uses personal, compact nor any other sub-standard security vehicles.  All of our patrol vehicles are full-size and fully equipped late model FORD police-type vehicles.
+            </p>
+            <br />
+            <p class="text-center">
+            All LEGION patrol vehicles are equipped with emergency lighting and communications systems as well as 24-hour GPS tracking systems.  When we are on your property, we are flashing overhead lights to send a clear message that we are on scene and we take the protection of your facility seriously.
+            </p>
+            <br />
+            <p class="text-center">
+            All of our vehicles have the full LEGION graphic designs that have become a very familiar sight on the streets and highways around the greater Sacramento area.  When you see those familiar LEGION vehicles on the streets, you know that this is a company that means business.
+            </p>
+            <br />
+            <p class="text-center">
+            LEGION offers specialized vehicle patrol services to property management companies, commercial businesses and government facilities.  We provide advanced security solutions and peace of mind through effective security patrols within your community.
+            </p>
+            <br />
+            <p class="text-center">
+            Policing is now reactive, rather than a proactive service, due to the high volume of calls for service, increases in population, and fewer officers on the street to respond to the demand.  Police response times have increased while their ability to patrol communities has diminished due to the ongoing strain on their resources.
+            </p>
+          </div>
+
+          <div class="col-md-5">
+            <p class="text-center">
+            LEGION patrol officers can bridge the gap caused by a lack of police presence and response by providing a 24 hour patrol service to safeguard you and your assets. We will challenge and document any suspicious persons or activities in the area, act on and report criminal activities while providing a continuous safety and emergency response service to you, your employees, your residents or your customers.
+            </p>
+            <br />
+            <p class="text-center">
+            When you call the LEGION Security Dispatch Center, you will never get a telephone answering machine or answering service.  You will never get an out-of-town or “National” call center person who doesn’t know the difference between Sacramento and Citrus Heights.
+            </p>
+            <br />
+            <p class="text-center">
+            LEGION Security never sub-contracts or provides off-duty guards.  All LEGION security officers are full-duty, fully-trained, fully-licensed and dressed in full, distinctive and professional LEGION security uniforms.
+            </p>
+            <br />
+            <p class="text-center">
+            Our patrol officers will respond immediately to any concern or complaint reported, addressing the concern with professionalism and vigilance. We provide an immediate, first line of defense and will be available to respond to any emergency within minutes to protect you and your property until Police, Fire or EMS response is available.
+            </p>
+            <br />
+            <p class="text-center">
+            Our patrol officers are experienced security professionals who will work closely with the police to ensure ongoing client safety and peace of mind. Private patrols are an affordable and effective means of establishing and ensuring a safer community, commercial center or government facility.
+            </p>
+          </div>
+
+        </div>
+
         <br />
-        <p class="text-center">
-        All LEGION patrol vehicles are equipped with emergency lighting and communications systems as well as 24-hour GPS tracking systems.  When we are on your property, we are flashing overhead lights to send a clear message that we are on scene and we take the protection of your facility seriously.
-        </p>
-        <br />
-        <p class="text-center">
-        All of our vehicles have the full LEGION graphic designs that have become a very familiar sight on the streets and highways around the greater Sacramento area.  When you see those familiar LEGION vehicles on the streets, you know that this is a company that means business.
-        </p>
-        <br />
-        <p class="text-center">
-        LEGION offers specialized vehicle patrol services to property management companies, commercial businesses and government facilities.  We provide advanced security solutions and peace of mind through effective security patrols within your community.
-        </p>
-        <br />
-        <p class="text-center">
-        Policing is now reactive, rather than a proactive service, due to the high volume of calls for service, increases in population, and fewer officers on the street to respond to the demand.  Police response times have increased while their ability to patrol communities has diminished due to the ongoing strain on their resources.
-        </p>
-        <br />
-        <p class="text-center">
-        LEGION patrol officers can bridge the gap caused by a lack of police presence and response by providing a 24 hour patrol service to safeguard you and your assets. We will challenge and document any suspicious persons or activities in the area, act on and report criminal activities while providing a continuous safety and emergency response service to you, your employees, your residents or your customers.
-        </p>
-        <br />
-        <p class="text-center">
-        When you call the LEGION Security Dispatch Center, you will never get a telephone answering machine or answering service.  You will never get an out-of-town or “National” call center person who doesn’t know the difference between Sacramento and Citrus Heights.
-        </p>
-        <br />
-        <p class="text-center">
-        LEGION Security never sub-contracts or provides off-duty guards.  All LEGION security officers are full-duty, fully-trained, fully-licensed and dressed in full, distinctive and professional LEGION security uniforms.
-        </p>
-        <br />
-        <p class="text-center">
-        Our patrol officers will respond immediately to any concern or complaint reported, addressing the concern with professionalism and vigilance. We provide an immediate, first line of defense and will be available to respond to any emergency within minutes to protect you and your property until Police, Fire or EMS response is available.
-        </p>
-        <br />
-        <p class="text-center">
-        Our patrol officers are experienced security professionals who will work closely with the police to ensure ongoing client safety and peace of mind. Private patrols are an affordable and effective means of establishing and ensuring a safer community, commercial center or government facility.
-        </p>
+
         <br />
 
 

@@ -337,7 +337,7 @@
 
               <p>
                 We know you have a budget so we set out to
-                offer comptetive rates for a superior service!
+                offer competitive rates for a superior service!
               </p>
             </li>
             <li class="col-md-4 col-sm-6 col-xs-12">
@@ -374,7 +374,7 @@
               </h6>
 
               <p>
-                Our presents promotes a more safe environment and
+                Our presence promotes a more safe environment and
                 you can rely on us being there for you when you need it.
               </p>
             </li>
