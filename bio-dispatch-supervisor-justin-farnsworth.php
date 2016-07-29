@@ -5,9 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="format-detection" content="telephone=no"/>
+  <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Justin Farnsworth</title>
+  <title>Bio - Justin Farnsworth</title>
+  <meta name=”description” content=”Legion Securitys Watch Commander, Justin Farnsworth, is a security patrol expert. He brings leadership and experience to our clients.”/>
+  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">

@@ -5,10 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="format-detection" content="telephone=no"/>
+  <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Services</title>
-
+  <title>Services - Security Patrol, Guard, & Camera Monitoring</title>
+    <meta name=”description” content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
+  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
 
@@ -277,9 +279,8 @@
             <p>
               When we're on the job, we're on the job. You won't see a Legion Security
               officer ever sitting down, chatting on their cellphone, or neglecting
-              the clients property. When you can do something better, you do it
-              better. We don't cut corners or take short cuts to make it easier
-              on us- that's how we operate.
+              the client's property. When we can do something better, we do it better.
+              We don't cut corners or take short cuts to make it easier on us- that's how we operate.
               <br/>
               <br/>
               Try out any of these services, we're sure you'll be impressed!</p>

@@ -5,9 +5,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="format-detection" content="telephone=no"/>
+  <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>About</title>
+  <title>About Legion Security</title>
+  <meta name=”description” content=”Legion Security provides security patrol service, security guard, special event security, & camera monitoring. We are the leaders in the industry!”/>
+  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -66,8 +68,8 @@
               <br/>
               Communication is the key to our success in making your property
               more safe. We'll check in with you periodically to ensure our
-              services are on track. You're also able to get in contact,
-              quickly, with any manager when you have a security concern or issue.
+              services are on track. You're always able to quickly make contact
+              with a manager or decision maker when you have a security concern or issue.
             </p>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">

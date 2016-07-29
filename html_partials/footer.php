@@ -12,7 +12,7 @@
 
             <p class="big">
               We provide security guard, patrol, & camera monitoring services for a wide variety of
-              transportation, power plant and utility, industrial, commercial, and residential projects.
+              transportation centers, municipal utility facilities, industrial complexes, commercial centers, and residential community projects.
               <br/>
               <br/>
               Our professional commitment assures increased safety and provides practical and cost-effective solutions.
@@ -45,7 +45,7 @@
               <div class="terms-list-1">
                 <dl>
                   <dt>Telephone:</dt>
-                  <dd><a href="callto:#">916 277 9006</a>
+                  <dd><a href="callto:9162779006">916 277 9006</a>
                   </dd>
                 </dl>
                 <dl>
@@ -53,7 +53,10 @@
                   <dd><a href="mailto:#">info@legionsecurity.us</a></dd>
                 </dl>
               </div>
-            </address>
+
+              <p>
+                CA PPO #18049
+              </p>
 
           </div>
 

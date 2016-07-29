@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /industry.php
+Disallow: /unused_html/
+Disallow: /landing-page/
+Disallow: /html_partials/
+Disallow: /html/
+Disallow: /bat/
+Disallow: /assets/

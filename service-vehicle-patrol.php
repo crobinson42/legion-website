@@ -5,9 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="format-detection" content="telephone=no"/>
+  <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Vehicle Patrol Service</title>
+  <title>Vehicle Security Patrol Service</title>
+  <meta name=”description” content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
+  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -47,7 +50,7 @@
         </h3>
 
         <p class="text-center">
-          Legion Security offers professional mobile security patrol services that will dramatically reduce break and enters, vandalism and other crimes against property and persons. Our patrols are highly visible, intelligence led and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
+          Legion Security offers professional mobile security patrol services that will dramatically reduce break and enters, vandalism and other crimes against property and persons. Our patrols are highly visible, intelligence led, and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
         </p>
 
     </section>

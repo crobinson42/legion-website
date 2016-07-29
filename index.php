@@ -5,9 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="format-detection" content="telephone=no"/>
+  <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon_green.ico" type="image/x-icon">
-  <title>Legion Security</title>
+  <title>Legion Security- Security Patrol, Guard, & Camera Monitoring</title>
+  <meta name=”Description” content="Sacramento security patrol and guard services - We are RELIABLE, AVAILABLE, & CONSISTENT. Read our reviews and see why our customers are happy with us!"/>
+  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+
+  <meta name="Keywords" content="some, keywords, no, search, engine, use, nowaday">
+  <meta name="Robots" content="index, follow">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -58,6 +63,15 @@
 
   <main>
 
+    <section class="hidden">
+      <h1>Sacramento Security Patrol & Guard Services</h1>
+      <p>
+        Reliable, consistent & proactive security service. We're available 24hrs for your security
+        needs & concerns. We offer a free month of service when you sign up for Security Patrol / Courtesy Patrol.
+      </p>
+    </section>
+
+
     <section class="well well1">
       <div class="container">
         <div class="row">
@@ -77,7 +91,7 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".7s">
             <a href="/service-vehicle-patrol.php">
-            <img src="images/car-icon.png" alt=""/>
+            <img src="images/car-icon.png" alt="Security Patrol Services in Sacramento"/>
             <h5 class="ins_r">
               Vehicle Patrol Service
             </h5>
@@ -89,7 +103,7 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".5s">
             <a href="/service-camera-monitoring.php">
-            <img src="images/security-camera.png" alt=""/>
+            <img src="images/security-camera.png" alt="Camera Monitoring with Security Vehicle Response"/>
             <h5 class="ins_r">
               Facility Access & Camera Montioring
             </h5>
@@ -103,7 +117,7 @@
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".3s">
             <a href="/service-special-event.php">
-            <img src="images/vip-pass.png" alt=""/>
+            <img src="images/vip-pass.png" alt="Special Event Security & Staff"/>
             <h5 class="ins_r">
               Special Event & VIP Escort
             </h5>
@@ -205,7 +219,7 @@
 
           <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".7s">
             <div class="thumbnail thumbnail4">
-              <img src="images/uniform_370x200.jpg">
+              <img src="images/uniform_370x200.jpg" alt="Providing the best security guard services in Sacramento, CA">
 
               <div class="caption">
                 <h6>
@@ -226,7 +240,7 @@
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".5s">
             <div class="thumbnail thumbnail4">
-              <img src="images/patrol_370x200.jpg">
+              <img src="images/patrol_370x200.jpg"  alt="Sacramento Security Patrol Services - Courtesy Patrol & Security Patrol">
 
               <div class="caption">
                 <h6>
@@ -245,7 +259,7 @@
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12 wow fadeInRight" data-wow-delay=".3s">
             <div class="thumbnail thumbnail4">
-              <img src="images/camera_monitoring_370x200.jpg">
+              <img src="images/camera_monitoring_370x200.jpg"  alt="Remote Camera Monitoring & Alarm Response">
 
               <div class="caption">
                 <h6>
