@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Camera Monitoring</title>
-  <meta name=”description” content="Camera monitoring, remote dispatch, alarm & camera response patrol services - We're workign 24hrs for our clients, how can we help you?"/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Camera monitoring, remote dispatch, alarm & camera response patrol services - We're workign 24hrs for our clients, how can we help you?"/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
   
 
   <!-- Bootstrap -->

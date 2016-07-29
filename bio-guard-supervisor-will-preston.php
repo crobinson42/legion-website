@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Bio - William "Will" Preston</title>
-  <meta name=”description” content=”Legion Securty is proud to have Will Preston, a military veteran who served over seas, as a supervisor.”/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Legion Securty is proud to have Will Preston, a military veteran who served over seas, as a supervisor."/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -59,7 +59,7 @@
           </p>
           <br/>
           <p class="">
-            As LEGION Security’s “Guard Supervisor”, Sergeant Preston oversees the wellbeing of all Legion Security officers.  He is the primary point of contact for all officers.  In this position he oversees the training and supervision of junior security officers in their duties and responsibilities as professional LEGION security officers.  Sergeant Preston is directly responsible to LEGION Security’s Watch Commander and Operations Manager for the performance of his security officers, and must therefore ensure the security officers are properly motivated and perform their duties to the best of their ability. This requires him to fulfill a dual role as disciplinarian and motivator, much like a coach in an athletic team.  He does this by encouraging and correcting security officers who may be struggling or having difficulties in the performance of their duties, while commending those who fulfill their work to LEGION Security’s standards.  He is always available lend an ear whether their problems are personal or professional and he makes every effort to assist in dealing with whatever issues come his way. Sergeant Preston personally develops and mentors LEGION’s security officers in order to get them on an upwardly mobile career path while teaching them the drive, resiliency and professionalism that defines LEGION security officers.
+            As LEGION Security’s "Guard Supervisor", Sergeant Preston oversees the wellbeing of all Legion Security officers.  He is the primary point of contact for all officers.  In this position he oversees the training and supervision of junior security officers in their duties and responsibilities as professional LEGION security officers.  Sergeant Preston is directly responsible to LEGION Security’s Watch Commander and Operations Manager for the performance of his security officers, and must therefore ensure the security officers are properly motivated and perform their duties to the best of their ability. This requires him to fulfill a dual role as disciplinarian and motivator, much like a coach in an athletic team.  He does this by encouraging and correcting security officers who may be struggling or having difficulties in the performance of their duties, while commending those who fulfill their work to LEGION Security’s standards.  He is always available lend an ear whether their problems are personal or professional and he makes every effort to assist in dealing with whatever issues come his way. Sergeant Preston personally develops and mentors LEGION’s security officers in order to get them on an upwardly mobile career path while teaching them the drive, resiliency and professionalism that defines LEGION security officers.
           </p>
         </p>
     </section>

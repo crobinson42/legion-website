@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Employment</title>
-  <meta name=”description” content="Legion Security is hiring for dedicated, reliable, & professional individuals. Postions available for uniformed guard, patrol driver, & dispatcher." />
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Legion Security is hiring for dedicated, reliable, & professional individuals. Postions available for uniformed guard, patrol driver, & dispatcher." />
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -69,7 +69,7 @@
               At Legion Security we believe that when working within a team it's important to keep a good line of communication open. When you have good communication then you also have the ability to resolve problems together. Effective communication allows a team to bring together different opinions and points of view for brainstorming in a positive and healthy manner.
 
               <br><br>
-              <strong>“Coming together is a beginning. Keeping together is progress. Working together is success"</strong>
+              <strong>"Coming together is a beginning. Keeping together is progress. Working together is success"</strong>
               <br>
               <strong>-Henry Ford</strong>
             </p>
@@ -225,7 +225,7 @@
 
             <li style="list-style:disc;">Sign-in/out Patrol Fleet keys, cards & equipment</li>
 
-            <li style="list-style:disc;">Relay information and administrative support to field officers on an “as needed” basis</li>
+            <li style="list-style:disc;">Relay information and administrative support to field officers on an "as needed" basis</li>
           </ul>
         </div>
 

@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Vehicle Security Patrol Service</title>
-  <meta name=”description” content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
   
 
   <!-- Bootstrap -->
@@ -284,7 +284,7 @@
             </p>
             <br />
             <p class="text-center">
-            When you call the LEGION Security Dispatch Center, you will never get a telephone answering machine or answering service.  You will never get an out-of-town or “National” call center person who doesn’t know the difference between Sacramento and Citrus Heights.
+            When you call the LEGION Security Dispatch Center, you will never get a telephone answering machine or answering service.  You will never get an out-of-town or "National" call center person who doesn’t know the difference between Sacramento and Citrus Heights.
             </p>
             <br />
             <p class="text-center">

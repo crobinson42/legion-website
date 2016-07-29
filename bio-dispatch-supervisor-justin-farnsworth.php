@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Bio - Justin Farnsworth</title>
-  <meta name=”description” content=”Legion Securitys Watch Commander, Justin Farnsworth, is a security patrol expert. He brings leadership and experience to our clients.”/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Legion Securitys Watch Commander, Justin Farnsworth, is a security patrol expert. He brings leadership and experience to our clients."/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -55,7 +55,7 @@
           <div class="clearfloat"></div>
 
           <p class="">
-            Sergeant Justin Farnsworth has been in the security industry since 2012.  Sergeant Farnsworth started out as a basic “Dedicated” standing security officer.  However, through hard work, dedication and commitment to excellence, he quickly rose through the ranks from Officer, to Senior Officer, Corporal/Patrol Officer, Sergeant/Supervisor and finally having displayed superior judgment, leadership and professional abilities to Watch Commander.
+            Sergeant Justin Farnsworth has been in the security industry since 2012.  Sergeant Farnsworth started out as a basic "Dedicated" standing security officer.  However, through hard work, dedication and commitment to excellence, he quickly rose through the ranks from Officer, to Senior Officer, Corporal/Patrol Officer, Sergeant/Supervisor and finally having displayed superior judgment, leadership and professional abilities to Watch Commander.
           </p>
           <br/>
           <p class="">
@@ -63,7 +63,7 @@
           </p>
           <br />
           <p class="">
-            As a Legion Watch Commander, Sergeant Farnsworth also oversees the health, safety, welfare and performance of all security officers in the field. He performs unannounced site checks on our “Dedicated” Standing Officers to ensure they are providing you with superior security services at all times.  Our Watch Commanders have extensive experience working with local law enforcement agencies and will respond to the scene whenever law enforcement has been requested to ensure all issues have been addressed.
+            As a Legion Watch Commander, Sergeant Farnsworth also oversees the health, safety, welfare and performance of all security officers in the field. He performs unannounced site checks on our "Dedicated" Standing Officers to ensure they are providing you with superior security services at all times.  Our Watch Commanders have extensive experience working with local law enforcement agencies and will respond to the scene whenever law enforcement has been requested to ensure all issues have been addressed.
           </p>
           <br />
           <p class="">

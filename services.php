@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Services - Security Patrol, Guard, & Camera Monitoring</title>
-    <meta name=”description” content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+    <meta name="description" content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
   
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">

@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Contact</title>
-  <meta name=”description” content=”Get in contact with Legion Security 24x7 online, phone, email, or in person. We are always available for our customers and their security needs.”/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Get in contact with Legion Security 24x7 online, phone, email, or in person. We are always available for our customers and their security needs."/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">

@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Special Event Security Guards & Service</title>
-  <meta name=”description” content="Special event security guards, vehicles, check-points, roaming patrols, & managed staff. We are ready to staff your event from 5-50 security guards." />
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Special event security guards, vehicles, check-points, roaming patrols, & managed staff. We are ready to staff your event from 5-50 security guards." />
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
   
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -55,7 +55,7 @@
         <br/>
 
         <p class="text-center">
-          At Legion Security we believe your special event’s security needs to be “special”, and the last thing you want is to have something go wrong. Leave nothing to chance – go with a professional, go with Legion Security.
+          At Legion Security we believe your special event’s security needs to be "special", and the last thing you want is to have something go wrong. Leave nothing to chance – go with a professional, go with Legion Security.
         </p>
 
         <br/>
@@ -65,7 +65,7 @@
         </p>
 
         <p>
-          We facilitate the smooth operation of your event by taking care of the distractions that you don’t need. Entertainment-oriented events are one of our specialties.  However, from Brew fests to Concerts, Softball Tournaments to Quinceaneras or simply “Bingo-in-the-Park” – we have your special event security needs covered.
+          We facilitate the smooth operation of your event by taking care of the distractions that you don’t need. Entertainment-oriented events are one of our specialties.  However, from Brew fests to Concerts, Softball Tournaments to Quinceaneras or simply "Bingo-in-the-Park" – we have your special event security needs covered.
         </p>
 
         <br/>

@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>About Legion Security</title>
-  <meta name=”description” content=”Legion Security provides security patrol service, security guard, special event security, & camera monitoring. We are the leaders in the industry!”/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Legion Security provides security patrol service, security guard, special event security, & camera monitoring. We are the leaders in the industry!"/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">

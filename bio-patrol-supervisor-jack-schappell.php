@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Bio - Jack Schappell</title>
-  <meta name=”description” content=”Legion Security operates an elaborate and 24hr security patrol operation. Jack Schappell is a key to making it all work within the team.”/>
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="Legion Security operates an elaborate and 24hr security patrol operation. Jack Schappell is a key to making it all work within the team."/>
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -63,7 +63,7 @@
           </p>
           <br />
           <p class="">
-            As a Legion Watch Commander, Sergeant Schappell also oversees the health, safety, welfare and performance of all security officers in the field. He performs unannounced site checks on our “Dedicated” Standing Officers to ensure they are providing you with superior security services at all times.  Our Watch Commanders have extensive experience working with local law enforcement agencies and will respond to the scene whenever law enforcement has been requested to ensure all issues have been addressed.
+            As a Legion Watch Commander, Sergeant Schappell also oversees the health, safety, welfare and performance of all security officers in the field. He performs unannounced site checks on our "Dedicated" Standing Officers to ensure they are providing you with superior security services at all times.  Our Watch Commanders have extensive experience working with local law enforcement agencies and will respond to the scene whenever law enforcement has been requested to ensure all issues have been addressed.
           </p>
           <br />
           <p class="">

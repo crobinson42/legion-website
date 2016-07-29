@@ -8,8 +8,8 @@
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <title>Armed/Unarmed Guard</title>
-  <meta name=”description” content="When you need uniformed security guards, Legion Security is ready to provide a managed security program for you and your property.">
-  <link rel=”publisher” href=”https://plus.google.com/u/1/107926698583162354167”>
+  <meta name="description" content="When you need uniformed security guards, Legion Security is ready to provide a managed security program for you and your property.">
+  <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
 
   <!-- Bootstrap -->
@@ -63,7 +63,7 @@
         <br/>
 
         <p class="text-center">
-          Even having access to LEGION Security’s Dispatch phone number can be enough to defuse situations when they arise during working hours.  There is little more effective than saying “I’m going to call security” when a situation looks like it’s going to get out of control.
+          Even having access to LEGION Security’s Dispatch phone number can be enough to defuse situations when they arise during working hours.  There is little more effective than saying "I’m going to call security" when a situation looks like it’s going to get out of control.
         </p>
         <br/>
 
@@ -78,12 +78,12 @@
         <br/>
 
         <p class="text-center">
-          LEGION Security maintains qualified security officers ready to work at any client location upon request.  Our dedicated “Standing” security officers are the first line of defense for protecting your property by maintaining a strong visual presence and deterring any unwanted criminal activity.
+          LEGION Security maintains qualified security officers ready to work at any client location upon request.  Our dedicated "Standing" security officers are the first line of defense for protecting your property by maintaining a strong visual presence and deterring any unwanted criminal activity.
         </p>
         <br/>
 
         <p class="text-center">
-          Our company motto is “Semper Primus” which means “Always First”.  When assigned to protect your property, our officers will be first on scene, first to address your problems and first to resolve them.  Whatever your security needs, LEGION Security stands ready to meet them. Make LEGION Security your “first” call.
+          Our company motto is "Semper Primus" which means "Always First".  When assigned to protect your property, our officers will be first on scene, first to address your problems and first to resolve them.  Whatever your security needs, LEGION Security stands ready to meet them. Make LEGION Security your "first" call.
 
         </p>
 
