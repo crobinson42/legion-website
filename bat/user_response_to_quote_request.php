@@ -39,8 +39,11 @@ class ThankYouResponse {
     //Set TCP port to connect to
     $mail->Port = 587;
 
-    $mail->From = "info@legionsecurity.us";
-    $mail->FromName = "Legion Security";
+    // $mail->From = "info@legionsecurity.us";
+    // $mail->FromName = "Legion Security";
+
+    $mail->setFrom('info@legionsecurity.us', 'Legion Security');
+    
     $mail->addAddress($this->email);
     $mail->CharSet = 'utf-8';
     $mail->Subject = "Thank You! Legion Security is the right choice";

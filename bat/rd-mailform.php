@@ -1,8 +1,8 @@
 <?php
 
-// $recipients = 'info@legionsecurity.us';
+$recipients = 'info@legionsecurity.us';
 // @NOTE DEV only:
-$recipients = 'support@therms.io';
+// $recipients = 'support@therms.io';
 //$recipients = '#';
 
 try {
@@ -100,13 +100,8 @@ try {
     //Set TCP port to connect to
     $mail->Port = 587;
 
-    $mail->From = $_POST['email'];
-
-    if (isset($_POST['name'])){
-        $mail->FromName = $_POST['name'];
-    }else{
-        $mail->FromName = "Site Visitor";
-    }
+    // $mail->From = "donotreply@legionsecurity.us";
+    $mail->setFrom('donotreply@legionsecurity.us', 'Legion Security [donotreply]');
 
     foreach ($addresses[0] as $key => $value) {
         $mail->addAddress($value[0]);
