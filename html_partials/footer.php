@@ -101,7 +101,7 @@
                 </a>
               </li> -->
               <li>
-                <a href="#">
+                <a href="https://www.linkedin.com/company/10701382?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10701382%2Cidx%3A3-2-4%2CtarId%3A1471285808712%2Ctas%3Alegion%20security">
                   <span class="icon fa-linkedin"></span>
                   LinkedIn
                 </a>

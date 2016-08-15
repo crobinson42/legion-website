@@ -134,7 +134,7 @@
         introVideo.addEventListener('ended', function() {
 
           // set a cookie so we know the client has seen this video
-          document.cookie = "introVideo=played";
+          document.cookie = "introVideo=played;max-age=260000";
 
           introVideo.pause();
           if (typeof($) == "undefined") {
