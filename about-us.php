@@ -21,7 +21,6 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-  <script src="js/rd-smoothscroll.min.js"></script>
 
 
   <!--[if lt IE 9]>
@@ -199,13 +198,13 @@
 
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">
-            <a href="#">
+            <a href="/bio-ceo-ronald-robinson.php">
             <div class="thumbnail thumbnail3">
               <img src="http://placehold.it/270x300/deb629/036601?text=Coming Soon">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="#">
+                  <a href="/bio-ceo-ronald-robinson.php">
                     Ronald Robinson
                   </a>
                 </h6>
@@ -249,7 +248,7 @@
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="#">
+                  <a href="/bio-patrol-supervisor-jack-schappell.php">
                     Jack Schappell
                   </a>
                 </h6>

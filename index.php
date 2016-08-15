@@ -27,7 +27,6 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-  <script src="js/rd-smoothscroll.min.js"></script>
 
   <!-- dev -->
   <!-- <script src="http://localhost:35729/livereload.js"></script> -->
@@ -69,6 +68,100 @@
         Reliable, consistent & proactive security service. We're available 24hrs for your security
         needs & concerns. We offer a free month of service when you sign up for Security Patrol / Courtesy Patrol.
       </p>
+    </section>
+
+
+    <section style="margin-top:150px;" class="text-center hidden-xs" id="intro-video-container">
+      <script>
+      // check if cookie exists and the user already watched the video
+      var introCookieExists = /introVideo=played/.test(document.cookie);
+
+
+      document.addEventListener('DOMContentLoaded', function() {
+
+
+        var container = document.getElementById('video-container');
+        var introVideo = document.getElementById("tamara_intro");
+        var introVideoTop = function(){ return introVideo.getBoundingClientRect().top; };
+        var introVideoBottom = function(){ return introVideo.getBoundingClientRect().bottom; };
+        var body = document.getElementsByTagName('body')[0];
+        var scrollBottom = function(){ return (body.scrollTop || document.documentElement.scrollTop) + viewportHieght; };
+        var scrollTop = function(){ return (body.scrollTop || document.documentElement.scrollTop); };
+        var viewportHieght = window.innerHeight;
+        // video vars/controls
+        var videoPlaying = false;
+
+        // if the user has seen the video, return out of this callback.
+        if (introCookieExists) {
+          container.removeChild(introVideo);
+          return null;
+        }
+
+        // show the introVideo element (initially rendered display:none;)
+        if (typeof($) !== "undefined") {
+          $(introVideo).slideDown();
+        }
+        else {
+          introVideo.style.display = "block";
+        }
+
+
+        // listen for user scrolling event
+        document.onscroll = function() {
+          if (videoPlaying) { return null; }
+          // if the bottom or top of the user's screen is between the bottom and
+          // top of the video element, start playing
+          if (
+              (scrollBottom() < introVideoBottom() && scrollBottom() > introVideoTop())
+              ||
+              (scrollTop() > introVideoBottom() && scrollTop() < introVideoTop())
+            ) {
+            playIntro();
+          }
+        };
+
+
+        function playIntro() {
+            videoPlaying = true;
+            document.onscroll = function(){};
+            introVideo.play();
+        }
+        function pauseIntro() {
+            introVideo.pause();
+            videoPlaying = false;
+        }
+
+        introVideo.addEventListener('ended', function() {
+
+          // set a cookie so we know the client has seen this video
+          document.cookie = "introVideo=played";
+
+          introVideo.pause();
+          if (typeof($) == "undefined") {
+            console.info('jQuery not available after video played.');
+            container.removeChild(introVideo);
+            scrollALittle();
+            return;
+          }
+          $('#intro-video-container').slideUp("fast", scrollALittle);
+
+          function scrollALittle() {
+            if (body.scrollTop) {
+              body.scrollTop += 20;
+            }
+            else {
+              document.documentElement.scrollTop += 20;
+            }
+          }
+        });
+
+      }, false);
+      </script>
+      <div class="container" id="video-container">
+        <video style="display:none;" src="/video/tamara_intro.mp4" type="video/mp4" preload="auto" id="tamara_intro" width="75%" controls>
+            Your browser does not support HTML5 video - download Google Chrome!
+          </video>
+      </div>
     </section>
 
 
@@ -158,7 +251,7 @@
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
-              51
+              53
             </em>
 
             <p>
@@ -168,7 +261,7 @@
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
-              24
+              25
             </em>
 
             <p>
@@ -379,7 +472,7 @@
               </h6>
 
               <p>
-                Our suedo motto goes, "If you messed up, own it and fix it."
+                Our psuedo motto goes, "If you messed up, own it and fix it."
                 Not everyone is perfect but we'll change it if it's broken.
               </p>
             </li>

@@ -17,7 +17,7 @@
         <a href="/about-us.php#ourteam">Our Team </a>
       </li>
       <li>
-        <a href="#">CEO </a>
+        <a href="/bio-ceo-ronald-robinson.php">CEO </a>
       </li>
       <li>
         <a href="/bio-coo-william-preston.php">COO </a>

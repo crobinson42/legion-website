@@ -120,6 +120,11 @@
       </div>
     </section>
 
+    <section>
+      <div class="text-muted">
+        <em>Copyright © 2016</em>
+      </div>
+    </section>
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">

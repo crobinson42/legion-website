@@ -31,7 +31,8 @@
         </div>
 
         <div class="form-group mfControls">
-          <button class="btn" type="submit">Send</button>
+          <button class="btn" id="submit-button" type="submit">Send</button>
+          <span id="sending-text" class="hidden">Sending...</span>
         </div>
       </form>
 
@@ -39,3 +40,24 @@
     </div>
   </div>
 </section>
+<script type="text/javascript">
+  (function(){
+    var $btn = $('button#submit-button');
+    var $sending = $('span#sending-text');
+
+    var disable = function() {
+      $btn.css('display','none');
+      $sending.removeClass('hidden');
+    };
+    var enable = function() {
+      $btn.css('display','block');
+      $sending.addClass('hidden');
+    };
+
+    // click listener for submit button
+    $('button#submit-button').click(function(){
+      disable();
+      setTimeout(enable,6000);
+    });
+  })();
+</script>

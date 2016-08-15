@@ -20,7 +20,7 @@
     <!--JS-->
     <script src="js/jquery.js"></script>
     <script src="js/jquery-migrate-1.2.1.min.js"></script>
-    <script src="js/rd-smoothscroll.min.js"></script>
+     
 
     <!--[if lt IE 9]>
     <div style=' clear: both; text-align:center; position: relative;'>
