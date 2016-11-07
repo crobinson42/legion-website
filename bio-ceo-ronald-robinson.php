@@ -21,7 +21,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>
@@ -52,7 +52,7 @@
         </h3>
 
         <p class="text-primary">
-          <img src="http://placehold.it/300x450/deb629/036601?text=Picture Coming Soon" width="300" style="float:left;margin:15px;"/>
+          <img src="/images/legion/ron_300x400.jpg" width="300" style="float:left;margin:15px;"/>
           <div class="clearfloat"></div>
           Ron started his career as a security officer with a small company in Sacramento, CA.  In this position he quickly gained comprehensive experience in the Private Security Industry.  Honing his skills in the duties and responsibilities of security officers as well as becoming extremely well versed in the authority, liabilities and pitfalls of security personnel, he quickly rose through the ranks to a supervisory position.
           <br />

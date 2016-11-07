@@ -21,7 +21,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>
@@ -51,7 +51,7 @@
         </h3>
 
         <p class="">
-          <img src="http://placehold.it/300x400?text=Pic Coming Soon" style="float:left;margin:15px;"/>
+          <img src="/images/legion/jack_300x400.jpg" style="float:left;margin:15px;"/>
           <div class="clearfloat"></div>
 
           <p class="">

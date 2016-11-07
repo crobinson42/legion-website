@@ -200,7 +200,7 @@
           <div class="col-md-3 col-sm-6 col-xs-12">
             <a href="/bio-ceo-ronald-robinson.php">
             <div class="thumbnail thumbnail3">
-              <img src="http://placehold.it/270x300/deb629/036601?text=Coming Soon">
+              <img src="/images/legion/ron_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
@@ -232,7 +232,7 @@
                 </h6>
 
                 <p class="white">
-                  A 33 year U.S. Military Veteran & former Lieutenant Commander
+                  A 33 year U.S. Military Veteran & retired Lieutenant Commander
                   in the USCG. Bill has the experience of protecting some of our
                   countries most valuable assets and the leadership needed to
                   bring the best staff to your property.
@@ -244,7 +244,7 @@
           <div class="col-md-3 col-sm-6 col-xs-12">
             <a href="/bio-patrol-supervisor-jack-schappell.php">
             <div class="thumbnail  thumbnail3">
-              <img src="http://placehold.it/270x300/deb629/036601?text=Camera Shy">
+              <img src="/images/legion/jack_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">

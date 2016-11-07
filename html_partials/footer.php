@@ -38,8 +38,8 @@
 
             <address class="contact-info">
               <p class="fw-b big">
-                2821 Howe Ave <br>
-                Sacramento, CA 95821
+                3105 Fite Circle Suite #106<br>
+                Sacramento, CA 95827
               </p>
 
               <div class="terms-list-1">

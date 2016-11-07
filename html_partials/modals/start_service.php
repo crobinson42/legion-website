@@ -12,14 +12,14 @@
       </div>
       <div class="modal-body text-left">
         <div class="text-center">
-          <h6>Our Process</h6>
+          <h6>The Process</h6>
         </div>
         <p>
 
             <li>Legion Provides All Services & Plans List</li>
             <li>Select A Security Service Plan</li>
             <li>Complete A Legion Security Service Agreement</li>
-            <li>Legion Security provides Additionaly Insured Certificate</li>
+            <li>Legion Security provides Additionally Insured Certificate</li>
             <li>Operations Manager Walk Through of Property</li>
             <li>Begin Patrolling</li>
 

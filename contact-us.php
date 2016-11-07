@@ -139,7 +139,7 @@
     </section>
 
 
-    <section class="well well7" style="background-image:url('/images/legion/pic_ron_bill_1000.jpg')">
+    <section class="well well7">
       <div class="container">
         <div class="row">
           <div class="col-md-4 col-xs-12">
