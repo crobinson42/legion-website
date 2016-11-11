@@ -1,5 +1,5 @@
 <!--
-  make_your_community_safe.php
+  make_your_community_safe
 -->
 
 
@@ -26,7 +26,7 @@
       </div>
       <div class="modal-footer">
         <span class="text-muted">Read More About Our Patrol Services</span>
-        <a href="/service-vehicle-patrol.php">
+        <a href="/service-vehicle-patrol">
           <button type="button" class="btn btn-xs btn-primary">Vehicle Patrol</button>
         </a>
       </div>

@@ -63,7 +63,7 @@
   <main>
 
     <section class="hidden">
-      <h1>Sacramento Security Patrol & Guard Services</h1>
+      <h1>Sacramento Security Guard & Patrol Services</h1>
       <p>
         Reliable, consistent & proactive security service. We're available 24hrs for your security
         needs & concerns. We offer a free month of service when you sign up for Security Patrol / Courtesy Patrol.

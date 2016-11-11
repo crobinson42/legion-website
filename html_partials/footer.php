@@ -38,7 +38,7 @@
 
             <address class="contact-info">
               <p class="fw-b big">
-                3105 Fite Circle Suite #106<br>
+                3105 Fite Circle #106<br>
                 Sacramento, CA 95827
               </p>
 
@@ -67,7 +67,7 @@
             </h4>
             <ul class="link-list">
               <li>
-                <a href="employment-with-legion-security.php">
+                <a href="employment-with-legion-security">
                   <span class="icon fa-users"></span>
                   Joining Our Team
                 </a>

@@ -5,4 +5,3 @@ Disallow: /landing-page/
 Disallow: /html_partials/
 Disallow: /html/
 Disallow: /bat/
-Disallow: /assets/

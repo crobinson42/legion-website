@@ -1,5 +1,5 @@
 <!--
-  start_service.php
+  start_service
 -->
 
 
@@ -49,7 +49,7 @@
       </div>
       <div class="modal-footer">
         <!-- <span class="text-muted">See Our </span>
-        <a href="/service-vehicle-patrol.php">
+        <a href="/service-vehicle-patrol">
           <button type="button" class="btn btn-xs btn-primary">Vehicle Patrol</button>
         </a> -->
       </div>

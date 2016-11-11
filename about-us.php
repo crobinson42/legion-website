@@ -180,7 +180,7 @@
 
             <p>
               <div class="btn btn-primary">
-                <a href="/employment-with-legion-security.php">Learn More</a>
+                <a href="/employment-with-legion-security">Learn More</a>
               </div>
             </p>
           </div>
@@ -198,13 +198,13 @@
 
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">
-            <a href="/bio-ceo-ronald-robinson.php">
+            <a href="/bio-ceo-ronald-robinson">
             <div class="thumbnail thumbnail3">
               <img src="/images/legion/ron_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="/bio-ceo-ronald-robinson.php">
+                  <a href="/bio-ceo-ronald-robinson">
                     Ronald Robinson
                   </a>
                 </h6>
@@ -220,13 +220,13 @@
             </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
-            <a href="/bio-coo-william-preston.php">
+            <a href="/bio-coo-william-preston">
             <div class="thumbnail  thumbnail3">
               <img src="/images/legion/bill_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="/bio-coo-william-preston.php">
+                  <a href="/bio-coo-william-preston">
                     William Preston
                   </a>
                 </h6>
@@ -242,13 +242,13 @@
             </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
-            <a href="/bio-patrol-supervisor-jack-schappell.php">
+            <a href="/bio-patrol-supervisor-jack-schappell">
             <div class="thumbnail  thumbnail3">
               <img src="/images/legion/jack_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="/bio-patrol-supervisor-jack-schappell.php">
+                  <a href="/bio-patrol-supervisor-jack-schappell">
                     Jack Schappell
                   </a>
                 </h6>
@@ -263,13 +263,13 @@
             </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-12">
-            <a href="/bio-guard-supervisor-will-preston.php">
+            <a href="/bio-guard-supervisor-will-preston">
             <div class="thumbnail  thumbnail3">
               <img src="/images/legion/will_270x300.jpg">
 
               <div class="caption caption-transparent">
                 <h6 class="white">
-                  <a href="/bio-guard-supervisor-will-preston.php">
+                  <a href="/bio-guard-supervisor-will-preston">
                     Will Preston
                   </a>
                 </h6>
