@@ -22,6 +22,9 @@ RewriteBase /
 # keep the URLs clean:
 # if someone asks for index.php- rewrite the URL without it
 RewriteRule ^(.*?)/?index\.php$ $1 [NC,R=301,L]
+# allow now .php extensions in urls
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 <IfModule mod_expires.c>
 # Enable expirations
