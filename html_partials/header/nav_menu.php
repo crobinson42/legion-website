@@ -40,7 +40,7 @@
     </ul>
   </li>
   <li>
-    <a href="/services">Services</a>
+    <a href="/private-security-services">Services</a>
   </li>
   <!-- <li>
     <a href="/industry">Industry</a>

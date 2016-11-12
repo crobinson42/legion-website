@@ -26,7 +26,7 @@
       </div>
       <div class="modal-footer">
         <span class="text-muted">Read More About Our Patrol Services</span>
-        <a href="/service-vehicle-patrol">
+        <a href="/security-patrol-sacramento">
           <button type="button" class="btn btn-xs btn-primary">Vehicle Patrol</button>
         </a>
       </div>

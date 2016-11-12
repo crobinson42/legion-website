@@ -171,7 +171,7 @@
         <div class="row">
 
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".7s">
-            <a href="/service-vehicle-patrol.php">
+            <a href="/security-patrol-sacramento">
             <img src="images/car-icon.png" alt="Security Patrol Services in Sacramento, CA. Courtesy Patrol & Mobile Patrol 24hrs - we're there when you need us!"/>
             <h5 class="ins_r">
               Vehicle Patrol Service
@@ -184,7 +184,7 @@
           </div>
 
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".9s">
-            <a href="/service-security-guard.php">
+            <a href="/security-guard-company-sacramento">
             <img src="images/security-guard.png" alt="Sacramento Security Guard Service - Armed & Unarmed"/>
             <h5 class="ins_r">
               Armed / Unarmed Guard
@@ -199,7 +199,7 @@
           </div>
 
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".5s">
-            <a href="/service-camera-monitoring.php">
+            <a href="/camera-monitoring-service">
             <img src="images/security-camera.png" alt="Camera Monitoring with Security Vehicle Response"/>
             <h5 class="ins_r">
               Facility Access & Camera Montioring
@@ -213,7 +213,7 @@
             </a>
           </div>
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".3s">
-            <a href="/service-special-event.php">
+            <a href="/special-event-security-guards">
             <img src="images/vip-pass.png" alt="Special Event Security & Staff"/>
             <h5 class="ins_r">
               Special Event & VIP Escort
@@ -304,7 +304,7 @@
 
           <br/>
 
-          <a href="/services.php">
+          <a href="/private-security-services">
             <div class="btn btn-xs btn-primary">
               See All Services
             </div>
@@ -328,7 +328,7 @@
                   staff can walk your property, check perimeter entrances, facility doors, and
                   stay alert for unwanted and suspicious activity.
                 </p>
-                <a href="/service-security-guard.php" class="btn-link">
+                <a href="/security-guard-company-sacramento" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -347,7 +347,7 @@
                 <p>
                   Our patrols are highly visible, intelligence led and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
                 </p>
-                <a href="/service-vehicle-patrol.php" class="btn-link">
+                <a href="/security-patrol-sacramento" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -368,7 +368,7 @@
                   The safety & security of the property is most effective when it's camera system
                   is monitored by Legion Security.
                 </p>
-                <a href="/service-camera-monitoring.php" class="btn-link">
+                <a href="/camera-monitoring-service" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>

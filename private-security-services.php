@@ -63,7 +63,7 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-vehicle-patrol">
+                <a href="/security-patrol-sacramento">
                   Random Vehicle Patrol
                 </a>
               </h6>
@@ -72,7 +72,7 @@
                 We provide scheduled and random nightly or daily vehicle patrol service
                 to conduct security or courtesy duties at your property.
                 <br/>
-                <a href="/service-vehicle-patrol" class="btn-link">
+                <a href="/security-patrol-sacramento" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -82,7 +82,7 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-security-guard">
+                <a href="/security-guard-company-sacramento">
                   Armed / Unarmed Guard
                 </a>
               </h6>
@@ -92,7 +92,7 @@
                 provide all needed equipment and staff management/oversight for
                 uniformed staff.
                 <br/>
-                <a href="/service-security-guard" class="btn-link">
+                <a href="/security-guard-company-sacramento" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -101,7 +101,7 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-camera-monitoring">
+                <a href="/camera-monitoring-service">
                   Camera Monitoring
                 </a>
               </h6>
@@ -111,7 +111,7 @@
                 and camera monitoring office. We can monitor remote camera feeds from
                 anywhere in North America.
                   <br/>
-                <a href="/service-camera-monitoring" class="btn-link">
+                <a href="/camera-monitoring-service" class="btn-link">
                   <span class="fst" data-txt="Read More"></span>
                   <span class="snd" data-txt="Read More"></span>
                 </a>
@@ -120,7 +120,7 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-vehicle-patrol">
+                <a href="/security-patrol-sacramento">
                   Dispatch & Alarm Response
                 </a>
               </h6>
@@ -133,7 +133,7 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-camera-monitoring">
+                <a href="/camera-monitoring-service">
                   Facility Access Control
                 </a>
               </h6>
@@ -147,7 +147,7 @@
             <li class="col-md-4 col-sm-6 col-xs-12">
 
               <h6>
-                <a href="/service-special-event">
+                <a href="/special-event-security-guards">
                   Special Event
                 </a>
               </h6>
@@ -156,7 +156,7 @@
                 100 - 10,000 person event? We have the security team that will keep
                 the patrons and the event staff safe and having a good time.
                 <br/>
-              <a href="/service-special-event" class="btn-link">
+              <a href="/special-event-security-guards" class="btn-link">
                 <span class="fst" data-txt="Read More"></span>
                 <span class="snd" data-txt="Read More"></span>
               </a>
@@ -214,7 +214,7 @@
 
               Patrol officers and vehicles are out 24/7 a day for the security of the area where they appointed. Patrol officers are well skilled to notice any mistrustful activity so they can put off a problem before it starts. Their security vehicles are equipped with GPS tracking devices so you will know accurately when your officers are onsite and for how long. A security patrol service includes electronic reporting systems which provide real time reports of any issues or incidents if found and corrective measures can be taken. This 24 hour dispatch also provides immediate police and supervisory response to emergency situations and provides the continuous safety to people and property.
               <br/>
-              <a href="/service-vehicle-patrol" class="btn-link">
+              <a href="/security-patrol-sacramento" class="btn-link">
                 <span class="fst" data-txt="Read More"></span>
                 <span class="snd" data-txt="Read More"></span>
               </a>
@@ -231,7 +231,7 @@
               <br>
               Legion Security monitoring of a camera feed is the ideal security solution for after hours and restricted access areas. Cameras can be watched constantly.  The responding security officer on duty is alerted only if movement is detected in an area where there should not be any, creating an even greater savings on your security services. This is an ideal application for after hours when your facility is closed or overnight shifts on construction sites.
               <br/>
-            <a href="/service-camera-monitoring" class="btn-link">
+            <a href="/camera-monitoring-service" class="btn-link">
               <span class="fst" data-txt="Read More"></span>
               <span class="snd" data-txt="Read More"></span>
             </a>
