@@ -59,6 +59,13 @@ try {
         $template = str_replace("<!-- #{Message} -->", $message, $template);
     }
 
+    if (isset($_POST['phone'])) {
+        $template = str_replace(
+            ["<!-- #{PhoneState} -->", "<!-- #{PhoneDescription} -->"],
+            ["Phone:", $_POST['message']],
+            $template);
+    }
+
     if (isset($_POST['message'])) {
         $template = str_replace(
             ["<!-- #{MessageState} -->", "<!-- #{MessageDescription} -->"],

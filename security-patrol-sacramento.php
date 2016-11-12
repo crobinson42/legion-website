@@ -45,99 +45,105 @@
 
     <section class="well well7">
       <div class="container">
-        <h1 class="text-center" style="color:rgb(59, 59, 59);padding-bottom:15px;">
-          Vehicle Patrol Service
-        </h1>
+        <div class="row">
+          <div class="col-md-12">
+            <div class="container">
+              <h1 class="text-center" style="color:rgb(59, 59, 59);padding-bottom:15px;">
+                Vehicle Patrol Service
+              </h1>
+            <div>
+          </div>
+        </div>
 
-        <p class="text-center">
-          Legion Security offers professional mobile security patrol services that will dramatically reduce break and enters, vandalism and other crimes against property and persons. Our patrols are highly visible, intelligence led, and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
+        <div class="row">
+          <div class="col-lg-5  wow fadeInRight">
+            <p class="text-center" style="text-align: justify;">
+              Legion Security offers professional mobile security patrol services that will dramatically reduce break and enters, vandalism and other crimes against property and persons. Our patrols are highly visible, intelligence led, and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
+            </p>
+            <hr>
+            <p>
+              <div class="alert alert-info">
+              <i class="fa fa-info-circle"></i> Security patrol is sometimes referred to as <strong><i>Courtesy Patrol</i></strong>. We respect
+              our clients concern for terminology in this regard and will make the needed changes to our
+              dispatch and community advertisements when requested.
+              </div>
+            </p>
+          </div>
+
+          <div class="col-lg-5 col-lg-offset-2">
+            <div class="panel panel-warning">
+              <div class="panel-heading">Get A Quote</div>
+              <div class="panel-body text-center">
+                <form name="requestQuote">
+                  <input type="text" name="name" id="quoteName" class="form-control" placeholder="Name">
+                  <input type="text" name="email" id="quoteEmail" class="form-control" placeholder="youremail@example.com">
+                  <input type="text" name="phone" id="quotePhone" class="form-control" placeholder="916-999-9999">
+                  <button class="btn btn-primary" style="padding: 5px;margin: 5px;" id="submitRequestQuote">
+                    <i class="fa fa-envelope-o"></i> Request Quote
+                  </button>
+                </form>
+                <script>
+                  (function() {
+                    var $quoteForm = $('[name="requestQuote"]')
+                    $('#submitRequestQuote').click(function (e) {
+                      e.preventDefault()
+                      $('#submitRequestQuote').html('<span class="text-muted">Sending...</span>').attr('disabled',true)
+                      $.post('/bat/rd-mailform.php', {
+                          email: $('#quoteEmail').val(),
+                          phone: $('#quotePhone').val(),
+                          'form-type': 'quote'
+                      }).done(function (res) {
+                        $quoteForm.html('<div><h6>Thank You! We\'ll Contact You Soon.</h6></div>')
+                      })
+
+                    })
+                  })()
+                </script>
+              </div>
+            </div>
+
+            <p>
+              <div class="col-sm-5">
+                <hr>
+              </div>
+              <div class="col-sm-2 text-muted text-center">OR</div>
+              <div class="col-sm-5">
+                <hr>
+              </div>
+            </p>
+
+            <br><br>
+
+            <p class="text-center">
+              <a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#startService">
+                <i class="fa fa-car"></i> Sign-up for Service
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="well well4 parallax text-center" style="height:500px;" data-url="/images/black_vic.jpg" data-mobile="true"
+             data-speed="0.6">
+      <div class="container">
+        <h2 class="fw-l">
+          We're Ready To Start Today
+        </h2>
+
+        <p class="white ins1 offs1">
+          We can start patrolling your property as fast as you can sign our
+          service agreement!
         </p>
 
-    </section>
+        <a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#startService">
+          Start Today
+        </a>
 
-    <section class="well well-yellow">
-
-      <div class="row text-center">
-        <div class="container">
-          <h3 class="legion-text-alternate">Nightly & Daily Patrols</h3>
-          <p>
-            Our patrol service is typically contracted to patrol your property for a
-            set number of patrols per 24 hours (each day of the month). Our patrol service
-            operates 365/24/7, including all holidays, so you never have to worry about
-            not being covered.
-          </p>
-
-          <br/>
-
-          <p style="font-weight:600;">
-            During each patrol visit, the Patrol Officer gets out of their  vehicle
-            and walks the property, physically inspecting areas, doors, & facilities.
-          </p>
-
-        </div>
-      </div>
-
-      <div class="row text-center">
-        <div class="container">
-          <div class="col-md-4">
-            <div class="panel panel-default">
-              <div class="panel-heading panel-legion1">
-                <h5><i class="fa fa-clock-o" aria-hidden="true"></i> 10 min Patrols</h5>
-              </div>
-              <div class="panel-body panel-legion1">
-                Start at $245 per month
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4">
-
-            <div class="panel panel-default">
-              <div class="panel-heading panel-legion1">
-                <h5><i class="fa fa-clock-o" aria-hidden="true"></i> 20 min Patrols</h5>
-              </div>
-              <div class="panel-body panel-legion1">
-                Start at $405 per month
-              </div>
-            </div>
-
-          </div>
-          <div class="col-md-4">
-
-            <div class="panel panel-default">
-              <div class="panel-heading panel-legion1">
-                <h5><i class="fa fa-clock-o" aria-hidden="true"></i> 30 min Patrols</h5>
-              </div>
-              <div class="panel-body panel-legion1">
-                Start at $565 per month
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="row" style="display:none;">
-        <div class="col-md-3 col-md-offset-3">
-          <ul class="patrol-features">
-            <li>Marked Patrol Vehicle</li>
-            <li>Armed Security Officer</li>
-            <li>24X7 Dispatcher</li>
-            <li>Online Security Bulletin Board </li>
-            <li>Daily Email Security Reports</li>
-
-          </ul>
-        </div>
-        <div class="col-md-3">
-          <ul class="patrol-features">
-            <li>Reports archived for 2 years</li>
-            <li>Eviction notice assistance</li>
-            <li>Multiple Officer Reinforcement (Backup) </li>
-            <li>24X7 Service Call Response</li>
-            <li>Courtesy Lockups/Unlocks Performed</li>
-          </ul>
-        </div>
+        <?php include './html_partials/modals/start_service.php'; ?>
       </div>
     </section>
+
 
 
      <section class="well well5">
@@ -227,23 +233,142 @@
       </div>
     </section>
 
-    <section class="well well4 parallax text-center" style="height:500px;" data-url="/images/black_vic.jpg" data-mobile="true"
-             data-speed="0.6">
-      <div class="container">
-        <h2 class="fw-l">
-          We're Ready To Start Today
-        </h2>
+    <section class="well well-yellow">
 
-        <p class="white ins1 offs1">
-          We can start patrolling your property as fast as you can sign our
-          service agreement!
-        </p>
+      <div class="row text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              <h3 class="legion-text-alternate">Nightly & Daily Patrols</h3>
+            </div>
+          </div>
 
-        <a href="javascript:void(0);" class="btn btn-primary" data-toggle="modal" data-target="#startService">
-          Start Service
-        </a>
+          <div class="row">
+            <div class="col-md-5">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h5>What Do We Do When We Patrol?</h5>
+                </div>
+                <div class="panel-body" style="text-align: justify;">
+                  <p>
+                    During each patrol visit, the security guard parks the patrol car in a highly visible area and
+                    gets out to walk the property, physically inspecting areas, doors, & facilities.
+                    Typically, our security guard will walk all pathways and common areas of the property. If there
+                    are any signs of vandalism, disturbance, suspicious people or vehicles, they will be addressed
+                    directly by the patrol officer.
+                  </p>
 
-        <?php include './html_partials/modals/start_service.php'; ?>
+                  <p>
+                    From the time of arrival to leaving, Legion staff document all details for the courtesy patrol
+                    visit. A common note that will be seen in Legion security reports
+                  </p>
+
+                  <p>
+                  <h6>Legion Patrol Reports</h6>
+                  <p>
+                    We take pride in our detailed and thorough security reports. Part of the package when you
+                    hire Legion for your property is receiving a security report via email, daily.
+                  </p>
+
+                  <br>
+
+                  <p class="text-center">
+                    <a href="/example-security-patrol-report-legion-security.pdf"><i class="fa fa-file-text" style="font-size: 200%;cursor: hand;"></i> Example Security Patrol Report</a>
+                  </p>
+                  </p>
+                </div>
+                <div class="panel-footer">
+                  <span class="text-muted" style="font-size: 10px";>
+                    <i class="fa fa-certificate"></i> We are proud of our dedicated Patrol Officers! Thank you to all Legion Patrol staff!
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-md-5 col-md-offset-1" style="text-align: justify;">
+              <p>
+              <h6>24x7 Coverage</h6>
+              Our patrol service is typically contracted to patrol your property for a
+              set number of patrols per 24 hours (each day of the month). Our patrol service
+              operates 365/24/7, including all holidays, so you never have to worry about
+              not being covered.
+              </p>
+
+              <p>
+              <h6>Dispatch</h6>
+              Legion has a 24hr dispatch line that is available to all clients. We will respond to calls
+              from our clients, residents, tenants, or any other approved personnel when there is a need
+              for security to respond. If the situation is an emergency, Legion will also attempt to dispatch
+              local law enforcement as the primary action. All dispatch calls are recorded and documented
+              in Legion security reports. These reports are also sent to our clients daily.
+              </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="row text-center">
+        <div class="container">
+          <div class="row wow fadeInUp">
+            <div class="col-md-4">
+              <div class="panel panel-default">
+                <div class="panel-heading panel-legion1">
+                  <h5><i class="fa fa-clock-o" aria-hidden="true"></i> 10 min Patrols</h5>
+                </div>
+                <div class="panel-body panel-legion1">
+                  Start at $245 per month
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+
+              <div class="panel panel-default">
+                <div class="panel-heading panel-legion1">
+                  <h5><i class="fa fa-clock-o" aria-hidden="true"></i> 20 min Patrols</h5>
+                </div>
+                <div class="panel-body panel-legion1">
+                  Start at $405 per month
+                </div>
+              </div>
+
+            </div>
+            <div class="col-md-4">
+
+              <div class="panel panel-default">
+                <div class="panel-heading panel-legion1">
+                  <h5><i class="fa fa-clock-o" aria-hidden="true"></i> 30 min Patrols</h5>
+                </div>
+                <div class="panel-body panel-legion1">
+                  Start at $565 per month
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row" style="display:none;">
+        <div class="col-md-3 col-md-offset-3">
+          <ul class="patrol-features">
+            <li>Marked Patrol Vehicle</li>
+            <li>Armed Security Officer</li>
+            <li>24X7 Dispatcher</li>
+            <li>Online Security Bulletin Board </li>
+            <li>Daily Email Security Reports</li>
+
+          </ul>
+        </div>
+        <div class="col-md-3">
+          <ul class="patrol-features">
+            <li>Reports archived for 2 years</li>
+            <li>Eviction notice assistance</li>
+            <li>Multiple Officer Reinforcement (Backup) </li>
+            <li>24X7 Service Call Response</li>
+            <li>Courtesy Lockups/Unlocks Performed</li>
+          </ul>
+        </div>
       </div>
     </section>
 

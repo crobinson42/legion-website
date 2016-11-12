@@ -145,6 +145,10 @@
                                       <td width="40" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #121212;font-weight: 700;"><!-- #{FromState} --></td>
                                       <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #121212;"><!-- #{FromEmail} --></td>
                                     </tr>
+                                    <tr>
+                                      <td width="40" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #121212;font-weight: 700;"><!-- #{PhoneState} --></td>
+                                      <td align="left" valign="top" style="font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #121212;"><!-- #{PhoneDescription} --></td>
+                                    </tr>
                                   	<!-- #{BeginInfo} -->
                                     <tr>
                                       <td width="40" align="left" valign="top" style="padding: 0 10px 0 0;font-family: Arial, sans-serif; font-size: 14px; mso-line-height-rule: exactly; line-height: 20px; font-weight: 400;color: #121212;font-weight: 700;"><!-- #{InfoState} --></td>
