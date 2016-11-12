@@ -7,8 +7,8 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Employment</title>
-  <meta name="description" content="Legion Security is hiring for dedicated, reliable, & professional individuals. Postions available for uniformed guard, patrol driver, & dispatcher." />
+  <title>Security Guard Jobs in Sacramento - Legion Security</title>
+  <meta name="description" content="Join our team! Positions available for uniformed guard, patrol driver, & dispatcher. Flexible shifts part-time & full-time available." />
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
@@ -22,7 +22,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>
@@ -50,7 +50,10 @@
   <main>
 
     <section style="text-align:center;padding:50px 0;">
-      <h1 style="color:#02500b">Employment</h1>
+      <h1 style="color:#02500b">Security Guard Jobs in Sacramento</h1>
+      <p style="font-size:120%;text-transform:uppercase;">
+        And employment opportunities with Legion Security
+      </p>
     </section>
 
     <section class="well well-11">

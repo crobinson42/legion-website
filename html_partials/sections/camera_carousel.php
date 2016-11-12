@@ -13,7 +13,6 @@
         serve our clients with the most reliable, consistent, & professional
         security program around.
       </p>
-      <!-- <a href="#" class="btn-link">Read More</a> -->
     </div>
   </div>
   <div id="camera" class="camera_wrap">

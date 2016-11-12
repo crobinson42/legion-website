@@ -7,10 +7,10 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Camera Monitoring</title>
-  <meta name="description" content="Camera monitoring, remote dispatch, alarm & camera response patrol services - We're workign 24hrs for our clients, how can we help you?"/>
+  <title>Camera Monitoring / 24hr Alarm Response - Legion Security</title>
+  <meta name="description" content="Camera monitoring, remote dispatch, alarm & camera response patrol services - We're working 24hrs for our clients, how can we help you?"/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
-  
+
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
@@ -22,7 +22,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>
@@ -45,9 +45,9 @@
 
     <section class="well well7">
       <div class="container">
-        <h3 class="text-center">
+        <h1 class="text-center" style="color:rgb(59, 59, 59);padding-bottom:15px;">
           Facility Access and Camera Monitoring
-        </h3>
+        </h1>
 
         <p class="text-center">
           When your property is protected by traditional cameras, a CCTV system is only as good as its program of monitoring and response. Legion Security maintains a camera monitoring program which allows our clients to optimize the function and cost-effectiveness of their CCTV and other surveillance systems by having their camera feed tracked 24/7 by dedicated monitoring personnel. In the event of suspicious or unusual activity, our Dispatch Center personnel immediately alert our management, on-site security and the proper authorities (police, fire or medical), to ensure the quick response needed to protect your people and property.

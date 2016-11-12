@@ -7,8 +7,8 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Services - Security Patrol, Guard, & Camera Monitoring</title>
-    <meta name="description" content="Security patrol services 24hr 7 days per week - We provide the best and most reliable security patrol & courtesy patrol in your area."/>
+  <title>Security Guard, Courtesy Patrol, & Camera Monitoring - Legion Security</title>
+  <meta name="description" content="The most reliable security company in Sacramento providing security patrol, security guard, camera monitoring, and more. Check out our services and get a quote, fast!"/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->
@@ -45,9 +45,9 @@
 
     <section class="well well7">
       <div class="container">
-        <h3 class="text-center">
-          Our Services
-        </h3>
+        <h1 class="text-center" style="color:rgb(59, 59, 59);padding-bottom:15px;">
+          Private Security and Protective Services
+        </h1>
 
         <p class="text-center">
           We provide most services needed in any public or private security &

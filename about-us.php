@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>About Legion Security</title>
+  <title>Sacramento Security - About Legion</title>
   <meta name="description" content="Legion Security provides security patrol service, security guard, special event security, & camera monitoring. We are the leaders in the industry!"/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
@@ -192,9 +192,9 @@
              data-mobile="true">
       <div class="container center767">
         <a name="ourteam"></a>
-        <h3 class="text-center white">
+        <h1 class="text-center white">
           Meet Our Team
-        </h3>
+        </h1>
 
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">

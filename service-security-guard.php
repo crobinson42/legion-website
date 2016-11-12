@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Armed/Unarmed Guard</title>
+  <title>Armed Security Guard / Unarmed Security Guard - Legion Security</title>
   <meta name="description" content="When you need uniformed security guards, Legion Security is ready to provide a managed security program for you and your property.">
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
@@ -22,7 +22,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>
@@ -45,9 +45,9 @@
 
     <section class="well well7">
       <div class="container">
-        <h3 class="text-center">
+        <h1 class="text-center" style="color:rgb(59, 59, 59);padding-bottom:15px;">
           Armed & Unarmed Uniform Guards
-        </h3>
+        </h1>
 
         <p class="text-center">
           Hiring LEGION security has many benefits.  At the most basic level, the presence of a professional LEGION security officer can be enough to deter a thief.  This is because our security officers communicate to thieves that their chosen target will not be an easy one.  As well, LEGION Security Officers are trained to spot potentially threatening behavior, meaning a higher chance of that behavior being curbed before it even becomes a problem.

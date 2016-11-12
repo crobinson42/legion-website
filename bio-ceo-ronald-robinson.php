@@ -7,8 +7,8 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Bio - Ronald Robinson</title>
-  <meta name="description" content="Legion Securitys COO is a retired USCG Officer that served 33 years in some of the top military positions in the country."/>
+  <title>Ronald Robinson / Sacramento Security Company Manager - Legion Security</title>
+  <meta name="description" content="Legion Securitys CEO is a former property management professional who has developed an excellent security service for property management professionals to hire!"/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <!-- Bootstrap -->

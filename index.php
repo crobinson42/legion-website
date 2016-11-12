@@ -5,12 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <meta name="description" content="Sacramento security patrol and guard services- We are RELIABLE, AVAILABLE, & CONSISTENT. Read our reviews and see why our customers are happy with us!"/>
+  <meta name="description" content="Sacramento security patrol and guard services ready to work for you! Read our reviews and see why our customers are happy with us!"/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon_green.ico" type="image/x-icon">
-  <title>Legion Security- Security Patrol, Guard, & Camera Monitoring</title>
+  <title>Sacramento Security Company - Legion Security</title>
 
   <meta name="Robots" content="index, follow">
 
@@ -61,21 +61,11 @@
 
 
   <main>
-
-    <section class="hidden">
-      <h1>Sacramento Security Guard & Patrol Services</h1>
-      <p>
-        Reliable, consistent & proactive security service. We're available 24hrs for your security
-        needs & concerns. We offer a free month of service when you sign up for Security Patrol / Courtesy Patrol.
-      </p>
-    </section>
-
-
-    <section style="margin-top:150px;" class="text-center hidden-xs" id="intro-video-container">
+    <section style="margin-top:100px;" class="text-center hidden-xs" id="intro-video-container">
       <script>
       // check if cookie exists and the user already watched the video
       var introCookieExists = /introVideo=played/.test(document.cookie);
-
+      var $introVideoContainer = $('#intro-video-container')
 
       document.addEventListener('DOMContentLoaded', function() {
 
@@ -143,7 +133,9 @@
             scrollALittle();
             return;
           }
-          $('#intro-video-container').slideUp("fast", scrollALittle);
+          // when video is done playing, animate this container and give the next dev.section some more margin-top
+          $introVideoContainer.slideUp("fast", scrollALittle)
+          $introVideoContainer.next().css('margin-top','100px');
 
           function scrollALittle() {
             if (body.scrollTop) {
@@ -164,8 +156,17 @@
       </div>
     </section>
 
+    <section class="well" style="margin-bottom:0;padding-bottom:10px;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6 col-md-12 col-lg-offset-3 text-center">
+            <h1 style="color:rgb(41, 41, 41);">Sacramento Security Services</h1>
+          </div>
+        </div>
+      </div>
+    </section>
 
-    <section class="well well1">
+    <section class="well well1" style="margin-top:0;padding-top:10;">
       <div class="container">
         <div class="row">
 

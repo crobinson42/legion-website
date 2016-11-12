@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Bio - Justin Farnsworth</title>
+  <title>Justin Farnsworth / Sacramento Security Camera Manager - Legion Security</title>
   <meta name="description" content="Legion Securitys Watch Commander, Justin Farnsworth, is a security patrol expert. He brings leadership and experience to our clients."/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
@@ -21,7 +21,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>

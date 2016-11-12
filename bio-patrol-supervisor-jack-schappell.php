@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Bio - Jack Schappell</title>
+  <title>Jack Schappell / Sacramento Security Patrol Manager - Legion Security</title>
   <meta name="description" content="Legion Security operates an elaborate and 24hr security patrol operation. Jack Schappell is a key to making it all work within the team."/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 

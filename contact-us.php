@@ -7,7 +7,7 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Contact</title>
+  <title>Contact Sacramento Security Service - Legion Security</title>
   <meta name="description" content="Get in contact with Legion Security 24x7 online, phone, email, or in person. We are always available for our customers and their security needs."/>
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
 
@@ -66,6 +66,12 @@
     ?>
 
     <section style="margin:50px 15px;">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1 style="color:rgb(77, 77, 77);">Contact Legion Security</h1>
+        </div>
+      </div>
+
       <div class="row">
         <div class="col-md-4">
           <div class="panel panel-primary">
@@ -165,8 +171,8 @@
 
             <h5>Physical</h5>
             <address>
-              2821 Howe Ave <br>
-              Sacramento, CA 95821
+              3105 Fite Circle #106 <br />
+              Sacramento, CA 95827
             </address>
 
             <hr>

@@ -7,10 +7,10 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="format-detection" content="telephone=yes"/>
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <title>Special Event Security Guards & Service</title>
+  <title>Special Event Security Guards - Legion Security</title>
   <meta name="description" content="Special event security guards, vehicles, check-points, roaming patrols, & managed staff. We are ready to staff your event from 5-50 security guards." />
   <link rel="publisher" href="https://plus.google.com/u/1/107926698583162354167">
-  
+
   <!-- Bootstrap -->
   <link href="css/bootstrap.css" rel="stylesheet">
 
@@ -21,7 +21,7 @@
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
-   
+
 
 
   <!--[if lt IE 9]>
@@ -44,9 +44,9 @@
 
     <section class="well well7">
       <div class="container">
-        <h3 class="text-center">
+        <h1 class="text-center" style="color:rgb(59, 59, 59);padding-bottom:15px;">
           Special Event Security
-        </h3>
+        </h1>
 
         <p class="text-center">
           At Legion Security, we realize the importance of getting it right the first time, especially when it comes to Special Events Security. Our staff is experienced and committed to making your event run safely and without interruption or delay. We use the finest officers available and take great pride in our Special Events Security team.  We stand ready to customize a security plan for your specific event.
