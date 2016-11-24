@@ -512,5 +512,79 @@
 <!-- </script> -->
 
 
+<!-- https://developers.google.com/search/docs/guides/search-gallery#products -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Security Patrol",
+  "image": "https://www.legionsecurity.us/images/car-icon.png",
+  "description": "Random 24hr security patrols with dispatch response and daily reports emailed to you",
+  "brand": {
+    "@type": "Thing",
+    "name": "Legion Security"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "reviewCount": "89"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "275",
+    "priceValidUntil": "2020-11-05",
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Armed/Unarmed Guard",
+  "image": "https://www.legionsecurity.us/images/security-guard.png",
+  "description": "Schedule a guard at your property or business 24hr service available",
+  "brand": {
+    "@type": "Thing",
+    "name": "Legion Security"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "124"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "18",
+    "priceValidUntil": "2020-11-05",
+  }
+}
+},
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "name": "Camera Monitoring",
+  "image": "https://www.legionsecurity.us/images/security-camera.png",
+  "description": "We plug into your cameras and monitor the activity, 24hrs",
+  "brand": {
+    "@type": "Thing",
+    "name": "Legion Security"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "46"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "65",
+    "priceValidUntil": "2020-11-05",
+  }
+}
+</script>
+
+
 </body>
 </html>

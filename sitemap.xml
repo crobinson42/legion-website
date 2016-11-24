@@ -7,68 +7,180 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>https://legionsecurity.us/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.00</priority>
+  <loc>https://www.legionsecurity.us/</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/about-us.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/dispatch</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/bio-coo-william-preston.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/about-us</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/bio-patrol-supervisor-jack-schappell.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/bio-ceo-ronald-robinson</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/bio-dispatch-supervisor-justin-farnsworth.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/bio-coo-william-preston</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/bio-guard-supervisor-will-preston.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/bio-patrol-supervisor-jack-schappell</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/services.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.90</priority>
+  <loc>https://www.legionsecurity.us/bio-dispatch-supervisor-justin-farnsworth</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/employment-with-legion-security.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/bio-guard-supervisor-will-preston</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/contact-us.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/private-security-services</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/service-security-guard.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.80</priority>
+  <loc>https://www.legionsecurity.us/employment-with-legion-security</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/service-vehicle-patrol.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.90</priority>
+  <loc>https://www.legionsecurity.us/contact-us</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/service-camera-monitoring.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.90</priority>
+  <loc>https://www.legionsecurity.us/blog/</loc>
+  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://legionsecurity.us/service-special-event.php</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.90</priority>
+  <loc>https://www.legionsecurity.us/security-patrol-sacramento</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/security-guard-company-sacramento</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/camera-monitoring-service</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/special-event-security-guards</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/sacramento-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/elk-grove-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/rancho-cordova-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/west-sacramento-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/citrus-heights-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/roseville-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/city/folsom-security-services</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/contact-us.php</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/articles-posts/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/legions-new-24hr-dispatch-portal/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/security-patrol-in-apartment-communities-in-sacramento/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/holiday-car-break-ins/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/legions-spokeswoman-tamara/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/the-blog/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/service-vehicle-patrol</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/service-security-guard</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/service-camera-monitoring</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/example-security-patrol-report-legion-security.pdf</loc>
+  <lastmod>2016-11-16T00:02:48+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/category/security-clients/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/author/legionsecure/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/category/security-pro/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/category/security-guard-info-tips-advice/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/tag/holidays/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/tag/sacramento/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/tag/security-tips/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/category/uncategorized/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/tag/legion-security/</loc>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
+  <loc>https://www.legionsecurity.us/blog/tag/sacramento-security-companies/</loc>
+  <changefreq>weekly</changefreq>
 </url>
 </urlset>

@@ -81,3 +81,17 @@ RewriteRule ^quote$ "https\:\/\/legionsecurity\.us\/contact\-us\.php" [R=301,L]
 RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
 RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
 RewriteRule ^services$ "https\:\/\/legionsecurity\.us\/services\.php" [R=301,L]
+RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
+RewriteRule ^www\.therms\.io$ "https\:\/\/www\.therms\.io\/" [R=301,L]
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 173.166.239.214
+
+RewriteCond %{HTTP_HOST} ^legionsecurity.us$
+RewriteRule ^(.*)$ "https\:\/\/www\.legionsecurity\.us\/$1" [R=301,L]
+

@@ -161,6 +161,39 @@
 <script src="js/tm-scripts.js"></script>
 <!-- </script> -->
 
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org/",
+    "@type": "Service",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "Armed & Unarmed Security Guard",
+      "location": {
+        "@type": "Place",
+        "geo": {
+          "@type": "GeoCircle",
+          "geoMidpoint": {
+            "@type": "GeoCoordinates",
+            "latitude": "38.589072",
+            "longitude": "-121.302728"
+          },
+          "geoRadius": "75"
+        }
+      },
+      "telephone": "+19162779006",
+    "image": "https://www.legionsecurity.us/images/logo2.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Rancho Cordova",
+      "addressRegion": "CA",
+      "postalCode": "95827",
+      "streetAddress": "3105 Fite Cir #106"
+    },
+    "priceRange": "$$"
+    },
+    "providerMobility": "dynamic"
+  }
+</script>
 
 </body>
 </html>

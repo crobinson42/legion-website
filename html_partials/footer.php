@@ -22,9 +22,9 @@
 
             <h4>Security Pros</h4>
 
-            <div class="img_flt">
+            <div class="img_flt" itemscope itemtype="http://schema.org/LocalBusiness">
               <img src="/images/flicker/1.jpg" alt="sacramento security guards">
-              <img src="/images/flicker/2.jpg" alt="citrus heights security patrol">
+              <img itemprop="logo" src="/images/flicker/2.jpg" alt="citrus heights security patrol">
               <img src="/images/flicker/4.jpg" alt="roseville patrol">
               <img src="/images/flicker/3.jpg" alt="fair oaks special events">
               <img src="/images/flicker/5.jpg" alt="west sac camera monitoring">
@@ -171,5 +171,38 @@ s0.parentNode.insertBefore(s1,s0);
 })();
 </script>
 <!--End of Tawk.to Script-->
+
+<!-- schema for local business -->
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Legion Security",
+  "description": "The best Sacramento, CA security guard and patrol service available!",
+  "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 07:00-18:00",
+  "telephone": "+19162779006",
+  "image": "https://www.legionsecurity.us/images/logo2.jpg",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Rancho Cordova",
+    "addressRegion": "CA",
+    "postalCode": "95827",
+    "streetAddress": "3105 Fite Cir #106"
+  },
+  "priceRange": "$$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "253"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "38.589072",
+    "longitude": "-121.302728"
+  },
+  "email": "mailto:info@legionsecurity.us",
+  "areaServed": "Sacramento, CA"
+}
+</script>
 
   </footer>
