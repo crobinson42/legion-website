@@ -16,7 +16,7 @@
 
   <!-- Links -->
   <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="css/search.css">
+  <link rel="stylesheet" href="css/style.css">
 
   <!--JS-->
   <script src="js/jquery.js"></script>

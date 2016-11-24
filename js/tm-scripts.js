@@ -11,11 +11,11 @@ function isIE() {
 
 /* cookie.JS
  ========================================================*/
-include('js/jquery.cookie.js');
+include('/js/jquery.cookie.js');
 
 /* Easing library
  ========================================================*/
-include('js/jquery.easing.1.3.js');
+include('/js/jquery.easing.1.3.js');
 
 
 /* Stick up menus
@@ -24,7 +24,7 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = $('html');
     if (o.hasClass('desktop')) {
-        include('js/tmstickup.js');
+        include('/js/tmstickup.js');
 
         $(document).ready(function () {
             $('#stuck_container').TMStickUp({})
@@ -38,7 +38,7 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = $('html');
     if (o.hasClass('desktop')) {
-        include('js/jquery.ui.totop.js');
+        include('/js/jquery.ui.totop.js');
 
         $(document).ready(function () {
             $().UItoTop({easingType: 'easeOutQuart'});
@@ -52,7 +52,7 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = $('[data-equal-group]');
     if (o.length > 0) {
-        include('js/jquery.equalheights.js');
+        include('/js/jquery.equalheights.js');
     }
 })(jQuery);
 
@@ -90,7 +90,7 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = $('.resp-tabs');
     if (o.length > 0) {
-        include('js/jquery.responsive.tabs.js');
+        include('/js/jquery.responsive.tabs.js');
 
         $(document).ready(function () {
             o.easyResponsiveTabs();
@@ -104,7 +104,7 @@ include('js/jquery.easing.1.3.js');
  ========================================================*/
 ;
 (function ($) {
-    include('js/jquery.rd-navbar.js');
+    include('/js/jquery.rd-navbar.js');
 })(jQuery);
 
 
@@ -116,7 +116,7 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = $('.accordion');
     if (o.length > 0) {
-        include('js/jquery.ui.accordion.min.js');
+        include('/js/jquery.ui.accordion.min.js');
 
         $(document).ready(function () {
             o.accordion({
@@ -137,7 +137,7 @@ include('js/jquery.easing.1.3.js');
     var o = document.getElementById("google-map");
     if (o) {
         include('https://maps.google.com/maps/api/js?key=' + GOOGLE_MAP_API_KEY);
-        include('js/jquery.rd-google-map.js');
+        include('/js/jquery.rd-google-map.js');
 
         $(document).ready(function () {
             var o = $('#google-map');
@@ -180,7 +180,7 @@ include('js/jquery.easing.1.3.js');
 ;(function ($) {
     var o = $('.owl-carousel');
     if (o.length > 0) {
-        include('js/owl.carousel.min.js');
+        include('/js/owl.carousel.min.js');
         $(document).ready(function () {
             o.owlCarousel({
                 margin: 30,
@@ -209,7 +209,7 @@ include('js/jquery.easing.1.3.js');
 
     if ((navigator.userAgent.toLowerCase().indexOf('msie') == -1 ) || (isIE() && isIE() > 9)) {
         if (o.hasClass('desktop')) {
-            include('js/wow.js');
+            include('/js/wow.js');
 
             $(document).ready(function () {
                 new WOW().init();
@@ -274,10 +274,10 @@ document.write('<meta name="viewport" content="width=device-width,initial-scale=
 var o = $('#camera');
     if (o.length > 0) {
         if (!(isIE() && (isIE() > 9))) {
-            include('js/jquery.mobile.customized.min.js');
+            include('/js/jquery.mobile.customized.min.js');
         }
 
-        include('js/camera.js');
+        include('/js/camera.js');
 
         $(document).ready(function () {
             o.camera({
@@ -307,7 +307,7 @@ var o = $('#camera');
 (function ($) {
     var o = $('.form-label');
     if (o.length) {
-        include('js/mailform-1/jquery.rd-input-label.js');
+        include('/js/mailform-1/jquery.rd-input-label.js');
 
         $(document).ready(function () {
             o.RDInputLabel();
@@ -333,7 +333,7 @@ var o = $('#camera');
 //(function ($) {
 //    var o = $('.form-label');
 //    if (o.length) {
-//        include('js/mailform/jquery.rd-input-label.js');
+//        include('/js/mailform/jquery.rd-input-label.js');
 //
 //        $(document).ready(function () {
 //            o.RDInputLabel();
@@ -347,8 +347,8 @@ var o = $('#camera');
 (function ($) {
     var o = $('.rd-mailform');
     if (o.length > 0) {
-        include('js/mailform-1/jquery.form.min.js');
-        include('js/mailform-1/jquery.rd-mailform.min.js');
+        include('/js/mailform-1/jquery.form.min.js');
+        include('/js/mailform-1/jquery.rd-mailform.min.js');
 
         $(document).ready(function () {
             var o = $('.rd-mailform');
@@ -400,8 +400,8 @@ var o = $('#camera');
 ;
 (function ($) {
     if($('.mailform-sub').hasClass('mailform-sub')) {
-        include('js/mailform/jquery.form.min.js');
-        include('js/mailform/jquery.rd-mailform.js');
+        include('/js/mailform/jquery.form.min.js');
+        include('/js/mailform/jquery.rd-mailform.js');
     }
 })(jQuery);
 
@@ -413,7 +413,7 @@ var o = $('#camera');
 (function ($) {
     var o = $('.search-form');
     if (o.length > 0) {
-        include('js/TMSearch.js');
+        include('/js/TMSearch.js');
     }
 })(jQuery);
 
@@ -473,9 +473,9 @@ o
 ;(function ($) {
     var o = $('.thumb');
     if (o.length > 0) {
-        include('js/jquery.fancybox.js');
-        include('js/jquery.fancybox-media.js');
-        include('js/jquery.fancybox-buttons.js');
+        include('/js/jquery.fancybox.js');
+        include('/js/jquery.fancybox-media.js');
+        include('/js/jquery.fancybox-buttons.js');
         $(document).ready(function () {
             o.fancybox();
         });
@@ -486,7 +486,7 @@ o
 // =============================================*/
 ;(function ($) {
     if($('header').hasClass('scrollto')) {
-        include('js/scrollTo.js');
+        include('/js/scrollTo.js');
     }
 })(jQuery);
 
@@ -499,7 +499,7 @@ o
 (function ($, undefined) {
     var o = $(".swiper-slider");
     if (o.length) {
-        include('js/jquery.swiper.min.js');
+        include('/js/jquery.swiper.min.js');
         function getSwiperHeight(object, attr) {
             var val = object.attr("data-" + attr),
                 dim;
@@ -667,7 +667,7 @@ o
  */
 ;
 (function ($) {
-    include('js/countdown.js');
+    include('/js/countdown.js');
     var o = $('.countdown'),
         type = o.attr('data-type'),
         time = o.attr('data-time'),
@@ -696,5 +696,5 @@ o
 /* Parallax
 =============================================*/
 ;(function ($) {
-    include('js/jquery.rd-parallax.js');
+    include('/js/jquery.rd-parallax.js');
 })(jQuery);

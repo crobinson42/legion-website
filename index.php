@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Cache-control" content="public">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="Sacramento security patrol and guard services ready to work for you! Read our reviews and see why our customers are happy with us!"/>
@@ -12,34 +13,18 @@
   <link rel="icon" href="images/favicon_green.ico" type="image/x-icon">
   <title>Sacramento Security Company - Legion Security</title>
 
-  <meta name="Robots" content="index, follow">
-
-  <!-- Bootstrap -->
+  <!-- Styles -->
   <link href="css/bootstrap.css" rel="stylesheet">
-
-  <!-- Links -->
   <link rel="stylesheet" href="css/camera.css">
   <link rel="stylesheet" href="css/google-map.css">
   <link rel="stylesheet" href="css/mailform-sub.css">
-  <link rel="stylesheet" href="css/search.css">
+  <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/style.css">
 
   <!--JS-->
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
 
-  <!-- dev -->
-  <!-- <script src="http://localhost:35729/livereload.js"></script> -->
-
-  <!--[if lt IE 9]>
-  <div style=' clear: both; text-align:center; position: relative;'>
-    <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
-      <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
-           alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
-    </a>
-  </div>
-  <script src="js/html5shiv.js"></script>
-  <![endif]-->
   <script src='js/device.min.js'></script>
 </head>
 <body>
@@ -173,9 +158,9 @@
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".7s">
             <a href="/security-patrol-sacramento">
             <img src="images/car-icon.png" alt="Security Patrol Services in Sacramento, CA. Courtesy Patrol & Mobile Patrol 24hrs - we're there when you need us!"/>
-            <h5 class="ins_r">
+            <h2 class="ins_r h2-override">
               Vehicle Patrol Service
-            </h5>
+            </h2>
 
             <p class="txt-light">
               Our patrols are highly visible, intelligence led and an effective means of deterring potential threats to your infrastructure and assets. Our professional, uniformed patrol officers utilize marked security patrol cars that are well equipped to respond to any emergency and present a strong deterrent to criminal activities.
@@ -186,9 +171,9 @@
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".9s">
             <a href="/security-guard-company-sacramento">
             <img src="images/security-guard.png" alt="Sacramento Security Guard Service - Armed & Unarmed"/>
-            <h5 class="ins_r">
+            <h2 class="ins_r h2-override">
               Armed / Unarmed Guard
-            </h5>
+            </h2>
 
             <p class="txt-light">
               Legion Security provides uniformed guards, armed or unarmed. Our uniformed
@@ -201,9 +186,9 @@
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".5s">
             <a href="/camera-monitoring-service">
             <img src="images/security-camera.png" alt="Camera Monitoring with Security Vehicle Response"/>
-            <h5 class="ins_r">
+            <h2 class="ins_r h2-override">
               Facility Access & Camera Montioring
-            </h5>
+            </h2>
 
             <p class="txt-light">
               A property is not protected by just having a camera system installed and recording.
@@ -215,9 +200,9 @@
           <div class="col-md-3 col-sm-6 col-xs-6 wow fadeInLeft hover-yellow" data-wow-delay=".3s">
             <a href="/special-event-security-guards">
             <img src="images/vip-pass.png" alt="Special Event Security & Staff"/>
-            <h5 class="ins_r">
+            <h2 class="ins_r h2-override">
               Special Event & VIP Escort
-            </h5>
+            </h2>
 
             <p class="txt-light">
               100 - 10,000 person event? We have the security team that will keep

@@ -1,5 +1,10 @@
 <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
-  <li class="active dropdown">
+  <li class="visible-xs visible-sm dropdown">
+    <a href="/dispatch">
+      <i class="fa fa-comments"></i> <strong>Dispatch Portal</strong>
+    </a>
+  </li>
+  <li class="dropdown">
     <a href="/">Home</a>
     <ul class="dropdown-menu">
       <li><a href="/index#services">Services</a></li>

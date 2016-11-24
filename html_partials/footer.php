@@ -8,7 +8,7 @@
         <div class="row">
           <div class="col-md-3 col-sm-6 col-xs-12">
 
-            <h4>about us</h4>
+            <h4><i class="fa fa-address-book-o"></i> About us</h4>
 
             <p class="big">
               We provide security guard, patrol, & camera monitoring services for a wide variety of
@@ -30,11 +30,30 @@
               <img src="/images/flicker/5.jpg" alt="west sac camera monitoring">
               <img src="/images/flicker/6.jpg" alt="folsom courtesy patrol">
             </div>
+
+            <br>
+
+            <p>
+              We proudly support the best security guard reporting app
+              <a href="www.therms.io">www.therms.io</a> and our clients love it!
+            </p>
           </div>
 
           <div class="col-md-3 col-sm-6 col-xs-12 clear-md">
 
-            <h4>Contact us</h4>
+            <h4><i class="fa fa-map-signs"></i> Service Areas</h4>
+
+            <ul>
+              <li><a href="/city/sacramento-security-services">Sacramento, CA</a></li>
+              <li><a href="/city/elk-grove-security-services">Elk Grove, CA</a></li>
+              <li><a href="/city/rancho-cordova-security-services">Rancho Cordova, CA</a></li>
+              <li><a href="/city/west-sacramento-security-services">West Sacramento, CA</a></li>
+              <li><a href="/city/citrus-heights-security-services">Citrus Heights, CA</a></li>
+              <li><a href="/city/roseville-security-services">Roseville, CA</a></li>
+              <li><a href="/city/folsom-security-services">Folsom, CA</a></li>
+            </ul>
+
+            <h4>Headquarters</h4>
 
             <address class="contact-info">
               <p class="fw-b big">
@@ -43,15 +62,16 @@
               </p>
 
               <div class="terms-list-1">
-                <dl>
-                  <dt>Telephone:</dt>
-                  <dd><a href="callto:9162779006">916 277 9006</a>
-                  </dd>
-                </dl>
-                <dl>
-                  <dt>E-mail:</dt>
-                  <dd><a href="mailto:#">info@legionsecurity.us</a></dd>
-                </dl>
+                <ul>
+                  <li>
+                    <i class="fa fa-phone-square"></i> <a href="callto:9162779006">916 277 9006</a>
+                  </li>
+                </ul>
+                <ul>
+                  <li>
+                    <i class="fa fa-envelope"></i> <a href="mailto:#">info@legionsecurity.us</a>
+                  </li>
+                </ul>
               </div>
 
               <p>
@@ -62,6 +82,18 @@
 
 
           <div class="col-md-3 col-sm-6 col-xs-12">
+            <h4><i class="fa fa-volume-control-phone" aria-hidden="true"></i> Dispatch Portal</h4>
+              <a href="/dispatch">
+                <button class="btn btn-default btn-xs">
+                  Dispatch & Service Portal
+                </button>
+              <br />
+              www.legionsecurity.us/dispatch
+              </a>
+
+            <br>
+            <br>
+
             <h4>
               Employment
             </h4>
@@ -121,7 +153,7 @@
     </section>
 
     <section>
-      <div class="text-muted">
+      <div class="text-muted pull-right clearfix">
         <em>Copyright © 2016</em>
       </div>
     </section>

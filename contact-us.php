@@ -19,7 +19,7 @@
   <link rel="stylesheet" href="css/mailform-sub.css">
   <link rel="stylesheet" href="css/material-design.css"/>
   <link rel="stylesheet" href="css/google-map.css">
-  <link rel="stylesheet" href="css/search.css">
+  <link rel="stylesheet" href="css/style.css">
 
   <!--JS-->
   <script src="js/jquery.js"></script>
@@ -134,6 +134,14 @@
               </ul>
               <p>
                 <h6>Sacramento Dispatch</h6>
+                <a href="/dispatch">
+                  <button class="btn btn-primary btn-xs">
+                    Dispatch & Service Portal
+                  </button>
+                <br />
+                www.legionsecurity.us/dispatch
+                </a>
+                <br />
                 <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9165502746">916-550-2746</a>
                 <br>
                 <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:dispatch@legionsecurity.us">dispatch@legionsecurity.us</a>
@@ -262,6 +270,27 @@
           </a>
         </div>
 
+      </div>
+
+      <br><br>
+
+      <div class="row text-center">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <h5>Do We Already Work For You?</h5>
+              <p>
+                We'd love for you to paste this code snippet on your website or blog
+                that will help share our dispatch portal and information to your customers
+                and residents!
+              </p>
+
+              <p>
+                Click here: <span class="text-primary"><a href="/legion-client-badge.php"><i class="fa fa-code"></i> HTML Legion Badge</a></span>
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 

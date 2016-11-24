@@ -1,4 +1,4 @@
-@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700italic,700);
 @import "animate.css";
 @media (min-width: 768px) {
@@ -11,6 +11,44 @@
 
 
 /* Legion Specific Styles */
+
+ul.decorate {
+  display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+ul.decorate > li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  list-style: circle;
+}
+
+p {
+  margin-top: 10px;
+}
+
+/*
+  Custom h2 style
+ */
+h2.h2-override {
+  font-size: 24px;
+  line-height: 1.25;
+  color: #454444;
+  text-transform: uppercase;
+  letter-spacing: 0.24px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #333333;
+  margin: 0;
+}
+
+img + .h2-override {
+  margin-top: 25px;
+}
 
 .legion-text-alternate{
   color: #00591B !important;
