@@ -245,6 +245,7 @@ window.onload = function() {
 <!-- Place this tag in your head or just before your close body tag. -->
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 
+<?php include dirname(__FILE__) . '/html_partials/google_analytics.php'; ?>
 
 </body>
 </html>
