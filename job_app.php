@@ -14,7 +14,7 @@
 	<link href="css/slick.css" rel="stylesheet" type="text/css">
 	<link href="css/font-awesome.min.css" rel="stylesheet">
 	<link href="css/bootstrap.css" rel="stylesheet">
-	<link href="practice.css" rel="stylesheet" type="text/css">
+	<link href="job_app.css" rel="stylesheet" type="text/css">
 </head>
 <body class="fuelux">
 	<header class="head-2">
@@ -24,7 +24,7 @@
 	</header>
 	<section class="row">
 		<div class="navbar-brand" style="font-size:250%;">
-			<a data-type='rd-navbar-brand' href="./" style="color:#00591B;"><img alt="Legion Security Logo" src="images/roman-helmet%20yellow%2032px.png" style="padding-bottom: 12px;"> Legion<span>Security</span></a>
+			<a data-type='rd-navbar-brand' href="./" style="color:#00591B;"><img alt="Legion Security Logo" src="images/roman-helmet%20yellow%2032px.png" style="padding-bottom: 12px; "> Legion<span>Security</span></a>
 		</div>
 		<ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
 			<li class="dropdown">
@@ -223,51 +223,9 @@
 </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.js"></script>
 <script type="text/javascript" src="js/slick.js"></script>
-<script type="text/javascript" src="practice.js"></script>
+<script type="text/javascript" src="job_app.js"></script>
 
 </body>
 </html>

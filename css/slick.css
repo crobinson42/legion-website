@@ -115,7 +115,3 @@
 .slick-arrow.slick-hidden {
     display: none;
 }
-
-button.slider-demo.slick-previous.slick-arrow::before {
-    background-color: purple;
-}
