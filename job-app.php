@@ -21,7 +21,7 @@
 <script src="js/jquery-migrate-1.2.1.min.js"></script>
 <script src="js/rd-smoothscroll.min.js"></script>
 <script src='js/device.min.js'></script>  -->
-<link rel="stylesheet" href="job-app.css"> 
+<link rel="stylesheet" href="job_app.css"> 
 
 
 
@@ -386,7 +386,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 <script src="https://www.fuelcdn.com/fuelux/3.13.0/js/fuelux.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-<script src='job-app.js'></script> 
+<script src='job_app.js'></script> 
 
 
 
