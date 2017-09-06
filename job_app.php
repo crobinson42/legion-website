@@ -19,12 +19,13 @@
 <body class="fuelux">
 	<header class="head-2">
 		<div class="stuck_container" id="stuck_container">
-			<?php include dirname(__FILE__) . '/header_nav_menu_green.php'; ?><?php include dirname(__FILE__) . '/header_nav_login.php'; ?>
+			<?php include dirname(__FILE__) . '/header_nav_menu_green.php'; ?>
+			<?php include dirname(__FILE__) . '/header_nav_login.php'; ?>
 		</div>
 	</header>
 	<section class="row">
 		<div class="navbar-brand" style="font-size:250%;">
-			<a data-type='rd-navbar-brand' href="./" style="color:#00591B;"><img alt="Legion Security Logo" src="images/roman-helmet%20yellow%2032px.png" style="padding-bottom: 12px; "> Legion<span>Security</span></a>
+			<a data-type='rd-navbar-brand' href="./" style="color:#00591B;"><img alt="Legion Security Logo" src="images/roman-helmet%20yellow%2032px.png" style="padding-bottom: 12px; padding-left: 30px; padding-top: 12px;"> Legion<span>Security</span></a>
 		</div>
 		<ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
 			<li class="dropdown">

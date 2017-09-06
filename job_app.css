@@ -6,6 +6,10 @@ body {
 	outline: none !important;
 }
 
+ul .navbar-nav .sf-menu .navbar-right {
+	margin-top: -15px;
+}
+
 .title h3 {
 	color: white;
 	background-color: #efb814;
