@@ -15,16 +15,29 @@ IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
 # disable the server signature- helps with preformance
 ServerSignature Off
 
+RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
+RewriteRule ^hiring$ "https\:\/\/www\.legionsecurity\.us\/employment\-with\-legion\-security\.php" [R=301]
+RewriteRule ^patrol$ "https\:\/\/legionsecurity\.us\/service\-vehicle\-patrol\.php" [R=301,L]
+RewriteRule ^guard$ "https\:\/\/legionsecurity\.us\/service\-security\-guard\.php" [R=301,L]
+RewriteRule ^quote$ "https\:\/\/legionsecurity\.us\/contact\-us\.php" [R=301,L]
+RewriteRule ^www\.therms\.io$ "https\:\/\/www\.therms\.io\/" [R=301,L]
+
 # since it's out of fashion to use www- redirect URLs to non-www
 Options +FollowSymLinks
 RewriteEngine On
 RewriteBase /
 # keep the URLs clean:
 # if someone asks for index.php- rewrite the URL without it
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(.*?)/?index\.php$ $1 [NC,R=301,L]
 # allow now .php extensions in urls
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
 
 <IfModule mod_expires.c>
 # Enable expirations
@@ -64,26 +77,9 @@ ExpiresByType text/css "access plus 1 month"
 Header set X-XSS-Protection "1; mode=block"
 </IfModule>
 RewriteCond %{SERVER_PORT} 80
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
 RewriteRule ^(.*)$ https://www.legionsecurity.us/$1 [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
-RewriteRule ^patrol$ "https\:\/\/legionsecurity\.us\/service\-vehicle\-patrol\.php" [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
-RewriteRule ^guard$ "https\:\/\/legionsecurity\.us\/service\-security\-guard\.php" [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
-RewriteRule ^quote$ "https\:\/\/legionsecurity\.us\/contact\-us\.php" [R=301,L]
-
-RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
-RewriteRule ^services$ "https\:\/\/legionsecurity\.us\/services\.php" [R=301,L]
-RewriteCond %{HTTP_HOST} ^legionsecurity\.us$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.legionsecurity\.us$
-RewriteRule ^www\.therms\.io$ "https\:\/\/www\.therms\.io\/" [R=301,L]
 
 <Files 403.shtml>
 order allow,deny
@@ -91,7 +87,3 @@ allow from all
 </Files>
 
 deny from 173.166.239.214
-
-RewriteCond %{HTTP_HOST} ^legionsecurity.us$
-RewriteRule ^(.*)$ "https\:\/\/www\.legionsecurity\.us\/$1" [R=301,L]
-
