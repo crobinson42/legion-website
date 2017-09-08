@@ -6,22 +6,24 @@
 	<meta content="width=device-width, initial-scale=1" name="viewport"><!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 	<meta content="telephone=yes" name="format-detection">
 	<link href="images/favicon.ico" rel="icon" type="image/x-icon">
-	<title>Job Application</title><!-- ====== CSS ====== -->
-	<!-- <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet"> -->
-	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+	<title>Job Application</title>
+
+	<!-- ====== CSS ====== -->
+	
+	
 	<link href="https://www.fuelcdn.com/fuelux/3.13.0/css/fuelux.min.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">	
-	<link href="css/font-awesome.min.css" rel="stylesheet">
-	<!-- <link href="css/bootstrap.css" rel="stylesheet"> -->
-	<!-- todo: move file and rename -->
+	<link href="css/font-awesome.min.css" rel="stylesheet">		
+	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">	
 	<link rel="stylesheet" type="text/css" href="css/job-app.css">
+	
 </head>
 <body class="fuelux">
 
 <div class="wizard" data-initialize="wizard" id="myWizard">
 	<div class="steps-container">
 		<ul class="steps">
-			<li data-step="1" class="active">
+			<li data-step="1" data-name="name-field" class="active">
 				<span class="badge">1</span>
 				<span class="chevron"></span>
 			</li>
@@ -97,11 +99,11 @@
 		<div class="step-pane active sample-pane inline" data-step="1">
 			<label>First Name</label>
 			<p>    	
-			<input type="text" class="form-control names first" placeholder="first name" name="first">
+			<input type="text" class="form-control names first first-name" placeholder="first name" name="first">
 			</p>
 			<label>Last Name</label>
 			<p>
-			<input type="text" class="form-control names last" placeholder="last name" name="last">
+			<input type="text" class="form-control names last last-name" placeholder="last name" name="last">
 
 			</p>
 		</div>
@@ -110,14 +112,15 @@
 		<div class="step-pane sample-pane" data-step="2">
 			<label>Email</label>		
 			<p>		    	
-			<input type="text" class="form-control email" placeholder="email" name="email">			  	
+			<input type="text" class="form-control email email-field" placeholder="email" name="email">	
+
 			</p>
 		</div>
 
 		<div class="step-pane sample-pane" data-step="3">	
 			<label>Phone number</label>
 			<p>		
-			<input type="phone" class="form-control email" placeholder="phone number" name="phone">
+			<input type="phone" class="form-control phone phone-field" placeholder="phone number" name="phone">
 
 			</p>
 		</div>
@@ -145,7 +148,7 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="yes" name="firearm">
+			    <input class="sr-only yes" type="checkbox" value="yes" name="firearm">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>

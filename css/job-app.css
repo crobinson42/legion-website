@@ -1,10 +1,14 @@
 body {
 	font-family: 'Open sans', sans-serif;
-	outline: none;
+	outline: 0;
+	border: none;	
 }
 
 .first-button {
 	display: none;
 }
+
+
+
 
 
