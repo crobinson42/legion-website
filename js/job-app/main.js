@@ -1,19 +1,15 @@
-$(document).ready(function() {
+$(document).ready(function() {	
 
-const buttonText = document.querySelector('.btn-prev').innerHTML;
+	const nextButton = document.querySelector('.btn-next');
+	const prevButton = document.querySelector('.btn-prev');
+	
+      const changeButton = () => {
 
+	  	prevButton.classList.remove('first-button');
+	  	
+     }
 
-
-
-
-
-
-
-
-
-
-
+nextButton.addEventListener('click', changeButton);    
+});
 
 
-
-})

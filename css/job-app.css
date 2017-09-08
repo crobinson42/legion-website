@@ -1,4 +1,10 @@
 body {
 	font-family: 'Open sans', sans-serif;
+	outline: none;
 }
+
+.first-button {
+	display: none;
+}
+
 

@@ -92,24 +92,34 @@
 		</button>
 	</div>
 
-	<div class="step-content">
-		<div class="step-pane active sample-pane" data-step="1">			
-			<p>		    	
-			<input type="text" class="form-control names" placeholder="first name">
+	<form>
+	<div class="step-content">	 
+		<div class="step-pane active sample-pane inline" data-step="1">
+			<label>First Name</label>
+			<p>    	
+			<input type="text" class="form-control names first" placeholder="first name" name="first">
 			</p>
+			<label>Last Name</label>
 			<p>
-			<input type="text" class="form-control names" placeholder="last name">			  	
+			<input type="text" class="form-control names last" placeholder="last name" name="last">
+
 			</p>
 		</div>
+	
 
-		<div class="step-pane sample-pane" data-step="2">		
+		<div class="step-pane sample-pane" data-step="2">
+			<label>Email</label>		
 			<p>		    	
-			<input type="text" class="form-control" placeholder="email">			  	
+			<input type="text" class="form-control email" placeholder="email" name="email">			  	
 			</p>
 		</div>
 
-		<div class="step-pane sample-pane" data-step="3">			
-			<input type="phone" class="form-control" placeholder="phone number">
+		<div class="step-pane sample-pane" data-step="3">	
+			<label>Phone number</label>
+			<p>		
+			<input type="phone" class="form-control email" placeholder="phone number" name="phone">
+
+			</p>
 		</div>
 
 		<div class="step-pane sample-pane" data-step="4">
@@ -117,14 +127,14 @@
 			</p>			
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="guard">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -135,7 +145,7 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="firearm">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
@@ -143,7 +153,7 @@
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -154,14 +164,14 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="driversLicense">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 		    </div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="driversLicense">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -172,14 +182,14 @@
 				</p>
 				<div class="checkbox" id="myCheckbox">
 				  <label class="checkbox-custom" data-initialize="checkbox">
-				    <input class="sr-only" type="checkbox" value="">
+				    <input class="sr-only" type="checkbox" value="yes" name="highSchool">
 				    <span class="checkbox-label">Yes</span>
 				  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="highSchool">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -190,14 +200,14 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="college">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="college">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -208,14 +218,14 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="fired">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="fired">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -224,34 +234,37 @@
 		<div class="step-pane sample-pane" data-step="10">
 			<p>How many times have you called in sick to work in the last two years?
 			</p>
-			<div class="checkbox" id="myCheckbox">
-			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
-			    <span class="checkbox-label">Yes</span>
-			  </label>
+		<div class="btn-group selectlist" data-resize="auto" data-initialize="selectlist" id="mySelectlist">
+			  <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+			    <span class="selected-label">&nbsp;</span>
+			    <span class="caret"></span>
+			    <span class="sr-only">Toggle Dropdown</span>
+			  </button>
+			  <ul class="dropdown-menu" role="menu">
+			    <li data-value="1"><a href="#">1</a></li>
+			    <li data-value="2"><a href="#">2</a></li>
+			    <li data-value="3"><a href="#">3</a></li>
+			    <li data-value="4"><a href="#">4</a></li>
+			    <li data-value="5+"><a href="#">5+</a></li>	    
+			  </ul>
+			  	<input class="hidden hidden-field" name="sickDays" readonly="readonly" aria-hidden="true" type="text"/>
+			</div>
 			</div>
 
-			<div class="checkbox" id="myCheckbox2">
-			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
-			    <span class="checkbox-label">No</span>
-			  </label>
-			</div>
-		</div>
 
 		<div class="step-pane sample-pane" data-step="11">
 			<p>Can you stand and walk during a shift for up to 10 hours?
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="fitness">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="fitness">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -262,14 +275,14 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="shiftsTenHour">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="shiftsTenHour">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -280,14 +293,14 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="overtime">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="overtime">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -299,14 +312,14 @@
 			</p>
 			<div class="checkbox" id="myCheckbox">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="yes" name="nights">
 			    <span class="checkbox-label">Yes</span>
 			  </label>
 			</div>
 
 			<div class="checkbox" id="myCheckbox2">
 			  <label class="checkbox-custom" data-initialize="checkbox">
-			    <input class="sr-only" type="checkbox" value="">
+			    <input class="sr-only" type="checkbox" value="no" name="nights">
 			    <span class="checkbox-label">No</span>
 			  </label>
 			</div>
@@ -315,10 +328,11 @@
 		<div class="step-pane sample-pane" data-step="15">		
 			<p>Pick one word that describes your personality.
 			</p>    	
-			<input type="text" class="form-control" placeholder="">	 	
+			<input type="text" class="form-control" placeholder="" name="personality">	 	
 		</div>
 	</div>
 	</div>
+	</form>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
