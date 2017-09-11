@@ -281,7 +281,10 @@
               </p>
               <br/>
               <p>
-                If you can meet these requirements, please email your resume and two [2] employment references to <a href="mailto:employment@legionsecurity.us">employment@legionsecurity.us</a>
+                If you can meet these requirements, please email your resume and two [2] employment references to <a href="mailto:employment@legionsecurity.us">employment@legionsecurity.us</a> and complete the following questionnaire.
+                <button class="job-questionnaire"><a href="/job-app-sacramento-security-guard.php"></a>
+                  Questionnaire
+                </button>
               </p>
 
               <br>

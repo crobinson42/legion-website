@@ -1,0 +1,185 @@
+body {
+	font-family: 'Open sans', sans-serif;
+	outline: none;		
+}
+
+#bootstrap-overrides .radio-text {
+	text-align: center;
+	font-size: 130%;
+	margin-top: 6em;
+}
+
+#bootstrap-overrides {
+	outline: 0;
+}
+
+.title {
+	height: 70px;	
+	background: #efb814;
+	color: white;
+	width: 100%;	
+	padding-bottom: 0;
+	font-size: 170%;
+	text-align: center;
+	padding-top: 0.70em;
+	margin-bottom: 0;
+}
+
+.wizard {	
+	width: 55%;
+	height: 500px;
+	margin: 20em auto 0 auto;	
+	padding-top: 0;
+}
+
+.fuelux .wizard>.actions {
+	background-color: #efb814;
+}
+
+.radio, .radio-checked {
+	text-align: center;
+	font-size: 130%;
+	margin-top: 2em;
+}
+
+div#myWizard.wizard {
+	background-color: white;
+	border-right: 1px solid #efb814;
+	border-left: 1px solid #efb814;
+	border-bottom: 1px solid #efb814;	
+}
+
+.first-button {
+	display: none;
+}
+
+.step-content {
+	background-color: white;
+	margin: 0 auto;
+}
+
+label.col-md-2 {
+	margin-bottom: 1em;
+}
+
+.first-label, .second-label {
+	margin-top: 4em;
+	width: 100%;
+	font-size: 130%;
+}
+
+.second-label {
+	margin-top: 2em;
+}
+
+label {
+	font-weight: normal;	
+}
+
+.email-label, .phone-label {
+	margin-top: 6em;
+	margin-bottom: 1.5em;
+}
+
+input.first, input.last {
+	width: 48%;
+	margin: 0 auto;
+}
+
+input {
+	width: 48%;
+}
+
+.wizard .step-content. .step-pane p {
+	margin-top: 2em;
+}
+
+.fuelux.wizard ul {
+	background-color: #efb814;
+}
+
+p.personality {
+	margin-top: 7em;
+	margin-bottom: 2em;
+	text-align: center;
+	font-size: 130%;
+}
+
+#first-slide {
+	background-color: white;
+	color: #00591b;
+}
+
+.actions button {
+	margin-top: 1.25em;
+}
+
+span.badge.badge-info {
+	background-color: #efb814;
+}
+
+.fuelux .wizard > ul.steps li.active,
+.fuelux .wizard > .steps-container > ul.steps li.active {
+  background: #efb814;
+  color: #00591b;
+  cursor: default;
+}
+
+.fuelux .wizard>ul.steps li.active .badge, .fuelux .wizard>.steps-container>ul.steps li.active .badge {
+	color: #00591b;
+}
+
+.fuelux .wizard>ul.steps li.complete, .fuelux .wizard>.steps-container>ul.steps li.complete {
+    background: white;
+    color: #468847;
+}
+
+.fuelux .wizard > ul.steps li.active .chevron:before,
+.fuelux .wizard > .steps-container > ul.steps li.active .chevron:before {
+  border-left: 14px solid #efb814;
+}
+
+.fuelux .wizard > ul.steps li .badge-success,
+.fuelux .wizard > .steps-container > ul.steps li .badge-success {
+  background-color: #efb814;
+  }
+
+.fuelux .wizard>ul.steps li.active .badge, .fuelux .wizard>.steps-container>ul.steps li.active .badge {
+    background-color: white;
+    color: black;
+}
+
+.fuelux .wizard > ul.steps li.complete .chevron:before,
+.fuelux .wizard > .steps-container > ul.steps li.complete .chevron:before {
+  border-left: 14px solid white;
+}
+
+.select {
+	width: 8%;
+	margin: 3em auto 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

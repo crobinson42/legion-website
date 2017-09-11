@@ -1,12 +1,136 @@
 body {
 	font-family: 'Open sans', sans-serif;
-	outline: 0;
-	border: none;	
+	outline: none;		
+}
+
+
+#bootstrap-overrides .radio-text {
+	text-align: center;
+	font-size: 130%;
+	margin-top: 8em;
+}
+
+.wizard {	
+	width: 55%;
+	height: 500px;
+	margin: 20em auto 0 auto;	
+}
+
+
+.radio, .radio-checked {
+	text-align: center;
+	font-size: 130%;
+	margin-top: 2em;
+}
+
+div#myWizard.wizard {
+	background-color: white;
 }
 
 .first-button {
 	display: none;
 }
+
+.step-content {
+	background-color: white;
+	margin: 0 auto;
+}
+
+label.col-md-2 {
+	margin-bottom: 1em;
+}
+
+.first-label, .second-label {
+	margin-top: 8.5em;
+	width: 100%;
+}
+
+.second-label {
+	margin-top: 2em;
+}
+
+input.first, input.last {
+	width: 48%;
+	margin: 0 auto;
+}
+
+input {
+	width: 48%;
+
+}
+
+input:focus, input:active {
+	outline: none;
+}
+
+.wizard .step-content. .step-pane p {
+	margin-top: 3em;
+}
+
+.fuelux.wizard ul {
+	background-color: #efb814;
+}
+
+p.personality {
+	margin-bottom: 1.5em;
+}
+
+#first-slide {
+	background-color: #efb814;
+}
+
+ul .steps li .active {
+	background-color: purple;
+}
+
+span.badge.badge-info {
+	background-color: #efb814;
+}
+
+.fuelux .wizard > ul.steps li.active,
+.fuelux .wizard > .steps-container > ul.steps li.active {
+  background: #efb814;
+  color: black;
+  cursor: default;
+}
+
+.fuelux .wizard > ul.steps li.active .chevron:before,
+.fuelux .wizard > .steps-container > ul.steps li.active .chevron:before {
+  border-left: 14px solid #efb814;
+}
+
+#my-badge .fuelux.wizard ul.steps li.active .badge { 
+	color: #efb814;
+}
+
+input:focus {
+	box-shadow: none;
+}
+
+.select {
+	width: 8%;
+	margin: 3em auto 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
