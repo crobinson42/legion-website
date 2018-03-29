@@ -22,7 +22,7 @@
     <script src="/js/jquery.js"></script>
     <script src="/js/jquery-migrate-1.2.1.min.js"></script>
     <script src="/js/rd-smoothscroll.min.js"></script>
-    <script src='js/device.min.js'></script>
+    <script src='/js/device.min.js'></script>
 
 </head>
 

@@ -25,7 +25,7 @@
   <script src="js/jquery.js"></script>
   <script src="js/jquery-migrate-1.2.1.min.js"></script>
 
-  <script src='js/device.min.js'></script>
+  <script src='/js/device.min.js'></script>
 </head>
 <body>
 <div class="page">
@@ -237,7 +237,7 @@
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
-              57
+              74
             </em>
 
             <p>
@@ -247,7 +247,7 @@
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
-              26
+              33
             </em>
 
             <p>
@@ -257,7 +257,7 @@
           <div class="col-md-3 col-sm-3 col-xs-6">
 
             <em>
-              8
+              12
             </em>
 
             <p>

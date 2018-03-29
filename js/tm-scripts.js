@@ -77,7 +77,7 @@ include('/js/jquery.easing.1.3.js');
 	document.write('<script src="js/' + url + '"></script>');
 	return false;
 }
-	include('superfish.js');
+	include('/superfish.js');
 	jQuery(function () {
 })
 })(jQuery);

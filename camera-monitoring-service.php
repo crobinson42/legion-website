@@ -34,7 +34,7 @@
   </div>
   <script src="js/html5shiv.js"></script>
   <![endif]-->
-  <script src='js/device.min.js'></script>
+  <script src='/js/device.min.js'></script>
 </head>
 <body>
 <div class="page">
