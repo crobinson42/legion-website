@@ -74,10 +74,10 @@ include('/js/jquery.easing.1.3.js');
 ;
 (function ($) {
     function include(url) {
-	document.write('<script src="js/' + url + '"></script>');
+	document.write('<script src="/js/' + url + '"></script>');
 	return false;
 }
-	include('/superfish.js');
+	include('superfish.js');
 	jQuery(function () {
 })
 })(jQuery);
