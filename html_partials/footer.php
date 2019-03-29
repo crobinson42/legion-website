@@ -84,17 +84,17 @@
 
 
           <div class="col-md-3 col-sm-6 col-xs-12">
-            <h4><i class="fa fa-volume-control-phone" aria-hidden="true"></i> Dispatch Portal</h4>
-              <a href="/dispatch">
-                <button class="btn btn-default btn-xs">
-                  Dispatch & Service Portal
-                </button>
-              <br />
-              www.legionsecurity.us/dispatch
-              </a>
-
-            <br>
-            <br>
+<!--            <h4><i class="fa fa-volume-control-phone" aria-hidden="true"></i> Dispatch Portal</h4>-->
+<!--              <a href="/dispatch">-->
+<!--                <button class="btn btn-default btn-xs">-->
+<!--                  Dispatch & Service Portal-->
+<!--                </button>-->
+<!--              <br />-->
+<!--              www.legionsecurity.us/dispatch-->
+<!--              </a>-->
+<!---->
+<!--            <br>-->
+<!--            <br>-->
 
             <h4>
               Employment
