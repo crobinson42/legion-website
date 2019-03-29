@@ -4,7 +4,6 @@ logs
 npm-debug.log*
 
 # IDE
-.idea/
 
 # Runtime data
 pids

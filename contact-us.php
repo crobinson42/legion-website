@@ -109,12 +109,12 @@
                 <li>Patrol Vehicles & Fleet</li>
               </ul>
               <p>
-                <h6>William "Bill" Preston</h6>
+                <h6>Edward "Ed" Grant</h6>
                 Chief Operations Officer
                 <br>
                 <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9162050026">916-205-0026</a>
                 <br>
-                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:william.preston@legionsecurity.us">william.preston@legionsecurity.us</a>
+                <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:e.grant@legionsecurity.us">e.grant@legionsecurity.us</a>
               </p>
             </div>
           </div>
@@ -134,14 +134,13 @@
               </ul>
               <p>
                 <h6>Sacramento Dispatch</h6>
-                <a href="/dispatch">
-                  <button class="btn btn-primary btn-xs">
-                    Dispatch & Service Portal
-                  </button>
-                <br />
-                www.legionsecurity.us/dispatch
-                </a>
-                <br />
+<!--                <a href="/dispatch">-->
+<!--                  <button class="btn btn-primary btn-xs">-->
+<!--                    Dispatch & Service Portal-->
+<!--                  </button>-->
+<!--                <br />-->
+<!--                www.legionsecurity.us/dispatch-->
+<!--                </a>-->
                 <i class="fa fa-phone" aria-hidden="true"></i> <a href="callto:9165502746">916-550-2746</a>
                 <br>
                 <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:dispatch@legionsecurity.us">dispatch@legionsecurity.us</a>
@@ -151,7 +150,6 @@
         </div>
       </div>
     </section>
-
 
     <section class="well well7">
       <div class="container">
